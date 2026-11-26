@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAQ &amp; Pengumuman - Zeus2010</title>
+  <meta name="description" content="Informasi umum, panduan transaksi, withdraw, dan keamanan akun Zeus2010.">
+  <link rel="canonical" href="https://ketentuandanfaqpermainan.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="FAQ &amp; Pengumuman - Zeus2010">
+  <meta property="og:description" content="Informasi umum, panduan transaksi, withdraw, dan keamanan akun Zeus2010.">
+  <meta property="og:url" content="https://ketentuandanfaqpermainan.com/">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    body {
+      min-height: 100vh;
+      background-color: #0e1015;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .modal-container {
+      background-color: #171921;
+      border: 1px solid #2a2d3a;
+      border-radius: 12px;
+      width: 100%;
+      max-width: 750px;
+      min-height: 600px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-header {
+      background-color: #21242e;
+      padding: 18px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #2c303d;
+    }
+
+    .header-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      color: #8b92a5;
+      font-size: 20px;
+      cursor: pointer;
+      transition: color 0.2s;
+    }
+
+    .close-btn:hover {
+      color: #ffffff;
+    }
+
+    .accordion-list {
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .accordion-item {
+      background-color: #20232d;
+      border: 1px solid #2e3240;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .accordion-item:hover {
+      border-color: #42475a;
+    }
+
+    .accordion-btn {
+      width: 100%;
+      background: none;
+      border: none;
+      padding: 16px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      text-align: left;
+      cursor: pointer;
+      color: #ffffff;
+      gap: 12px;
+    }
+
+    .btn-left {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background-color: #2c303d;
+      color: #a0a8bd;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 4px;
+      width: fit-content;
+    }
+
+    .question-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: #f1f3f8;
+      line-height: 1.4;
+    }
+
+    .arrow-icon {
+      color: #8b92a5;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .accordion-item.active .arrow-icon {
+      transform: rotate(180deg);
+    }
+
+    .accordion-content {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease, padding 0.3s ease;
+      background-color: #1b1e26;
+      color: #b4bccf;
+      font-size: 13.5px;
+      line-height: 1.6;
+      padding: 0 20px;
+    }
+
+    .accordion-item.active .accordion-content {
+      max-height: 400px;
+      padding: 16px 20px;
+      border-top: 1px solid #2a2e3b;
+    }
+
+    .accordion-content ol {
+      padding-left: 20px;
+      margin: 0;
+    }
+
+    .accordion-content li {
+      margin-bottom: 4px;
+    }
+
+    @media (max-width: 480px) {
+      body {
+        padding: 12px;
+      }
+
+      .modal-container {
+        min-height: 0;
+      }
+
+      .modal-header {
+        padding: 16px;
+      }
+
+      .accordion-list {
+        padding: 16px;
+      }
+
+      .accordion-btn {
+        padding: 14px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        scroll-behavior: auto !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="modal-container" id="modalBox">
+    <header class="modal-header">
+      <div class="header-title">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="m3 11 18-5v12L3 14v-3z"></path>
+          <path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"></path>
+        </svg>
+        <span>Pengumuman &amp; FAQ</span>
+      </div>
+      <button class="close-btn" type="button" aria-label="Tutup FAQ" onclick="document.getElementById('modalBox').style.display='none'">✕</button>
+    </header>
+
+    <section class="accordion-list" aria-label="Daftar pertanyaan">
+      <article class="accordion-item">
+        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-1">
+          <span class="btn-left">
+            <span class="badge">Informasi Umum</span>
+            <span class="question-title">1. Apakah Situs Zeus Dapat Diakses Melalui Handphone?</span>
+          </span>
+          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div class="accordion-content" id="answer-1">
+          <p>Situs kami dapat diakses melalui handphone dan komputer.</p>
+        </div>
+      </article>
+
+      <article class="accordion-item">
+        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-2">
+          <span class="btn-left">
+            <span class="badge">Aturan Transaksi</span>
+            <span class="question-title">2. Berapakah Minimal deposit dan Withdraw di Zeus2010?</span>
+          </span>
+          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div class="accordion-content" id="answer-2">
+          <ol>
+            <li>Minimal Deposit Rp 50.000</li>
+            <li>Untuk withdraw Pertama Harus di akumulasi 500% dari jumlah Deposit</li>
+            <li>Dan untuk withdraw selanjutnya minimal dari 50% deposit yang dimainkan</li>
+          </ol>
+        </div>
+      </article>
+
+      <article class="accordion-item">
+        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-3">
+          <span class="btn-left">
+            <span class="badge">Panduan</span>
+            <span class="question-title">3. Bagaimana Cara Melakukan Konfirmasi Yang Benar?</span>
+          </span>
+          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div class="accordion-content" id="answer-3">
+          <p>Harus Tanyakan Nomor Rekening Kepada CS Sebelum Mentransfer Dana Karena Rekening Dapat Berubah Sewaktu-waktu.</p>
+        </div>
+      </article>
+
+      <article class="accordion-item">
+        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-4">
+          <span class="btn-left">
+            <span class="badge">Withdraw</span>
+            <span class="question-title">4. Berapa Lama Proses Withdraw?</span>
+          </span>
+          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div class="accordion-content" id="answer-4">
+          <p>Proses Withdraw Biasanya Memakan Waktu Kurang Lebih 10-15 Menit.</p>
+        </div>
+      </article>
+
+      <article class="accordion-item">
+        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-5">
+          <span class="btn-left">
+            <span class="badge">Pengumuman</span>
+            <span class="question-title">5. Mengapa Proses Withdraw Mengalami Keterlambatan?</span>
+          </span>
+          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div class="accordion-content" id="answer-5">
+          <p>Mohon Maaf Atas Keterlambatan Yang Terjadi Dikarenakan Adanya Penumpukan Antrian Withdraw, Dan Kami Menjamin Semua Dana Withdraw Akan Diproses Secara Urut Sesuai Antrian Demi Keamanan.</p>
+        </div>
+      </article>
+
+      <article class="accordion-item">
+        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-6">
+          <span class="btn-left">
+            <span class="badge">Keamanan</span>
+            <span class="question-title">6. Apakah Data Keamanan Pengguna Terjamin?</span>
+          </span>
+          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div class="accordion-content" id="answer-6">
+          <p>Ya, Sangat Terjamin. Karena Kami Menggunakan SSL Terbaru dan Seluruh Informasi Pribadi Beserta Riwayat Transaksi Anda Dijamin Kerahasiaannya Dari Pihak Ketiga.</p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <script>
+    const accordionButtons = document.querySelectorAll('.accordion-btn');
+
+    accordionButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const currentItem = button.closest('.accordion-item');
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+
+        document.querySelectorAll('.accordion-item').forEach(item => {
+          item.classList.remove('active');
+          item.querySelector('.accordion-btn').setAttribute('aria-expanded', 'false');
+        });
+
+        if (!isExpanded) {
+          currentItem.classList.add('active');
+          button.setAttribute('aria-expanded', 'true');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
