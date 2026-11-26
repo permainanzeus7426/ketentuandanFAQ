@@ -25,6 +25,7 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
+          cname: zeus2010.com
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
