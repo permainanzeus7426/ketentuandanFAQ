@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ketentuandanfaqpermainan.com/sitemap.xml
+Sitemap: https://jaka38577-pixel.github.io/ketentuandanFAQ/sitemap.xml
