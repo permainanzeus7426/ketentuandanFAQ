@@ -1,4 +1,4 @@
-# FAQ & Pengumuman Zeus2010
+# FAQ & Pengumuman Permainan Zeus
 
 Situs statis tersedia di `index.html` dan diterbitkan melalui GitHub Pages saat ada push ke branch `main`.
 
