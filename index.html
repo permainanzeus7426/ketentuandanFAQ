@@ -182,7 +182,52 @@
       {word:"공부해요",roman:"gongbuhaeyo",meaning:"Belajar (sopan)",category:"Kegiatan"},
       {word:"고양이",roman:"goyangi",meaning:"Kucing",category:"Hewan"}
     ];
-    let vocabulary=[...starterVocabulary];
+    const animalVocabulary=[
+      {word:"강아지",roman:"gangaji",meaning:"Anak anjing",category:"Hewan"},
+      {word:"개",roman:"gae",meaning:"Anjing",category:"Hewan"},
+      {word:"토끼",roman:"tokki",meaning:"Kelinci",category:"Hewan"},
+      {word:"소",roman:"so",meaning:"Sapi",category:"Hewan"},
+      {word:"염소",roman:"yeomso",meaning:"Kambing",category:"Hewan"},
+      {word:"사자",roman:"saja",meaning:"Singa",category:"Hewan"},
+      {word:"코끼리",roman:"kokkiri",meaning:"Gajah",category:"Hewan"},
+      {word:"여우",roman:"yeou",meaning:"Rubah",category:"Hewan"},
+      {word:"거북이",roman:"geobugi",meaning:"Kura-kura",category:"Hewan"},
+      {word:"개구리",roman:"gaeguri",meaning:"Katak",category:"Hewan"},
+      {word:"벌",roman:"beol",meaning:"Lebah",category:"Hewan"},
+      {word:"나비",roman:"nabi",meaning:"Kupu-kupu",category:"Hewan"},
+      {word:"고래",roman:"gorae",meaning:"Paus",category:"Hewan"},
+      {word:"돌고래",roman:"dolgorae",meaning:"Lumba-lumba",category:"Hewan"},
+      {word:"상어",roman:"sangeo",meaning:"Hiu",category:"Hewan"},
+      {word:"악어",roman:"ageo",meaning:"Buaya",category:"Hewan"},
+      {word:"펭귄",roman:"penggwin",meaning:"Penguin",category:"Hewan"},
+      {word:"기린",roman:"girin",meaning:"Jerapah",category:"Hewan"},
+      {word:"하마",roman:"hama",meaning:"Kuda nil",category:"Hewan"},
+      {word:"사슴",roman:"saseum",meaning:"Rusa",category:"Hewan"},
+      {word:"고슴도치",roman:"goseumdochi",meaning:"Landak mini",category:"Hewan"},
+      {word:"다람쥐",roman:"daramjwi",meaning:"Tupai",category:"Hewan"},
+      {word:"얼룩말",roman:"eollungmal",meaning:"Zebra",category:"Hewan"},
+      {word:"캥거루",roman:"kaenggeoru",meaning:"Kanguru",category:"Hewan"},
+      {word:"낙타",roman:"nakta",meaning:"Unta",category:"Hewan"},
+      {word:"독수리",roman:"doksuri",meaning:"Elang",category:"Hewan"},
+      {word:"비둘기",roman:"bidulgi",meaning:"Merpati",category:"Hewan"},
+      {word:"참새",roman:"chamsae",meaning:"Burung gereja",category:"Hewan"},
+      {word:"부엉이",roman:"bueongi",meaning:"Burung hantu",category:"Hewan"},
+      {word:"수달",roman:"sudal",meaning:"Berang-berang",category:"Hewan"},
+      {word:"물개",roman:"mulgae",meaning:"Anjing laut",category:"Hewan"},
+      {word:"고릴라",roman:"gorilla",meaning:"Gorila",category:"Hewan"},
+      {word:"판다",roman:"panda",meaning:"Panda",category:"Hewan"},
+      {word:"까마귀",roman:"kkamagwi",meaning:"Gagak",category:"Hewan"},
+      {word:"개미",roman:"gaemi",meaning:"Semut",category:"Hewan"},
+      {word:"모기",roman:"mogi",meaning:"Nyamuk",category:"Hewan"},
+      {word:"거미",roman:"geomi",meaning:"Laba-laba",category:"Hewan"},
+      {word:"벌레",roman:"beolle",meaning:"Serangga",category:"Hewan"},
+      {word:"두루미",roman:"durumi",meaning:"Burung jenjang",category:"Hewan"},
+      {word:"앵무새",roman:"aengmusae",meaning:"Burung beo",category:"Hewan"},
+      {word:"박쥐",roman:"bakjwi",meaning:"Kelelawar",category:"Hewan"},
+      {word:"공룡",roman:"gongnyong",meaning:"Dinosaurus",category:"Hewan"}
+    ];
+    const animalWords=new Set([...animalVocabulary.map(item=>item.word),"새","물고기","돼지","오리","닭","호랑이","원숭이","곰","늑대","뱀","쥐","파리","암소","황소","병아리"]);
+    let vocabulary=[...starterVocabulary,...animalVocabulary];
     const grammar=[
       {particle:"은 / 는",title:"Penanda topik",description:"Menandai hal yang sedang dibicarakan. Gunakan 은 setelah konsonan dan 는 setelah vokal.",example:"저는 학생이에요.",translation:"Saya adalah seorang pelajar.",tip:"저 (saya) berakhir vokal, jadi gunakan 는."},
       {particle:"이 / 가",title:"Penanda subjek",description:"Menandai siapa atau apa yang melakukan keadaan/tindakan, sering memberi fokus pada subjek. Gunakan 이 setelah konsonan dan 가 setelah vokal.",example:"비가 와요.",translation:"Hujan turun.",tip:"비 (hujan) berakhir vokal, jadi gunakan 가."},
@@ -339,7 +384,7 @@
     function letterTile(item,index,type){return `<button class="letter-tile" data-letter="${type}:${index}" aria-label="Lihat detail huruf ${item.letter}"><span class="letter-glyph" lang="ko">${item.letter}</span><span class="letter-roman">${item.roman}</span></button>`}
     function showLetter(type,index){const groups={consonant:consonants,tense:tenseConsonants,vowel:vowels,compound:compoundVowels};const labels={consonant:"konsonan dasar",tense:"konsonan tegang",vowel:"vokal dasar",compound:"vokal gabungan"};const item=groups[type][Number(index)];const soundText=`${item.letter} ${item.name}`;document.getElementById("modalRoot").innerHTML=`<div class="modal-backdrop" data-dismiss><section class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-head"><h2 id="modalTitle">Detail ${labels[type]}</h2><button class="modal-close" data-close aria-label="Tutup">${icon("x",17)}</button></div><div class="modal-glyph" lang="ko">${item.letter}</div><div style="text-align:center;margin-bottom:14px;color:var(--muted);font-size:11px">${item.name}</div><div class="detail-grid"><div class="detail-box"><strong>Cara baca</strong><span>${item.roman} — ${item.sound}</span></div><div class="detail-box"><strong>Contoh kata / gabungan</strong><span lang="ko">${item.example}</span></div></div><div class="stroke-card"><h3>Urutan goresan (panduan sederhana)</h3><div class="stroke-steps">${item.strokes.map((stroke,i)=>`<span class="stroke-step"><b>${i+1}.</b> ${stroke}</span>`).join("")}</div></div><button class="primary-btn" data-speak="${escapeHTML(soundText)}" style="width:100%;margin-top:14px">${icon("volume-2",15)} Dengarkan pelafalan</button></section></div>`;document.querySelector("[data-close]").addEventListener("click",closeModal);document.querySelector("[data-dismiss]").addEventListener("click",event=>{if(event.target===event.currentTarget)closeModal()});document.querySelector("[data-speak]").addEventListener("click",event=>speak(event.currentTarget.dataset.speak));refreshIcons()}
     function closeModal(){document.getElementById("modalRoot").innerHTML=""}
-    async function loadVocabulary(){try{const response=await fetch(new URL("data/vocabulary-extra.json",document.baseURI));if(!response.ok)throw new Error(`HTTP ${response.status}`);const extraWords=await response.json();const knownWords=new Set(vocabulary.map(item=>item.word));const uniqueWords=extraWords.filter(item=>item&&typeof item.word==="string"&&!knownWords.has(item.word)&&knownWords.add(item.word));if(uniqueWords.length!==1050)throw new Error("Jumlah kosakata tambahan tidak sesuai.");vocabulary.push(...uniqueWords);vocabularyReady=true;renderPage()}catch(error){console.error("Kamus lengkap gagal dimuat:",error);if(activePage==="vocab")toast("Kamus lengkap gagal dimuat. Buka melalui HTTPS atau server lokal; kosakata awal tetap tersedia.")}}
+    async function loadVocabulary(){try{const response=await fetch(new URL("data/vocabulary-extra.json",document.baseURI));if(!response.ok)throw new Error(`HTTP ${response.status}`);const extraWords=await response.json();const knownWords=new Set(vocabulary.map(item=>item.word));const uniqueWords=extraWords.filter(item=>item&&typeof item.word==="string"&&!knownWords.has(item.word)&&knownWords.add(item.word)).map(item=>animalWords.has(item.word)?{...item,category:"Hewan"}:item);if(uniqueWords.length!==1050)throw new Error("Jumlah kosakata tambahan tidak sesuai.");vocabulary.push(...uniqueWords);vocabularyReady=true;renderPage()}catch(error){console.error("Kamus lengkap gagal dimuat:",error);if(activePage==="vocab")toast("Kamus lengkap gagal dimuat. Buka melalui HTTPS atau server lokal; kosakata awal tetap tersedia.")}}
     function bindVocabEvents(){document.querySelectorAll("[data-vocab-more]").forEach(button=>button.addEventListener("click",()=>{vocabVisibleCount+=30;renderPage()}))}
     function renderVocab(){if(lastVocabCategory!==activeCategory||lastVocabQuery!==searchQuery){vocabVisibleCount=30;lastVocabCategory=activeCategory;lastVocabQuery=searchQuery}const categories=["Semua",...new Set(vocabulary.map(item=>item.category))];const filtered=vocabulary.filter(item=>(activeCategory==="Semua"||item.category===activeCategory)&&`${item.word} ${item.roman} ${item.meaning}`.toLowerCase().includes(searchQuery.toLowerCase()));const visible=filtered.slice(0,vocabVisibleCount);const totalLabel=new Intl.NumberFormat("id-ID").format(vocabulary.length);return `<div class="eyebrow">${icon("book-open",14)} MODUL 02</div><h1 class="page-title">Kamus & Kosakata</h1><p class="page-description">${vocabularyReady?`${totalLabel} kata praktis tersedia.`:"Memuat kamus lengkap…"} Cari kata Korea atau artinya, pilih kategori, dengarkan pelafalan, dan tandai kata yang sudah dikuasai. <a href="data/ATTRIBUTION.md" target="_blank" rel="noreferrer" style="color:var(--primary)">Sumber data & lisensi</a></p><div class="toolbar"><label class="search-wrap">${icon("search",16)}<input id="vocabSearch" type="search" placeholder="Cari kata Korea atau artinya..." value="${escapeHTML(searchQuery)}" aria-label="Cari kosakata"></label></div><div class="toolbar">${categories.map(category=>`<button class="chip ${activeCategory===category?"selected":""}" data-category="${escapeHTML(category)}">${category}</button>`).join("")}</div><div class="vocab-list">${visible.length?visible.map(item=>`<article class="card vocab-row"><div class="vocab-hangul" lang="ko">${item.word}</div><div class="vocab-meaning"><strong>${item.meaning}</strong><span>${item.roman}</span></div><span class="tag">${item.category}</span><button class="speak-btn" data-speak="${escapeHTML(item.word)}" aria-label="Dengarkan ${escapeHTML(item.word)}">${icon("volume-2",15)}</button><button class="speak-btn" data-know="${escapeHTML(item.word)}" aria-label="Tandai kosakata ${escapeHTML(item.word)} ${progress.knownWords.includes(item.word)?"belum hafal":"sudah hafal"}" title="${progress.knownWords.includes(item.word)?"Sudah hafal":"Tandai hafal"}" style="${progress.knownWords.includes(item.word)?"background:#e8f7f0;color:#249b78":""}">${icon(progress.knownWords.includes(item.word)?"check":"bookmark-check",15)}</button></article>`).join(""):`<div class="card empty-state">Tidak ada kosakata yang cocok. Coba kata lain, ya.</div>`}</div>${filtered.length>vocabVisibleCount?`<div style="display:flex;justify-content:center;margin-top:16px"><button class="secondary-btn" data-vocab-more>Muat 30 kata berikutnya</button></div>`:""}<div style="display:flex;justify-content:space-between;align-items:center;margin-top:14px;color:var(--muted);font-size:10px"><span>Menampilkan ${visible.length} dari ${filtered.length} kata</span><span>${progress.knownWords.length}/${totalLabel} sudah dikuasai</span></div>`}
     function renderGrammar(){return `<div class="eyebrow">${icon("spell-check",14)} MODUL 03</div><h1 class="page-title">Tata Bahasa Dasar</h1><p class="page-description">Pahami pola inti bahasa Korea lewat ringkasan singkat dan contoh kalimat dengan terjemahannya.</p><div class="grammar-callout"><h3>Urutan kalimat Korea: S-O-K-P</h3><p>Subjek + Objek + Keterangan + Predikat. Predikat biasanya berada di akhir kalimat. Partikel membantu menunjukkan fungsi kata, jadi urutannya lebih fleksibel daripada Bahasa Indonesia.</p><div class="example" style="background:#ffffffa8;margin-top:10px" lang="ko">저는 한국어를 학교에서 공부해요.<small>Saya belajar bahasa Korea di sekolah. — 저는 (S) + 한국어를 (O) + 학교에서 (K) + 공부해요 (P)</small></div></div><div class="section-heading"><h2>Partikel penting</h2><span class="tag">4 topik</span></div><section class="grammar-grid">${grammar.map(item=>`<article class="card grammar-card"><span class="tag">${item.particle}</span><h3>${item.title}</h3><p>${item.description}</p><div class="example" lang="ko">${item.example}<small>${item.translation}</small></div><p style="margin-bottom:0"><strong>Ingat:</strong> ${item.tip}</p></article>`).join("")}</section><div style="display:flex;justify-content:flex-end;margin-top:18px"><button class="primary-btn" data-complete="grammar">${progress.completedLessons.includes("grammar")?"Materi selesai ✓":"Tandai materi selesai"}</button></div>`}

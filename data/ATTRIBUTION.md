@@ -9,4 +9,6 @@
 
 Entri dipilih dari lema Inggris yang umum, hanya ketika definisi Inggris pada sumber Korea dan Indonesia cocok persis. Data kemudian dipersempit ke kata Hangul tunggal, dideduplikasi terhadap kosakata kurasi, diberi kategori, dan diromanisasi. Daftar ini adalah bantuan belajar, bukan kamus resmi; beberapa padanan dapat bergantung konteks.
 
+42 nama hewan tambahan ditulis dan diromanisasi secara terpisah untuk materi belajar.
+
 Perubahan dan adaptasi data kamus ini dilisensikan CC BY-SA 4.0. Salinan dan adaptasi harus mempertahankan atribusi serta lisensi yang sama. Lihat [teks lisensi CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
