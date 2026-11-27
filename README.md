@@ -17,10 +17,10 @@ Tailwind CSS, Lucide Icons, dan Firebase SDK dimuat dari CDN sehingga koneksi in
 
 ## Fitur
 
-- Papan Hangeul dengan 14 konsonan dan 10 vokal, detail bunyi, contoh, panduan goresan, dan pelafalan.
-- Kamus dengan 20 kosakata, pencarian instan, filter kategori, audio, dan penanda hafal.
+- Papan Hangeul dengan 14 konsonan dasar, 5 konsonan tegang, 10 vokal dasar, dan 11 vokal gabungan; termasuk detail bunyi, contoh, panduan goresan, pelafalan, serta cara menyusun blok suku kata.
+- Kamus dengan 50 kosakata, pencarian instan, filter kategori, audio, dan penanda hafal.
 - Pelajaran partikel dasar, contoh kalimat, dan pola S-O-K-P.
-- Flashcard, 10 soal pilihan ganda berpenjelasan, latihan menyusun kalimat, dan empat dialog skenario dengan arahan serta tips.
+- Flashcard, enam level kuis bertema dengan enam soal per level dan penjelasan jawaban, latihan menyusun kalimat, dan empat dialog skenario dengan arahan serta tips.
 - Login Google opsional, sinkronisasi progres akun antarperangkat, serta penyimpanan lokal sebagai cadangan.
 - Progres materi, kosakata, skenario, skor kuis, streak harian, dan mode gelap.
 
