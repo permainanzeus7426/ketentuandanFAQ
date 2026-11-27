@@ -3,315 +3,227 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FAQ &amp; Pengumuman - Permainan Zeus</title>
-  <meta name="description" content="Informasi umum, panduan transaksi, withdraw, dan keamanan akun Permainan Zeus.">
-  <link rel="canonical" href="https://permainanzeus7426.github.io/ketentuandanFAQ/">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="FAQ &amp; Pengumuman - Permainan Zeus">
-  <meta property="og:description" content="Informasi umum, panduan transaksi, withdraw, dan keamanan akun Permainan Zeus.">
-  <meta property="og:url" content="https://permainanzeus7426.github.io/ketentuandanFAQ/">
+  <meta name="theme-color" content="#f7f8ff">
+  <meta name="description" content="Belajar bahasa Korea dari Hangul sampai percakapan sehari-hari bersama K-Lingo ID.">
+  <title>K-Lingo ID — Belajar Bahasa Korea</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    }
-
-    body {
-      min-height: 100vh;
-      background-color: #0e1015;
-      color: #ffffff;
-      display: flex;
-      justify-content: center;
-      padding: 20px;
-    }
-
-    .modal-container {
-      background-color: #171921;
-      border: 1px solid #2a2d3a;
-      border-radius: 12px;
-      width: 100%;
-      max-width: 750px;
-      min-height: 600px;
-      overflow: hidden;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-    }
-
-    .modal-header {
-      background-color: #21242e;
-      padding: 18px 24px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-bottom: 1px solid #2c303d;
-    }
-
-    .header-title {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-size: 16px;
-      font-weight: 600;
-    }
-
-    .close-btn {
-      background: none;
-      border: none;
-      color: #8b92a5;
-      font-size: 20px;
-      cursor: pointer;
-      transition: color 0.2s;
-    }
-
-    .close-btn:hover {
-      color: #ffffff;
-    }
-
-    .accordion-list {
-      padding: 20px 24px;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .accordion-item {
-      background-color: #20232d;
-      border: 1px solid #2e3240;
-      border-radius: 8px;
-      overflow: hidden;
-      transition: border-color 0.2s;
-    }
-
-    .accordion-item:hover {
-      border-color: #42475a;
-    }
-
-    .accordion-btn {
-      width: 100%;
-      background: none;
-      border: none;
-      padding: 16px 20px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      text-align: left;
-      cursor: pointer;
-      color: #ffffff;
-      gap: 12px;
-    }
-
-    .btn-left {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      background-color: #2c303d;
-      color: #a0a8bd;
-      font-size: 11px;
-      font-weight: 600;
-      padding: 4px 8px;
-      border-radius: 4px;
-      width: fit-content;
-    }
-
-    .question-title {
-      font-size: 14px;
-      font-weight: 600;
-      color: #f1f3f8;
-      line-height: 1.4;
-    }
-
-    .arrow-icon {
-      color: #8b92a5;
-      flex-shrink: 0;
-      transition: transform 0.3s ease;
-    }
-
-    .accordion-item.active .arrow-icon {
-      transform: rotate(180deg);
-    }
-
-    .accordion-content {
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.3s ease, padding 0.3s ease;
-      background-color: #1b1e26;
-      color: #b4bccf;
-      font-size: 13.5px;
-      line-height: 1.6;
-      padding: 0 20px;
-    }
-
-    .accordion-item.active .accordion-content {
-      max-height: 400px;
-      padding: 16px 20px;
-      border-top: 1px solid #2a2e3b;
-    }
-
-    .accordion-content ol {
-      padding-left: 20px;
-      margin: 0;
-    }
-
-    .accordion-content li {
-      margin-bottom: 4px;
-    }
-
-    @media (max-width: 480px) {
-      body {
-        padding: 12px;
-      }
-
-      .modal-container {
-        min-height: 0;
-      }
-
-      .modal-header {
-        padding: 16px;
-      }
-
-      .accordion-list {
-        padding: 16px;
-      }
-
-      .accordion-btn {
-        padding: 14px;
-      }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      *,
-      *::before,
-      *::after {
-        scroll-behavior: auto !important;
-        transition-duration: 0.01ms !important;
-      }
-    }
+    :root{color-scheme:light;--bg:#f7f8ff;--surface:#fff;--soft:#f0f2ff;--line:#e8eaf5;--text:#20243a;--muted:#858ba3;--primary:#7168df;--primary-dark:#5c52cb;--coral:#ff8c91;--green:#249b78;--shadow:0 12px 36px rgba(49,54,103,.07)}
+    [data-theme="dark"]{color-scheme:dark;--bg:#151622;--surface:#202131;--soft:#2a2b40;--line:#38394d;--text:#f2f2fa;--muted:#a5a7bd;--primary:#a49cff;--primary-dark:#8f84f5;--coral:#ff9da5;--green:#62d5ad;--shadow:0 12px 36px rgba(0,0,0,.2)}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;transition:background .2s,color .2s}button,input{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible{outline:3px solid #a9a2ff;outline-offset:2px}.app{min-height:100vh}.sidebar{position:fixed;inset:0 auto 0 0;width:248px;padding:26px 18px;background:var(--surface);border-right:1px solid var(--line);display:flex;flex-direction:column;z-index:20}.brand{display:flex;align-items:center;gap:11px;padding:2px 8px 34px;font-size:19px;font-weight:850;letter-spacing:-.7px}.brand-mark{width:38px;height:38px;display:grid;place-items:center;border-radius:13px;background:linear-gradient(145deg,#8c83f5,#6960da);color:#fff;font-size:20px;box-shadow:0 6px 15px #7168df40}.brand span span{color:var(--primary)}.nav-label{padding:0 10px 11px;color:var(--muted);font-size:10px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase}.nav-list{display:grid;gap:5px}.nav-button{display:flex;align-items:center;gap:13px;padding:11px 12px;border:0;border-radius:12px;background:transparent;color:var(--muted);text-align:left;font-size:13px;font-weight:650;transition:.18s}.nav-button:hover{background:var(--soft);color:var(--text)}.nav-button.active{background:var(--soft);color:var(--primary-dark)}.nav-button.active .nav-icon{stroke-width:2.4}.nav-icon{width:18px;height:18px}.sidebar-bottom{margin-top:auto}.streak-mini{padding:14px;background:linear-gradient(135deg,#fff1ed,#fff8f4);border:1px solid #ffe4dc;border-radius:14px;color:#8f5554}.streak-mini strong{font-size:13px}.streak-mini p{margin:5px 0 0;font-size:11px;color:#a87d7b}.main-area{margin-left:248px;min-height:100vh}.topbar{height:76px;padding:0 38px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);background:var(--bg)}.breadcrumb{color:var(--muted);font-size:12px}.top-actions{display:flex;align-items:center;gap:11px}.icon-btn{width:39px;height:39px;display:grid;place-items:center;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text)}.avatar{width:38px;height:38px;display:grid;place-items:center;border-radius:50%;background:#ffe5e2;color:#b85f65;font-size:13px;font-weight:800}.content{max-width:1180px;margin:0 auto;padding:32px 38px 55px}.welcome{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;margin-bottom:24px}.eyebrow{display:flex;align-items:center;gap:7px;color:var(--primary);font-size:11px;font-weight:800;letter-spacing:.7px;text-transform:uppercase}.welcome h1{margin:8px 0 7px;font-size:clamp(25px,3vw,34px);line-height:1.15;letter-spacing:-1.3px}.welcome p{margin:0;color:var(--muted);font-size:13px}.date-pill{padding:9px 13px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--muted);font-size:11px;white-space:nowrap}.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}.hero{position:relative;overflow:hidden;min-height:188px;padding:25px 28px;background:linear-gradient(112deg,#7168df 0%,#8279eb 55%,#a39af8 100%);color:white}.hero:after{content:"한글";position:absolute;right:7%;top:-23px;color:#fff;opacity:.11;font-size:140px;font-weight:900;letter-spacing:-15px;transform:rotate(-8deg)}.hero-copy{position:relative;z-index:1;max-width:580px}.hero h2{margin:10px 0 8px;font-size:24px;letter-spacing:-.6px}.hero p{margin:0;color:#eeecff;font-size:12px;line-height:1.7}.hero .eyebrow{color:#e2dfff}.hero-cta{margin-top:16px;padding:9px 13px;border:0;border-radius:10px;background:white;color:#6259cf;font-size:11px;font-weight:800}.stats-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin:18px 0 27px}.stat-card{padding:16px}.stat-top{display:flex;align-items:center;justify-content:space-between;color:var(--muted);font-size:11px}.stat-icon{width:31px;height:31px;display:grid;place-items:center;border-radius:10px;background:var(--soft);color:var(--primary)}.stat-value{margin-top:12px;font-size:23px;font-weight:850;letter-spacing:-.8px}.stat-hint{margin-top:3px;color:var(--muted);font-size:10px}.section-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:25px 0 13px}.section-heading h2{margin:0;font-size:16px;letter-spacing:-.3px}.text-link{padding:4px 0;border:0;background:transparent;color:var(--primary);font-size:11px;font-weight:750}.course-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.course-card{padding:16px;cursor:pointer;transition:transform .18s,border-color .18s}.course-card:hover{transform:translateY(-2px);border-color:#b9b3ff}.course-icon{width:39px;height:39px;display:grid;place-items:center;border-radius:13px;background:#edebff;color:var(--primary)}.course-card h3{margin:13px 0 5px;font-size:13px}.course-card p{min-height:34px;margin:0;color:var(--muted);font-size:10px;line-height:1.6}.card-bottom{display:flex;align-items:center;justify-content:space-between;margin-top:13px;color:var(--muted);font-size:10px}.progress-track{height:6px;overflow:hidden;border-radius:99px;background:var(--soft)}.progress-fill{height:100%;border-radius:inherit;background:linear-gradient(90deg,#766de2,#a098ff);transition:width .25s}.page-title{margin:4px 0 6px;font-size:27px;letter-spacing:-.8px}.page-description{margin:0 0 22px;color:var(--muted);font-size:12px;line-height:1.65}.toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:9px;margin-bottom:16px}.search-wrap{position:relative;flex:1;min-width:200px}.search-wrap input{width:100%;height:42px;padding:0 13px 0 39px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);font-size:12px}.search-wrap i{position:absolute;left:13px;top:13px;color:var(--muted)}.chip{padding:8px 12px;border:1px solid var(--line);border-radius:99px;background:var(--surface);color:var(--muted);font-size:10px;font-weight:700}.chip.selected{border-color:var(--primary);background:var(--soft);color:var(--primary-dark)}.hangul-group-title{margin:20px 0 10px;font-size:13px;font-weight:800}.letter-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:9px}.letter-tile{min-height:91px;display:grid;place-items:center;align-content:center;gap:6px;padding:10px 5px;border:1px solid var(--line);border-radius:14px;background:var(--surface);transition:.15s}.letter-tile:hover{transform:translateY(-2px);border-color:#aaa3ff;box-shadow:var(--shadow)}.letter-glyph{font-size:28px;font-weight:700}.letter-roman{color:var(--muted);font-size:10px}.vocab-list{display:grid;gap:9px}.vocab-row{display:flex;align-items:center;gap:13px;padding:12px 15px}.vocab-hangul{min-width:90px;font-size:19px;font-weight:750}.vocab-meaning{flex:1}.vocab-meaning strong{display:block;font-size:12px}.vocab-meaning span{color:var(--muted);font-size:10px}.speak-btn{width:34px;height:34px;display:grid;place-items:center;border:0;border-radius:10px;background:var(--soft);color:var(--primary)}.tag{display:inline-flex;padding:5px 8px;border-radius:99px;background:var(--soft);color:var(--primary-dark);font-size:9px;font-weight:750}.grammar-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.grammar-card{padding:18px}.grammar-card h3{margin:10px 0 6px;font-size:15px}.grammar-card p{color:var(--muted);font-size:11px;line-height:1.7}.example{margin-top:12px;padding:12px;border-radius:12px;background:var(--soft);font-size:13px}.example small{display:block;margin-top:5px;color:var(--muted);font-size:10px}.grammar-callout{padding:17px;border-radius:16px;background:linear-gradient(110deg,#fff0ed,#fff8f5);color:#75514d}.grammar-callout h3{margin:0 0 7px;font-size:14px}.grammar-callout p{margin:0;font-size:11px;line-height:1.7}.mode-tabs{display:flex;gap:6px;padding:5px;margin-bottom:17px;border:1px solid var(--line);border-radius:13px;background:var(--surface);width:fit-content}.mode-tab{padding:8px 13px;border:0;border-radius:9px;background:transparent;color:var(--muted);font-size:10px;font-weight:750}.mode-tab.selected{background:var(--soft);color:var(--primary-dark)}.practice-card{max-width:730px;margin:0 auto;padding:24px}.practice-progress{height:6px;margin:13px 0 22px}.question-label{color:var(--primary);font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.8px}.question-title{margin:9px 0 18px;font-size:19px;line-height:1.5}.answer-list{display:grid;gap:9px}.answer-option{padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);text-align:left;font-size:12px}.answer-option:hover:not(:disabled){border-color:var(--primary);background:var(--soft)}.answer-option.correct{border-color:#83d2b7;background:#effbf6;color:#187c5c}.answer-option.incorrect{border-color:#ffc1c4;background:#fff2f2;color:#bb4c55}.feedback{margin-top:13px;padding:12px;border-radius:11px;background:var(--soft);font-size:11px;line-height:1.6}.practice-footer{display:flex;align-items:center;justify-content:space-between;margin-top:17px}.primary-btn,.secondary-btn{padding:10px 15px;border:0;border-radius:11px;background:var(--primary);color:white;font-size:11px;font-weight:800}.primary-btn:hover{background:var(--primary-dark)}.secondary-btn{border:1px solid var(--line);background:var(--surface);color:var(--text)}.primary-btn:disabled{opacity:.5;cursor:not-allowed}.flashcard{min-height:230px;display:grid;place-items:center;align-content:center;gap:12px;border:1px solid #e6e2ff;border-radius:18px;background:linear-gradient(145deg,#f5f3ff,#fff);text-align:center;cursor:pointer}.flashcard .big-hangul{font-size:53px;font-weight:800;color:#554cc5}.flashcard p{margin:0;color:var(--muted);font-size:12px}.flashcard-actions{display:flex;justify-content:center;gap:9px;margin-top:14px}.token-bank,.build-answer{display:flex;flex-wrap:wrap;gap:8px;min-height:47px;margin:12px 0;padding:10px;border:1px dashed var(--line);border-radius:12px}.token{padding:8px 12px;border:1px solid #ddd9ff;border-radius:10px;background:var(--soft);color:var(--primary-dark);font-size:14px;font-weight:700}.token:disabled{opacity:.4}.progress-layout{display:grid;grid-template-columns:1.15fr .85fr;gap:14px}.progress-panel{padding:19px}.progress-panel h3{margin:0 0 14px;font-size:14px}.progress-row{display:flex;align-items:center;gap:11px;margin:14px 0}.progress-row .progress-text{flex:1;font-size:11px}.progress-row .progress-num{color:var(--muted);font-size:10px}.streak-calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:7px;margin-top:14px}.day-dot{display:grid;place-items:center;gap:5px;color:var(--muted);font-size:9px}.day-dot span{width:27px;height:27px;display:grid;place-items:center;border-radius:9px;background:var(--soft)}.day-dot.done span{background:#ffdfd7;color:#c76957}.empty-state{grid-column:1/-1;padding:26px;text-align:center;color:var(--muted);font-size:12px}.modal-backdrop{position:fixed;inset:0;z-index:50;display:grid;place-items:center;padding:18px;background:#15162b88;backdrop-filter:blur(4px)}.modal{width:min(510px,100%);max-height:90vh;overflow:auto;padding:21px;border-radius:20px;background:var(--surface);box-shadow:0 25px 80px #11122b35}.modal-head{display:flex;align-items:center;justify-content:space-between}.modal-head h2{margin:0;font-size:16px}.modal-close{width:32px;height:32px;display:grid;place-items:center;border:0;border-radius:9px;background:var(--soft);color:var(--text)}.modal-glyph{text-align:center;font-size:58px;font-weight:800;color:var(--primary);padding:10px 0 1px}.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}.detail-box{padding:12px;border-radius:12px;background:var(--soft)}.detail-box strong{display:block;margin-bottom:5px;font-size:10px}.detail-box span{color:var(--muted);font-size:10px;line-height:1.5}.stroke-card{margin-top:12px;padding:13px;border:1px solid var(--line);border-radius:13px}.stroke-card h3{margin:0 0 10px;font-size:11px}.stroke-steps{display:flex;flex-wrap:wrap;gap:7px}.stroke-step{padding:8px;border-radius:8px;background:var(--soft);font-size:10px}.stroke-step b{color:var(--primary)}.toast{position:fixed;z-index:80;left:50%;bottom:24px;transform:translateX(-50%);padding:11px 16px;border-radius:12px;background:#292844;color:white;font-size:11px;box-shadow:var(--shadow)}.mobile-nav{display:none}
+    [data-theme="dark"] .streak-mini,[data-theme="dark"] .grammar-callout{background:#392b31;border-color:#554044;color:#f0c4bd}
+    [data-theme="dark"] .flashcard{background:linear-gradient(145deg,#2b2940,#242335);border-color:#45405e}
+    [data-theme="dark"] .flashcard .big-hangul{color:#b4adff}
+    [data-theme="dark"] .answer-option.correct{background:#20382f;color:#8ce0bf}
+    [data-theme="dark"] .answer-option.incorrect{background:#40292d;color:#ff9ca2}
+    @media(max-width:1050px){.sidebar{width:218px}.main-area{margin-left:218px}.content{padding-right:25px;padding-left:25px}.topbar{padding:0 25px}.letter-grid{grid-template-columns:repeat(6,minmax(0,1fr))}}
+    @media(max-width:760px){.sidebar{display:none}.main-area{margin:0}.topbar{height:61px;padding:0 17px}.content{padding:23px 16px 98px}.welcome{margin-bottom:18px}.welcome h1{font-size:27px}.date-pill{display:none}.hero{padding:21px;min-height:178px}.hero:after{right:-2%;font-size:110px}.hero h2{font-size:21px}.stats-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:13px 0 23px}.stat-card{padding:13px}.stat-value{font-size:21px}.course-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.course-card{padding:13px}.course-card p{min-height:48px}.letter-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:7px}.letter-tile{min-height:78px}.letter-glyph{font-size:25px}.grammar-grid{grid-template-columns:1fr}.progress-layout{grid-template-columns:1fr}.practice-card{padding:18px}.mobile-nav{position:fixed;inset:auto 0 0;z-index:30;display:grid;grid-template-columns:repeat(5,1fr);padding:8px 5px max(8px,env(safe-area-inset-bottom));border-top:1px solid var(--line);background:var(--surface);box-shadow:0 -8px 24px #2222440a}.mobile-nav .nav-button{display:grid;justify-items:center;gap:4px;padding:6px 1px;border-radius:10px;font-size:8px}.mobile-nav .nav-icon{width:19px;height:19px}.mobile-nav .nav-button.active{background:transparent}.section-heading{margin-top:20px}.page-title{font-size:24px}.top-actions{gap:7px}.avatar{width:34px;height:34px}}
+    @media(max-width:760px){.mobile-nav{grid-template-columns:repeat(6,1fr)}}
+    @media(max-width:390px){.letter-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.course-grid{grid-template-columns:1fr}.course-card p{min-height:0}.hero p{max-width:88%}.vocab-hangul{min-width:70px}.tag{display:none}}
+  </style>
+  <style>
+    .account-btn{display:flex;align-items:center;gap:8px;max-width:205px;padding:8px 11px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);font-size:11px;font-weight:750}
+    .account-btn span:last-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .google-mark{display:grid;place-items:center;width:20px;height:20px;border-radius:50%;background:#fff;color:#4285f4;font-size:14px;font-weight:900}
+    .scenario-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin-bottom:15px}
+    .scenario-choice{padding:11px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--muted);text-align:left;font-size:11px;font-weight:750}
+    .scenario-choice.selected{border-color:var(--primary);background:var(--soft);color:var(--primary-dark)}
+    .scenario-panel{max-width:730px;margin:0 auto;padding:22px}
+    .scenario-tip{margin:12px 0;padding:12px;border-radius:11px;background:var(--soft);color:var(--text);font-size:11px;line-height:1.6}
+    .scenario-dialogue{padding:14px;border:1px solid var(--line);border-radius:13px;background:var(--surface)}
+    .mode-tabs{flex-wrap:wrap;max-width:100%}
+    @media(max-width:760px){.scenario-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.account-btn{max-width:140px;padding:7px 9px}}
+    @media(max-width:390px){.account-btn{max-width:40px;padding:8px}.account-btn span:last-child{display:none}}
   </style>
 </head>
 <body>
-  <main class="modal-container" id="modalBox">
-    <header class="modal-header">
-      <div class="header-title">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <path d="m3 11 18-5v12L3 14v-3z"></path>
-          <path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"></path>
-        </svg>
-        <span>Pengumuman &amp; FAQ</span>
+  <div class="app">
+    <aside class="sidebar" aria-label="Navigasi utama">
+      <div class="brand"><div class="brand-mark">한</div><span>K-Lingo <span>ID</span></span></div>
+      <div class="nav-label">Menu belajar</div>
+      <nav class="nav-list" id="desktopNav"></nav>
+      <div class="sidebar-bottom">
+        <div class="streak-mini"><strong>🔥 <span id="sideStreak">0</span> hari beruntun</strong><p>Belajar sedikit setiap hari, yuk!</p></div>
       </div>
-      <button class="close-btn" type="button" aria-label="Tutup FAQ" onclick="document.getElementById('modalBox').style.display='none'">✕</button>
-    </header>
-
-    <section class="accordion-list" aria-label="Daftar pertanyaan">
-      <article class="accordion-item">
-        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-1">
-          <span class="btn-left">
-            <span class="badge">Informasi Umum</span>
-            <span class="question-title">1. Apakah Situs Zeus Dapat Diakses Melalui Handphone?</span>
-          </span>
-          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </button>
-        <div class="accordion-content" id="answer-1">
-          <p>Situs kami dapat diakses melalui handphone dan komputer.</p>
+    </aside>
+    <div class="main-area">
+      <header class="topbar">
+        <div class="breadcrumb">Ruang belajar <span style="padding:0 6px;color:var(--line)">/</span><strong id="crumb">Beranda</strong></div>
+        <div class="top-actions">
+          <button class="icon-btn" id="themeToggle" aria-label="Ganti mode warna" title="Ganti mode warna"><i data-lucide="moon"></i></button>
+          <button class="account-btn" id="accountButton" type="button" aria-label="Masuk dengan akun Google"><span class="google-mark" aria-hidden="true">G</span><span id="accountLabel">Masuk Google</span></button>
         </div>
-      </article>
-
-      <article class="accordion-item">
-        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-2">
-          <span class="btn-left">
-            <span class="badge">Aturan Transaksi</span>
-            <span class="question-title">2. Berapakah Minimal deposit dan Withdraw di Permainan Zeus?</span>
-          </span>
-          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </button>
-        <div class="accordion-content" id="answer-2">
-          <ol>
-            <li>Minimal Deposit Rp 50.000</li>
-            <li>Untuk withdraw Pertama Harus di akumulasi 500% dari jumlah Deposit</li>
-            <li>Dan untuk withdraw selanjutnya minimal dari 50% deposit yang dimainkan</li>
-          </ol>
-        </div>
-      </article>
-
-      <article class="accordion-item">
-        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-3">
-          <span class="btn-left">
-            <span class="badge">Panduan</span>
-            <span class="question-title">3. Bagaimana Cara Melakukan Konfirmasi Yang Benar?</span>
-          </span>
-          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </button>
-        <div class="accordion-content" id="answer-3">
-          <p>Harus Tanyakan Nomor Rekening Kepada CS Sebelum Mentransfer Dana Karena Rekening Dapat Berubah Sewaktu-waktu.</p>
-        </div>
-      </article>
-
-      <article class="accordion-item">
-        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-4">
-          <span class="btn-left">
-            <span class="badge">Withdraw</span>
-            <span class="question-title">4. Berapa Lama Proses Withdraw?</span>
-          </span>
-          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </button>
-        <div class="accordion-content" id="answer-4">
-          <p>Proses Withdraw Biasanya Memakan Waktu Kurang Lebih 10-15 Menit.</p>
-        </div>
-      </article>
-
-      <article class="accordion-item">
-        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-5">
-          <span class="btn-left">
-            <span class="badge">Pengumuman</span>
-            <span class="question-title">5. Mengapa Proses Withdraw Mengalami Keterlambatan?</span>
-          </span>
-          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </button>
-        <div class="accordion-content" id="answer-5">
-          <p>Mohon Maaf Atas Keterlambatan Yang Terjadi Dikarenakan Adanya Penumpukan Antrian Withdraw, Dan Kami Menjamin Semua Dana Withdraw Akan Diproses Secara Urut Sesuai Antrian Demi Keamanan.</p>
-        </div>
-      </article>
-
-      <article class="accordion-item">
-        <button class="accordion-btn" type="button" aria-expanded="false" aria-controls="answer-6">
-          <span class="btn-left">
-            <span class="badge">Keamanan</span>
-            <span class="question-title">6. Apakah Data Keamanan Pengguna Terjamin?</span>
-          </span>
-          <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </button>
-        <div class="accordion-content" id="answer-6">
-          <p>Ya, Sangat Terjamin. Karena Kami Menggunakan SSL Terbaru dan Seluruh Informasi Pribadi Beserta Riwayat Transaksi Anda Dijamin Kerahasiaannya Dari Pihak Ketiga.</p>
-        </div>
-      </article>
-    </section>
-  </main>
-
+      </header>
+      <main class="content" id="mainContent"></main>
+    </div>
+    <nav class="mobile-nav" id="mobileNav" aria-label="Navigasi bawah"></nav>
+  </div>
+  <div id="modalRoot"></div>
+  <div id="toastRoot" aria-live="polite"></div>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
   <script>
-    const accordionButtons = document.querySelectorAll('.accordion-btn');
-
-    accordionButtons.forEach(button => {
-      button.addEventListener('click', () => {
-        const currentItem = button.closest('.accordion-item');
-        const isExpanded = button.getAttribute('aria-expanded') === 'true';
-
-        document.querySelectorAll('.accordion-item').forEach(item => {
-          item.classList.remove('active');
-          item.querySelector('.accordion-btn').setAttribute('aria-expanded', 'false');
-        });
-
-        if (!isExpanded) {
-          currentItem.classList.add('active');
-          button.setAttribute('aria-expanded', 'true');
-        }
-      });
-    });
+    const navItems=[
+      {id:"home",label:"Beranda",icon:"layout-dashboard"},
+      {id:"hangul",label:"Papan Hangeul",icon:"languages"},
+      {id:"vocab",label:"Kamus",icon:"book-open"},
+      {id:"grammar",label:"Tata Bahasa",icon:"spell-check"},
+      {id:"practice",label:"Latihan",icon:"brain"},
+      {id:"progress",label:"Progres",icon:"chart-no-axes-column-increasing"}
+    ];
+    const consonants=[
+      {letter:"ㄱ",roman:"g/k",sound:"di antara g dan k",name:"기역 (giyeok)",example:"가방 — tas",strokes:["Garis mendatar atas","Turun di sisi kanan"]},
+      {letter:"ㄴ",roman:"n",sound:"seperti n pada “nama”",name:"니은 (nieun)",example:"나라 — negara",strokes:["Turun dari atas","Mendatar ke kanan bawah"]},
+      {letter:"ㄷ",roman:"d/t",sound:"di antara d dan t",name:"디귿 (digeut)",example:"다리 — kaki / jembatan",strokes:["Garis atas","Turun di sisi kanan","Garis tengah"]},
+      {letter:"ㄹ",roman:"r/l",sound:"r ringan, menjadi l di akhir suku kata",name:"리을 (rieul)",example:"라면 — mi ramen",strokes:["Garis atas","Turun dan belok","Garis tengah","Garis bawah"]},
+      {letter:"ㅁ",roman:"m",sound:"seperti m pada “mata”",name:"미음 (mieum)",example:"물 — air",strokes:["Garis atas","Turun di sisi kanan","Garis bawah"]},
+      {letter:"ㅂ",roman:"b/p",sound:"di antara b dan p",name:"비읍 (bieup)",example:"바다 — laut",strokes:["Garis atas","Garis tengah","Sisi kiri","Sisi kanan","Garis bawah"]},
+      {letter:"ㅅ",roman:"s",sound:"seperti s pada “satu”",name:"시옷 (siot)",example:"사람 — orang",strokes:["Diagonal kiri","Diagonal kanan","Garis bawah"]},
+      {letter:"ㅇ",roman:"ng / diam",sound:"diam di awal suku kata, ng di akhir",name:"이응 (ieung)",example:"아이 — anak",strokes:["Lingkaran"]},
+      {letter:"ㅈ",roman:"j",sound:"seperti j pada “jalan”",name:"지읒 (jieut)",example:"저 — saya",strokes:["Garis atas","Diagonal kiri","Diagonal kanan","Garis bawah"]},
+      {letter:"ㅊ",roman:"ch",sound:"seperti c pada “cari” dengan hembusan",name:"치읓 (chieut)",example:"친구 — teman",strokes:["Garis pendek atas","Garis tengah","Diagonal kiri","Diagonal kanan","Garis bawah"]},
+      {letter:"ㅋ",roman:"k",sound:"k dengan hembusan",name:"키읔 (kieuk)",example:"커피 — kopi",strokes:["Garis atas","Garis tengah","Turun di sisi kanan"]},
+      {letter:"ㅌ",roman:"t",sound:"t dengan hembusan",name:"티읕 (tieut)",example:"토마토 — tomat",strokes:["Garis atas","Garis tengah","Garis bawah","Turun di sisi kanan"]},
+      {letter:"ㅍ",roman:"p",sound:"p dengan hembusan",name:"피읖 (pieup)",example:"피자 — pizza",strokes:["Garis atas","Garis tengah","Garis bawah","Sisi kiri dan kanan"]},
+      {letter:"ㅎ",roman:"h",sound:"seperti h pada “hari”",name:"히읗 (hieut)",example:"하나 — satu",strokes:["Garis pendek atas","Garis mendatar","Lingkaran"]}
+    ];
+    const vowels=[
+      {letter:"ㅏ",roman:"a",sound:"seperti a pada “apa”",name:"아 (a)",example:"아기 — bayi",strokes:["Garis tegak","Garis pendek ke kanan"]},
+      {letter:"ㅑ",roman:"ya",sound:"seperti ya pada “yakin”",name:"야 (ya)",example:"야구 — bisbol",strokes:["Garis tegak","Dua garis pendek ke kanan"]},
+      {letter:"ㅓ",roman:"eo",sound:"antara o dan e; bukan “e-o” terpisah",name:"어 (eo)",example:"어머니 — ibu",strokes:["Garis pendek ke kiri","Garis tegak"]},
+      {letter:"ㅕ",roman:"yeo",sound:"bunyi eo diawali y",name:"여 (yeo)",example:"여기 — di sini",strokes:["Dua garis pendek ke kiri","Garis tegak"]},
+      {letter:"ㅗ",roman:"o",sound:"o bulat seperti “obat”",name:"오 (o)",example:"오이 — mentimun",strokes:["Garis mendatar","Garis pendek ke atas"]},
+      {letter:"ㅛ",roman:"yo",sound:"bunyi o diawali y",name:"요 (yo)",example:"요리 — masakan",strokes:["Garis mendatar","Dua garis pendek ke atas"]},
+      {letter:"ㅜ",roman:"u",sound:"seperti u pada “umur”",name:"우 (u)",example:"우유 — susu",strokes:["Garis mendatar","Garis pendek ke bawah"]},
+      {letter:"ㅠ",roman:"yu",sound:"bunyi u diawali y",name:"유 (yu)",example:"유리 — kaca",strokes:["Garis mendatar","Dua garis pendek ke bawah"]},
+      {letter:"ㅡ",roman:"eu",sound:"u dengan bibir rata",name:"으 (eu)",example:"음악 — musik",strokes:["Garis mendatar"]},
+      {letter:"ㅣ",roman:"i",sound:"seperti i pada “ikan”",name:"이 (i)",example:"이름 — nama",strokes:["Garis tegak"]}
+    ];
+    const vocabulary=[
+      {word:"안녕하세요",roman:"annyeonghaseyo",meaning:"Halo (sopan)",category:"Salam & Perkenalan"},
+      {word:"감사합니다",roman:"gamsahamnida",meaning:"Terima kasih",category:"Salam & Perkenalan"},
+      {word:"죄송합니다",roman:"joesonghamnida",meaning:"Maaf (sopan)",category:"Salam & Perkenalan"},
+      {word:"이름",roman:"ireum",meaning:"Nama",category:"Salam & Perkenalan"},
+      {word:"만나서 반가워요",roman:"mannaseo bangawoyo",meaning:"Senang bertemu denganmu",category:"Salam & Perkenalan"},
+      {word:"물",roman:"mul",meaning:"Air",category:"Makanan"},
+      {word:"밥",roman:"bap",meaning:"Nasi / makanan",category:"Makanan"},
+      {word:"김치",roman:"gimchi",meaning:"Kimchi",category:"Makanan"},
+      {word:"커피",roman:"keopi",meaning:"Kopi",category:"Makanan"},
+      {word:"맛있어요",roman:"masisseoyo",meaning:"Enak",category:"Makanan"},
+      {word:"하나",roman:"hana",meaning:"Satu (asli Korea)",category:"Angka"},
+      {word:"둘",roman:"dul",meaning:"Dua (asli Korea)",category:"Angka"},
+      {word:"셋",roman:"set",meaning:"Tiga (asli Korea)",category:"Angka"},
+      {word:"일",roman:"il",meaning:"Satu (Sino-Korea)",category:"Angka"},
+      {word:"이",roman:"i",meaning:"Dua (Sino-Korea)",category:"Angka"},
+      {word:"어디",roman:"eodi",meaning:"Di mana",category:"Travel"},
+      {word:"화장실",roman:"hwajangsil",meaning:"Toilet",category:"Travel"},
+      {word:"왼쪽",roman:"oenjjok",meaning:"Kiri",category:"Travel"},
+      {word:"오른쪽",roman:"oreunjjok",meaning:"Kanan",category:"Travel"},
+      {word:"얼마예요?",roman:"eolmayeyo",meaning:"Berapa harganya?",category:"Travel"}
+    ];
+    const grammar=[
+      {particle:"은 / 는",title:"Penanda topik",description:"Menandai hal yang sedang dibicarakan. Gunakan 은 setelah konsonan dan 는 setelah vokal.",example:"저는 학생이에요.",translation:"Saya adalah seorang pelajar.",tip:"저 (saya) berakhir vokal, jadi gunakan 는."},
+      {particle:"이 / 가",title:"Penanda subjek",description:"Menandai siapa atau apa yang melakukan keadaan/tindakan, sering memberi fokus pada subjek. Gunakan 이 setelah konsonan dan 가 setelah vokal.",example:"비가 와요.",translation:"Hujan turun.",tip:"비 (hujan) berakhir vokal, jadi gunakan 가."},
+      {particle:"을 / 를",title:"Penanda objek",description:"Menandai objek yang dikenai tindakan. Gunakan 을 setelah konsonan dan 를 setelah vokal.",example:"책을 읽어요.",translation:"(Saya) membaca buku.",tip:"책 (buku) berakhir konsonan, jadi gunakan 을."},
+      {particle:"에 / 에서",title:"Tempat dan waktu",description:"에 sering menandai tujuan atau waktu; 에서 menandai tempat berlangsungnya aktivitas.",example:"학교에서 한국어를 공부해요.",translation:"Saya belajar bahasa Korea di sekolah.",tip:"Akhiran subjek sering dihilangkan jika sudah jelas dari konteks."}
+    ];
+    const quizQuestions=[
+      {question:"Apa arti 안녕하세요?",options:["Terima kasih","Halo (sopan)","Maaf","Sampai jumpa"],answer:1,explanation:"안녕하세요 (annyeonghaseyo) adalah sapaan sopan yang berarti “halo” atau “apa kabar”."},
+      {question:"Huruf vokal ㅏ dibaca…",options:["eo","u","a","i"],answer:2,explanation:"ㅏ dibaca “a”, seperti bunyi a dalam kata “apa”."},
+      {question:"Pilih partikel objek yang tepat: 책__ 읽어요.",options:["는","가","을","에"],answer:2,explanation:"책 berakhir dengan konsonan (batchim ㅋ), sehingga objek memakai 을."},
+      {question:"Apa arti 물?",options:["Api","Air","Buku","Rumah"],answer:1,explanation:"물 (mul) berarti air."},
+      {question:"Urutan dasar kalimat Korea adalah…",options:["Subjek–Predikat–Objek","Subjek–Objek–Predikat","Predikat–Subjek–Objek","Objek–Predikat–Subjek"],answer:1,explanation:"Urutan umumnya S-O-P: subjek, objek, lalu predikat. Keterangan (K) dapat diletakkan sebelum predikat."},
+      {question:"Bagaimana mengatakan “terima kasih” dengan sopan?",options:["감사합니다","죄송합니다","안녕하세요","어디예요"],answer:0,explanation:"감사합니다 (gamsahamnida) adalah ungkapan terima kasih formal/sopan."},
+      {question:"Partikel topik setelah kata yang berakhir vokal adalah…",options:["은","는","이","을"],answer:1,explanation:"은 dipakai setelah konsonan, sedangkan 는 dipakai setelah vokal."},
+      {question:"Angka asli Korea untuk “dua” adalah…",options:["이","둘","일","셋"],answer:1,explanation:"둘 (dul) adalah angka dua dalam sistem asli Korea. 이 adalah angka dua Sino-Korea."},
+      {question:"Apa arti 화장실?",options:["Stasiun","Restoran","Toilet","Hotel"],answer:2,explanation:"화장실 (hwajangsil) berarti toilet/kamar kecil."},
+      {question:"Kalimat 책을 읽어요 berarti…",options:["Saya membeli buku","Saya membaca buku","Buku itu mahal","Saya pergi ke sekolah"],answer:1,explanation:"책 berarti buku, 을 menandai objek, dan 읽어요 berarti membaca."}
+    ];
+    const wordChallenges=[
+      {prompt:"Susun: “Saya membaca buku.”",tokens:["저는","책을","읽어요"],distractors:["물을","먹어요"],answer:["저는","책을","읽어요"],explanation:"저는 책을 읽어요. — Saya membaca buku. Polanya subjek + objek + predikat."},
+      {prompt:"Susun: “Saya minum air.”",tokens:["저는","물을","마셔요"],distractors:["밥을","읽어요"],answer:["저는","물을","마셔요"],explanation:"저는 물을 마셔요. — Saya minum air."},
+      {prompt:"Susun: “Halo (sopan).”",tokens:["안녕하세요"],distractors:["감사합니다","죄송합니다"],answer:["안녕하세요"],explanation:"안녕하세요 adalah sapaan sopan “halo”."}
+    ];
+    const scenarios=[
+      {id:"introduction",title:"Berkenalan",role:"Kamu bertemu teman baru di kelas bahasa.",goal:"Sapa dengan sopan dan ceritakan nama serta asalmu.",steps:[
+        {prompt:"Temanmu menyapa lebih dulu. Apa balasan yang sopan?",options:["안녕하세요","화장실이 어디예요?","얼마예요?"],answer:0,explanation:"안녕하세요 (annyeonghaseyo) adalah sapaan sopan.",tip:"Awali perkenalan dengan sapaan. Membungkuk kecil juga terdengar ramah."},
+        {prompt:"Teman bertanya 이름이 뭐예요? (Siapa namamu?). Pilih jawaban yang sesuai.",options:["저는 [nama]예요.","물 주세요.","왼쪽에 있어요."],answer:0,explanation:"저는 [nama]예요 berarti “Saya [nama]”. Ganti [nama] dengan namamu.",tip:"저는 berarti “saya”; 예요 adalah akhiran sopan setelah nama yang berakhir vokal."}
+      ]},
+      {id:"cafe",title:"Memesan di kafe",role:"Kamu sedang memesan minuman di kafe Korea.",goal:"Pesan kopi dan ucapkan terima kasih.",steps:[
+        {prompt:"Pelayan bertanya ingin memesan apa. Bagaimana meminta satu kopi?",options:["커피 한 잔 주세요.","커피가 어디예요?","죄송합니다, 이름이에요."],answer:0,explanation:"커피 한 잔 주세요 berarti “Tolong satu cangkir kopi”.",tip:"주세요 (juseyo) adalah cara sopan untuk meminta sesuatu."},
+        {prompt:"Pelayan memberikan pesananmu. Apa yang kamu katakan?",options:["감사합니다","오른쪽","얼마예요"],answer:0,explanation:"감사합니다 (gamsahamnida) berarti “terima kasih”.",tip:"Gunakan ungkapan terima kasih sopan kepada pelayan."}
+      ]},
+      {id:"directions",title:"Bertanya arah",role:"Kamu mencari toilet di stasiun.",goal:"Tanyakan lokasi dan pahami petunjuk arah.",steps:[
+        {prompt:"Bagaimana bertanya “Toilet ada di mana?” dengan sopan?",options:["화장실이 어디예요?","화장실을 주세요.","화장실은 얼마예요?"],answer:0,explanation:"화장실이 어디예요? berarti “Toilet ada di mana?”.",tip:"어디예요? berarti “di mana?”. Akhiri pertanyaan dengan intonasi naik."},
+        {prompt:"Seseorang menjawab 오른쪽에 있어요. Ke arah mana kamu harus pergi?",options:["Ke kanan","Ke kiri","Lurus"],answer:0,explanation:"오른쪽 berarti kanan; 오른쪽에 있어요 berarti “ada di sebelah kanan”.",tip:"Hafalkan pasangan arah: 오른쪽 (kanan) dan 왼쪽 (kiri)."}
+      ]},
+      {id:"shopping",title:"Belanja di toko",role:"Kamu ingin membeli kimchi di pasar.",goal:"Tanyakan harga dan pahami jawabannya.",steps:[
+        {prompt:"Bagaimana bertanya “Berapa harganya?” dengan sopan?",options:["얼마예요?","어디예요?","맛있어요?"],answer:0,explanation:"얼마예요? (eolmayeyo) berarti “Berapa harganya?”.",tip:"Pakai 얼마예요? saat ingin menanyakan harga barang."},
+        {prompt:"Penjual menjawab 만 원이에요 (10.000 won). Apa yang sedang diberitahukan?",options:["Harganya 10.000 won","Tokonya di sebelah kiri","Kimchinya enak"],answer:0,explanation:"만 원 berarti sepuluh ribu won; 이에요 menghubungkan harga dengan “adalah”.",tip:"원 (won) adalah mata uang Korea. Dengarkan angka sebelum 원."}
+      ]}
+    ];
+    const STORAGE_KEY="klingo-id-progress-v1";
+    const defaultProgress={completedLessons:[],knownWords:[],completedScenarios:[],quizBest:0,quizRuns:0,streak:0,lastStudyDate:"",studyDays:[]};
+    const FIREBASE_CONFIG={apiKey:"AIzaSyCxc6ECSZ2-agr0bguS2XVNnev7H-dm-zI",authDomain:"k-lingo-id.firebaseapp.com",projectId:"k-lingo-id",appId:"1:788109749783:web:11144c19721a130fc3f652",storageBucket:"k-lingo-id.firebasestorage.app",messagingSenderId:"788109749783",measurementId:"G-21NHEEWPQ7"};
+    const hasFirebaseConfig=Object.values(FIREBASE_CONFIG).every(value=>typeof value==="string"&&value.trim());
+    let progress=normalizeProgress(readProgress());
+    let authUser=null,authClient=null,firestore=null,cloudSyncReady=false;
+    let activePage="home",activeCategory="Semua",searchQuery="",practiceMode="flashcards",flashIndex=0,flashRevealed=false,quizIndex=0,quizScore=0,quizChoice=null,quizFinished=false,buildIndex=0,buildSelected=[],buildChecked=false,scenarioIndex=0,scenarioStep=0,scenarioChoice=null,scenarioFinished=false;
+    const pageNames=Object.fromEntries(navItems.map(item=>[item.id,item.label]));
+    function normalizeProgress(value){const data=value&&typeof value==="object"?value:{};return{...defaultProgress,...data,completedLessons:Array.isArray(data.completedLessons)?data.completedLessons:[],knownWords:Array.isArray(data.knownWords)?data.knownWords:[],completedScenarios:Array.isArray(data.completedScenarios)?data.completedScenarios:[],studyDays:Array.isArray(data.studyDays)?data.studyDays:[]}}
+    function readProgress(key=STORAGE_KEY){try{return JSON.parse(localStorage.getItem(key)||"{}")}catch(error){console.warn("Progres lokal tidak dapat dibaca:",error);return{}}}
+    function mergeProgress(...items){const sources=items.map(normalizeProgress);const newest=sources.reduce((latest,item)=>item.lastStudyDate>latest.lastStudyDate?item:latest,sources[0]||normalizeProgress({}));return normalizeProgress({...newest,completedLessons:[...new Set(sources.flatMap(item=>item.completedLessons))],knownWords:[...new Set(sources.flatMap(item=>item.knownWords))],completedScenarios:[...new Set(sources.flatMap(item=>item.completedScenarios))],studyDays:[...new Set(sources.flatMap(item=>item.studyDays))].sort().slice(-90),quizBest:Math.max(...sources.map(item=>Number(item.quizBest)||0)),quizRuns:Math.max(...sources.map(item=>Number(item.quizRuns)||0)),streak:newest.streak})}
+    function activeProgressKey(){return authUser?`${STORAGE_KEY}:${authUser.uid}`:STORAGE_KEY}
+    function saveProgress(){try{localStorage.setItem(activeProgressKey(),JSON.stringify(progress))}catch(error){console.error("Progres tidak dapat disimpan ke browser:",error);toast("Progres tidak bisa disimpan. Periksa ruang penyimpanan browser.");return}if(authUser&&cloudSyncReady&&firestore){firestore.collection("users").doc(authUser.uid).collection("appData").doc("progress").set({progress,updatedAt:firebase.firestore.FieldValue.serverTimestamp()}).catch(error=>{console.error("Sinkronisasi progres akun gagal:",error);toast("Progres tersimpan di perangkat, tetapi gagal disinkronkan. Periksa koneksi.")})}}
+    function escapeHTML(value){return String(value).replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]))}
+    function icon(name,size=18){return `<i data-lucide="${name}" style="width:${size}px;height:${size}px"></i>`}
+    function renderNav(){for(const id of ["desktopNav","mobileNav"]){document.getElementById(id).innerHTML=navItems.map(item=>`<button class="nav-button ${activePage===item.id?"active":""}" data-page="${item.id}" ${activePage===item.id?'aria-current="page"':""}>${icon(item.icon)}<span>${item.label}</span></button>`).join("")}document.getElementById("crumb").textContent=pageNames[activePage];document.getElementById("sideStreak").textContent=progress.streak;document.querySelectorAll("[data-page]").forEach(button=>button.addEventListener("click",()=>navigate(button.dataset.page)));renderAccountButton();refreshIcons()}
+    function renderAccountButton(){const button=document.getElementById("accountButton");const label=document.getElementById("accountLabel");if(!button||!label)return;if(authUser){label.textContent=authUser.displayName||authUser.email||"Akun Google";button.title=`Keluar dari akun ${authUser.email||authUser.displayName||""}`;button.setAttribute("aria-label",button.title)}else{label.textContent="Masuk Google";button.title=hasFirebaseConfig?"Masuk dengan akun Google":"Masuk Google (perlu konfigurasi Firebase)";button.setAttribute("aria-label",button.title)}}
+    async function handleAccountButton(){if(!hasFirebaseConfig){toast("Login Google belum aktif. Ikuti langkah konfigurasi Firebase di README.");return}if(!authClient){toast("Layanan login belum siap. Muat ulang halaman atau periksa koneksi.");return}try{if(authUser){await authClient.signOut()}else{const provider=new firebase.auth.GoogleAuthProvider();provider.setCustomParameters({prompt:"select_account"});await authClient.signInWithPopup(provider)}}catch(error){console.error("Autentikasi Google gagal:",error);if(error.code==="auth/popup-blocked"||error.code==="auth/cancelled-popup-request")try{await authClient.signInWithRedirect(new firebase.auth.GoogleAuthProvider());return}catch(redirectError){console.error("Login redirect Google gagal:",redirectError)}const messages={"auth/popup-closed-by-user":"Jendela login ditutup sebelum selesai.","auth/popup-blocked":"Izinkan pop-up untuk login dengan Google.","auth/unauthorized-domain":"Domain situs belum diizinkan di Firebase Authentication.","auth/operation-not-allowed":"Penyedia Google belum diaktifkan di Firebase Authentication.","auth/operation-not-supported-in-this-environment":"Browser ini tidak mendukung pop-up login. Coba browser lain atau buka situs melalui HTTPS.","auth/invalid-api-key":"API key Firebase tidak valid atau dibatasi. Periksa konfigurasi Web app.","auth/network-request-failed":"Koneksi ke Firebase gagal. Periksa internet atau pemblokir iklan.","auth/internal-error":"Firebase menolak permintaan login. Periksa konfigurasi dan OAuth Google."};toast(messages[error.code]||`Login Google gagal: ${error.code||"kode tidak diketahui"}.`)}}
+    async function handleAuthStateChange(user){authUser=user;cloudSyncReady=false;renderAccountButton();if(!user){progress=normalizeProgress(readProgress());renderNav();renderPage();return}const uid=user.uid;try{const snapshot=await firestore.collection("users").doc(uid).collection("appData").doc("progress").get();if(authUser?.uid!==uid)return;const localProgress=readProgress(`${STORAGE_KEY}:${uid}`);progress=mergeProgress(readProgress(),localProgress,snapshot.exists?snapshot.data().progress||{}:{});cloudSyncReady=true;saveProgress();renderNav();renderPage();toast(`Progres tersinkron untuk ${user.displayName||user.email||"akun Google"}.`)}catch(error){console.error("Progres akun gagal dimuat:",error);if(authUser?.uid!==uid)return;progress=mergeProgress(readProgress(),readProgress(`${STORAGE_KEY}:${uid}`));renderNav();renderPage();toast("Progres lokal dimuat, tetapi sinkronisasi akun gagal. Periksa koneksi.")}}
+    function initializeFirebase(){if(!hasFirebaseConfig){renderAccountButton();return}if(!window.firebase){console.error("Firebase SDK tidak tersedia.");toast("Login Google tidak dapat dimuat. Periksa koneksi internet.");return}try{firebase.initializeApp(FIREBASE_CONFIG);authClient=firebase.auth();firestore=firebase.firestore();authClient.getRedirectResult().catch(error=>{console.error("Hasil login redirect gagal diproses:",error);const messages={"auth/unauthorized-domain":"Domain situs belum diizinkan di Firebase Authentication.","auth/operation-not-allowed":"Penyedia Google belum diaktifkan di Firebase Authentication."};toast(messages[error.code]||"Login Google gagal diselesaikan. Periksa konfigurasi Firebase.")});authClient.onAuthStateChanged(handleAuthStateChange,error=>{console.error("Status login Firebase gagal dimuat:",error);toast("Status akun gagal dimuat. Muat ulang halaman.")})}catch(error){console.error("Firebase gagal diinisialisasi:",error);toast("Firebase gagal diinisialisasi. Periksa konfigurasi login.")}}
+    function refreshIcons(){if(window.lucide)window.lucide.createIcons()}
+    function navigate(page){activePage=page;renderNav();renderPage();window.scrollTo({top:0,behavior:"smooth"})}
+    function markStudy(){const today=new Date().toISOString().slice(0,10);if(progress.lastStudyDate!==today){const yesterday=new Date();yesterday.setDate(yesterday.getDate()-1);const yesterdayKey=yesterday.toISOString().slice(0,10);progress.streak=progress.lastStudyDate===yesterdayKey?progress.streak+1:1;progress.lastStudyDate=today;if(!progress.studyDays.includes(today))progress.studyDays.push(today);progress.studyDays=progress.studyDays.slice(-90);saveProgress();document.getElementById("sideStreak").textContent=progress.streak}}
+    function completeLesson(id){markStudy();if(!progress.completedLessons.includes(id)){progress.completedLessons.push(id);saveProgress();toast("Materi selesai! Progres belajarmu tersimpan ✨")}renderPage()}
+    function toast(message){const root=document.getElementById("toastRoot");root.innerHTML=`<div class="toast">${escapeHTML(message)}</div>`;window.setTimeout(()=>{root.innerHTML=""},2600)}
+    function speak(text){if(!("speechSynthesis"in window)){toast("Browser ini belum mendukung Text-to-Speech.");return}window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(text);utterance.lang="ko-KR";utterance.rate=.83;window.speechSynthesis.speak(utterance)}
+    function renderPage(){const root=document.getElementById("mainContent");if(activePage==="home")root.innerHTML=renderHome();if(activePage==="hangul")root.innerHTML=renderHangul();if(activePage==="vocab")root.innerHTML=renderVocab();if(activePage==="grammar")root.innerHTML=renderGrammar();if(activePage==="practice")root.innerHTML=renderPractice();if(activePage==="progress")root.innerHTML=renderProgress();bindPageEvents();bindScenarioEvents();refreshIcons()}
+    function statCard(label,value,hint,iconName){return `<div class="card stat-card"><div class="stat-top"><span>${label}</span><span class="stat-icon">${icon(iconName,16)}</span></div><div class="stat-value">${value}</div><div class="stat-hint">${hint}</div></div>`}
+    function renderHome(){const completed=progress.completedLessons.length;const known=progress.knownWords.length;return `<section class="welcome"><div><div class="eyebrow">${icon("sparkles",14)} BELAJAR BAHASA KOREA, JADI LEBIH SERU</div><h1>안녕, teman belajar! 👋</h1><p>Mulai dari satu langkah kecil hari ini. Kamu pasti bisa!</p></div><div class="date-pill">${new Intl.DateTimeFormat("id-ID",{weekday:"long",day:"numeric",month:"long"}).format(new Date())}</div></section>
+      <section class="hero"><div class="hero-copy"><div class="eyebrow">${icon("sparkles",13)} PERJALANAN KOREAMU DIMULAI DI SINI</div><h2>Belajar Korea, santai tapi pasti.</h2><p>Kenali Hangeul, tambah kosakata, dan latihan menyusun kalimat—semua dalam satu ruang belajar.</p><button class="hero-cta" data-go="hangul">Mulai belajar Hangeul ${icon("arrow-right",13)}</button></div></section>
+      <section class="stats-grid">${statCard("Materi selesai",completed,`${completed} dari 2 topik dipelajari`,"circle-check")}${statCard("Kosakata dikuasai",known,`${known} kata ditandai sudah hafal`,"book-marked")}${statCard("Skor kuis terbaik",progress.quizBest?`${progress.quizBest}%`:"—",`${progress.quizRuns} kuis sudah dicoba`,"trophy")}${statCard("Daily streak",`${progress.streak} 🔥`,progress.streak?"Pertahankan kebiasaan baikmu!":"Mulai belajar hari ini","flame")}</section>
+      <div class="section-heading"><h2>Lanjutkan perjalananmu</h2><button class="text-link" data-go="progress">Lihat progres ${icon("arrow-right",12)}</button></div>
+      <section class="course-grid">${courseCard("hangul","languages","Papan Hangeul","Kenali 14 konsonan dan 10 vokal dasar Korea.",consonants.length+vowels.length,progress.completedLessons.includes("hangul"))}${courseCard("vocab","book-open","Kamus & Kosakata","20 kata praktis untuk situasi sehari-hari.",vocabulary.length,progress.knownWords.length>=vocabulary.length)}${courseCard("grammar","spell-check","Tata Bahasa Dasar","Partikel penting dan susunan kalimat Korea.",grammar.length,progress.completedLessons.includes("grammar"))}</section>
+      <div class="section-heading"><h2>Waktunya latihan!</h2></div><section class="course-grid"><article class="card course-card" data-go="practice"><span class="course-icon">${icon("layers",19)}</span><h3>Flashcard & kuis</h3><p>Uji ingatan lewat kartu kosakata dan 10 soal pilihan ganda.</p><div class="card-bottom"><span>Latihan interaktif</span><span>${icon("arrow-up-right",14)}</span></div></article><article class="card course-card" data-go="grammar"><span class="course-icon" style="background:#fff0ed;color:#ee8587">${icon("message-circle",19)}</span><h3>Mulai dari dasar</h3><p>Belajar pola kalimat S-O-K-P dan partikel dengan contoh nyata.</p><div class="card-bottom"><span>4 topik tata bahasa</span><span>${icon("arrow-up-right",14)}</span></div></article></section>`}
+    function courseCard(page,iconName,title,description,total,done){const percent=done?100:0;return `<article class="card course-card" data-go="${page}"><span class="course-icon">${icon(iconName,19)}</span><h3>${title}</h3><p>${description}</p><div class="progress-track" style="margin-top:13px"><div class="progress-fill" style="width:${percent}%"></div></div><div class="card-bottom"><span>${done?"Selesai":page==="vocab"?`${progress.knownWords.length} dari ${total} kata dikuasai`:"Siap dipelajari"}</span><span>${done?"✓":"Mulai"} ${icon("arrow-up-right",12)}</span></div></article>`}
+    function renderHangul(){return `<div class="eyebrow">${icon("languages",14)} MODUL 01</div><h1 class="page-title">Papan Hangeul</h1><p class="page-description">Ketuk huruf untuk melihat cara baca, contoh kata, urutan goresan, dan mendengarkan pengucapannya.</p><div class="card" style="padding:15px 17px;margin-bottom:16px;color:var(--muted);font-size:11px;line-height:1.7">💡 Romanisasi hanya panduan awal. Bunyi beberapa huruf Korea tidak persis sama dengan bunyi Bahasa Indonesia. Gunakan tombol suara untuk mendengarnya.</div><h2 class="hangul-group-title">Konsonan dasar <span class="tag">${consonants.length} huruf</span></h2><div class="letter-grid">${consonants.map((letter,index)=>letterTile(letter,index,"consonant")).join("")}</div><h2 class="hangul-group-title">Vokal dasar <span class="tag">${vowels.length} huruf</span></h2><div class="letter-grid">${vowels.map((letter,index)=>letterTile(letter,index,"vowel")).join("")}</div><div style="display:flex;justify-content:flex-end;margin-top:18px"><button class="primary-btn" data-complete="hangul">${progress.completedLessons.includes("hangul")?"Materi selesai ✓":"Tandai materi selesai"}</button></div>`}
+    function letterTile(item,index,type){return `<button class="letter-tile" data-letter="${type}:${index}" aria-label="Lihat detail huruf ${item.letter}"><span class="letter-glyph" lang="ko">${item.letter}</span><span class="letter-roman">${item.roman}</span></button>`}
+    function showLetter(type,index){const item=(type==="consonant"?consonants:vowels)[Number(index)];const soundText=`${item.letter} ${item.name}`;document.getElementById("modalRoot").innerHTML=`<div class="modal-backdrop" data-dismiss><section class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-head"><h2 id="modalTitle">Detail huruf ${type==="consonant"?"konsonan":"vokal"}</h2><button class="modal-close" data-close aria-label="Tutup">${icon("x",17)}</button></div><div class="modal-glyph" lang="ko">${item.letter}</div><div style="text-align:center;margin-bottom:14px;color:var(--muted);font-size:11px">${item.name}</div><div class="detail-grid"><div class="detail-box"><strong>Cara baca</strong><span>${item.roman} — ${item.sound}</span></div><div class="detail-box"><strong>Contoh kata</strong><span lang="ko">${item.example}</span></div></div><div class="stroke-card"><h3>Urutan goresan (panduan sederhana)</h3><div class="stroke-steps">${item.strokes.map((stroke,i)=>`<span class="stroke-step"><b>${i+1}.</b> ${stroke}</span>`).join("")}</div></div><button class="primary-btn" data-speak="${escapeHTML(soundText)}" style="width:100%;margin-top:14px">${icon("volume-2",15)} Dengarkan pelafalan</button></section></div>`;document.querySelector("[data-close]").addEventListener("click",closeModal);document.querySelector("[data-dismiss]").addEventListener("click",event=>{if(event.target===event.currentTarget)closeModal()});document.querySelector("[data-speak]").addEventListener("click",event=>speak(event.currentTarget.dataset.speak));refreshIcons()}
+    function closeModal(){document.getElementById("modalRoot").innerHTML=""}
+    function renderVocab(){const categories=["Semua",...new Set(vocabulary.map(item=>item.category))];const filtered=vocabulary.filter(item=>(activeCategory==="Semua"||item.category===activeCategory)&&`${item.word} ${item.roman} ${item.meaning}`.toLowerCase().includes(searchQuery.toLowerCase()));return `<div class="eyebrow">${icon("book-open",14)} MODUL 02</div><h1 class="page-title">Kamus & Kosakata</h1><p class="page-description">20 kata praktis, dikelompokkan berdasarkan situasi. Cari kata, dengarkan pengucapannya, dan tandai kata yang sudah kamu kuasai.</p><div class="toolbar"><label class="search-wrap">${icon("search",16)}<input id="vocabSearch" type="search" placeholder="Cari kata Korea atau artinya..." value="${escapeHTML(searchQuery)}" aria-label="Cari kosakata"></label></div><div class="toolbar">${categories.map(category=>`<button class="chip ${activeCategory===category?"selected":""}" data-category="${escapeHTML(category)}">${category}</button>`).join("")}</div><div class="vocab-list">${filtered.length?filtered.map(item=>`<article class="card vocab-row"><div class="vocab-hangul" lang="ko">${item.word}</div><div class="vocab-meaning"><strong>${item.meaning}</strong><span>${item.roman}</span></div><span class="tag">${item.category}</span><button class="speak-btn" data-speak="${escapeHTML(item.word)}" aria-label="Dengarkan ${escapeHTML(item.word)}">${icon("volume-2",15)}</button><button class="speak-btn" data-know="${escapeHTML(item.word)}" aria-label="Tandai kosakata ${escapeHTML(item.word)} ${progress.knownWords.includes(item.word)?"belum hafal":"sudah hafal"}" title="${progress.knownWords.includes(item.word)?"Sudah hafal":"Tandai hafal"}" style="${progress.knownWords.includes(item.word)?"background:#e8f7f0;color:#249b78":""}">${icon(progress.knownWords.includes(item.word)?"check":"bookmark-check",15)}</button></article>`).join(""):`<div class="card empty-state">Tidak ada kosakata yang cocok. Coba kata lain, ya.</div>`}</div><div style="display:flex;justify-content:space-between;align-items:center;margin-top:14px;color:var(--muted);font-size:10px"><span>${filtered.length} kata ditemukan</span><span>${progress.knownWords.length}/${vocabulary.length} sudah dikuasai</span></div>`}
+    function renderGrammar(){return `<div class="eyebrow">${icon("spell-check",14)} MODUL 03</div><h1 class="page-title">Tata Bahasa Dasar</h1><p class="page-description">Pahami pola inti bahasa Korea lewat ringkasan singkat dan contoh kalimat dengan terjemahannya.</p><div class="grammar-callout"><h3>Urutan kalimat Korea: S-O-K-P</h3><p>Subjek + Objek + Keterangan + Predikat. Predikat biasanya berada di akhir kalimat. Partikel membantu menunjukkan fungsi kata, jadi urutannya lebih fleksibel daripada Bahasa Indonesia.</p><div class="example" style="background:#ffffffa8;margin-top:10px" lang="ko">저는 한국어를 학교에서 공부해요.<small>Saya belajar bahasa Korea di sekolah. — 저는 (S) + 한국어를 (O) + 학교에서 (K) + 공부해요 (P)</small></div></div><div class="section-heading"><h2>Partikel penting</h2><span class="tag">4 topik</span></div><section class="grammar-grid">${grammar.map(item=>`<article class="card grammar-card"><span class="tag">${item.particle}</span><h3>${item.title}</h3><p>${item.description}</p><div class="example" lang="ko">${item.example}<small>${item.translation}</small></div><p style="margin-bottom:0"><strong>Ingat:</strong> ${item.tip}</p></article>`).join("")}</section><div style="display:flex;justify-content:flex-end;margin-top:18px"><button class="primary-btn" data-complete="grammar">${progress.completedLessons.includes("grammar")?"Materi selesai ✓":"Tandai materi selesai"}</button></div>`}
+    function renderPractice(){return `<div class="eyebrow">${icon("brain",14)} MODUL 04</div><h1 class="page-title">Ruang Latihan</h1><p class="page-description">Latih ingatan dengan kartu kosakata, uji pemahaman lewat kuis, susun kata, atau praktikkan percakapan sehari-hari.</p><div class="mode-tabs">${[["flashcards","layers","Flashcard"],["quiz","list-checks","Kuis 10 soal"],["build","puzzle","Susun kata"],["scenario","messages-square","Skenario"]].map(([mode,iconName,label])=>`<button class="mode-tab ${practiceMode===mode?"selected":""}" data-mode="${mode}">${icon(iconName,14)} ${label}</button>`).join("")}</div>${practiceMode==="flashcards"?renderFlashcards():practiceMode==="quiz"?renderQuiz():practiceMode==="build"?renderWordBuild():renderScenario()}`}
+    function renderScenario(){const scenario=scenarios[scenarioIndex];const step=scenario.steps[scenarioStep];return `<div class="scenario-grid">${scenarios.map((item,index)=>`<button class="scenario-choice ${scenarioIndex===index?"selected":""}" data-scenario="${index}">${item.title}${progress.completedScenarios.includes(item.id)?" ✓":""}</button>`).join("")}</div><section class="card scenario-panel"><div class="question-label">${scenario.role}</div><h2 class="question-title">${scenario.title}</h2><p class="page-description">Misi: ${scenario.goal}</p>${scenarioFinished?`<div class="feedback"><strong>Latihan selesai! 잘했어요 🎉</strong> Kamu sudah menyelesaikan skenario ini. Pilih situasi lain untuk berlatih lagi.</div><div class="scenario-tip"><strong>Tips:</strong> Ucapkan frasa dengan pelan dan sopan. Dengarkan akhiran kalimat saat berlatih.</div><div class="practice-footer"><span>${scenario.steps.length} langkah selesai</span><button class="primary-btn" data-scenario-action="restart">Ulangi skenario</button></div>`:`<div class="scenario-dialogue"><div class="question-label">Langkah ${scenarioStep+1} dari ${scenario.steps.length}</div><h3 class="question-title" style="font-size:15px">${step.prompt}</h3><div class="scenario-tip"><strong>Tips:</strong> ${step.tip}</div><div class="answer-list">${step.options.map((option,index)=>{let state="";if(scenarioChoice!==null){if(index===step.answer)state="correct";else if(index===scenarioChoice)state="incorrect"}return `<button class="answer-option ${state}" data-scenario-answer="${index}" ${scenarioChoice!==null?"disabled":""}>${option}</button>`}).join("")}</div>${scenarioChoice!==null?`<div class="feedback"><strong>${scenarioChoice===step.answer?"Tepat! 🎉":"Coba ingat lagi."}</strong> ${step.explanation}</div>`:""}<div class="practice-footer"><span style="color:var(--muted);font-size:10px">Progres skenario: ${progress.completedScenarios.includes(scenario.id)?"Selesai sebelumnya":"Sedang latihan"}</span>${scenarioChoice!==null?`<button class="primary-btn" data-scenario-action="next">${scenarioStep===scenario.steps.length-1?"Selesaikan":"Langkah berikutnya"} ${icon("arrow-right",14)}</button>`:""}</div></div>`}</section>`}
+    function renderFlashcards(){const item=vocabulary[flashIndex%vocabulary.length];const known=progress.knownWords.includes(item.word);return `<section class="card practice-card"><div style="display:flex;justify-content:space-between;color:var(--muted);font-size:10px"><span>Kartu ${flashIndex%vocabulary.length+1} / ${vocabulary.length}</span><span>${progress.knownWords.length} kata dikuasai</span></div><div class="flashcard" id="flashCard" role="button" tabindex="0" aria-label="Balik kartu untuk melihat arti"><span class="tag">${item.category}</span><div class="big-hangul" lang="ko">${flashRevealed?item.meaning:item.word}</div><p>${flashRevealed?item.roman:"Ketuk kartu untuk melihat arti"}</p></div><div class="flashcard-actions"><button class="secondary-btn" data-flash="again">${icon("rotate-ccw",14)} Lihat lagi</button><button class="primary-btn" data-flash="${known?"next":"known"}">${known?"Sudah hafal ✓":`${icon("check",14)} Saya hafal`}</button></div><div class="practice-footer"><button class="text-link" data-flash="prev">← Sebelumnya</button><button class="text-link" data-flash="next">Berikutnya →</button></div></section>`}
+    function renderQuiz(){if(quizFinished){const percent=Math.round(quizScore/quizQuestions.length*100);return `<section class="card practice-card" style="text-align:center"><div class="stat-icon" style="margin:5px auto 12px;width:48px;height:48px">${icon(percent>=70?"trophy":"rotate-ccw",24)}</div><div class="question-label">Kuis selesai</div><h2 style="margin:8px 0;font-size:26px">${percent}%</h2><p class="page-description">${quizScore} dari ${quizQuestions.length} jawaban benar. ${percent>=70?"Hebat! Terus pertahankan.":"Coba lagi setelah mengulang materi, ya."}</p><button class="primary-btn" data-quiz="restart">Coba kuis lagi</button></section>`}const item=quizQuestions[quizIndex];return `<section class="card practice-card"><div style="display:flex;justify-content:space-between;color:var(--muted);font-size:10px"><span>Pertanyaan ${quizIndex+1} dari ${quizQuestions.length}</span><span>Skor: ${quizScore}</span></div><div class="progress-track practice-progress"><div class="progress-fill" style="width:${(quizIndex/quizQuestions.length)*100}%"></div></div><div class="question-label">Pilih jawaban yang paling tepat</div><h2 class="question-title">${item.question}</h2><div class="answer-list">${item.options.map((option,index)=>{let state="";if(quizChoice!==null){if(index===item.answer)state="correct";else if(index===quizChoice)state="incorrect"}return `<button class="answer-option ${state}" data-answer="${index}" ${quizChoice!==null?"disabled":""}>${String.fromCharCode(65+index)}. ${option} ${quizChoice!==null&&index===item.answer?"✓":""}</button>`}).join("")}</div>${quizChoice!==null?`<div class="feedback"><strong>${quizChoice===item.answer?"Benar! 🎉":"Belum tepat."}</strong> ${item.explanation}</div>`:""}<div class="practice-footer"><span style="color:var(--muted);font-size:10px">${quizScore} benar sejauh ini</span>${quizChoice!==null?`<button class="primary-btn" data-quiz="next">${quizIndex===quizQuestions.length-1?"Lihat hasil":"Lanjut"} ${icon("arrow-right",14)}</button>`:""}</div></section>`}
+    function renderWordBuild(){const challenge=wordChallenges[buildIndex%wordChallenges.length];const options=[...challenge.tokens,...challenge.distractors];return `<section class="card practice-card"><div class="question-label">Susun kata • Tantangan ${buildIndex%wordChallenges.length+1}</div><h2 class="question-title">${challenge.prompt}</h2><div class="build-answer" aria-label="Susunan jawaban">${buildSelected.map((token,index)=>`<button class="token" data-remove-token="${index}">${token} ×</button>`).join("")||`<span style="align-self:center;color:var(--muted);font-size:10px">Ketuk kata di bawah sesuai urutan kalimat.</span>`}</div><div class="token-bank">${options.map((token,index)=>`<button class="token" data-token="${index}" ${buildSelected.filter(item=>item===token).length>=options.slice(0,index+1).filter(item=>item===token).length?"disabled":""}>${token}</button>`).join("")}</div>${buildChecked?`<div class="feedback"><strong>${isBuildCorrect(challenge)?"Benar! 🎉":"Perhatikan susunannya."}</strong> ${challenge.explanation}</div>`:""}<div class="practice-footer"><button class="secondary-btn" data-build="clear">Hapus susunan</button><button class="primary-btn" data-build="${buildChecked?"next":"check"}" ${!buildChecked&&buildSelected.length===0?"disabled":""}>${buildChecked?"Tantangan berikutnya":"Periksa jawaban"} ${icon(buildChecked?"arrow-right":"check",14)}</button></div></section>`}
+    function isBuildCorrect(challenge){return JSON.stringify(buildSelected)===JSON.stringify(challenge.answer)}
+    function renderProgress(){const known=progress.knownWords.length;const lessons=progress.completedLessons.length;const quizPct=progress.quizBest;const days=Array.from({length:7},(_,i)=>{const date=new Date();date.setDate(date.getDate()-(6-i));const key=date.toISOString().slice(0,10);return{label:new Intl.DateTimeFormat("id-ID",{weekday:"short"}).format(date).slice(0,2),done:progress.studyDays.includes(key)}});return `<div class="eyebrow">${icon("chart-no-axes-column-increasing",14)} PERJALANAN BELAJARMU</div><h1 class="page-title">Progres Belajar</h1><p class="page-description">${authUser?"Progres akun Google disinkronkan antarperangkat.":"Progres tersimpan di browser ini. Masuk dengan Google untuk melanjutkan di perangkat lain."} Terus belajar sedikit demi sedikit, ya!</p><section class="stats-grid">${statCard("Materi selesai",lessons,"Papan Hangeul & tata bahasa","circle-check")}${statCard("Kosakata dikuasai",known,`dari ${vocabulary.length} kata tersedia`,"book-marked")}${statCard("Skor terbaik",quizPct?`${quizPct}%`:"—",`${progress.quizRuns} percobaan kuis`,"trophy")}${statCard("Daily streak",`${progress.streak} 🔥`,progress.lastStudyDate?`Belajar terakhir ${progress.lastStudyDate}`:"Belum mulai belajar","flame")}</section><div class="progress-layout"><section class="card progress-panel"><h3>Ringkasan materi</h3>${progressRow("Papan Hangeul",lessonsDone("hangul")?100:0,`${lessonsDone("hangul")?"Selesai":"Belum selesai"}`)}${progressRow("Tata bahasa",lessonsDone("grammar")?100:0,`${lessonsDone("grammar")?"Selesai":"Belum selesai"}`)}${progressRow("Kosakata",Math.round(known/vocabulary.length*100),`${known} dari ${vocabulary.length} kata`)}${progressRow("Kuis",quizPct,quizPct?`Skor terbaik ${quizPct}%`:"Belum dicoba")}${progressRow("Skenario percakapan",Math.round(progress.completedScenarios.length/scenarios.length*100),`${progress.completedScenarios.length} dari ${scenarios.length} skenario`)}</section><section class="card progress-panel"><h3>Konsistensi 7 hari</h3><p style="margin:0;color:var(--muted);font-size:10px">Hari belajar akan tercatat saat kamu berlatih.</p><div class="streak-calendar">${days.map(day=>`<div class="day-dot ${day.done?"done":""}"><span>${day.done?"✓":"·"}</span>${day.label}</div>`).join("")}</div><div class="grammar-callout" style="margin-top:18px"><h3>Terus semangat! 🌱</h3><p>Latihan singkat yang rutin lebih efektif daripada belajar lama hanya sekali-sekali.</p></div></section></div>`}
+    function lessonsDone(id){return progress.completedLessons.includes(id)}
+    function progressRow(title,percent,note){return `<div class="progress-row"><div class="progress-text"><div style="display:flex;justify-content:space-between;margin-bottom:7px"><strong>${title}</strong><span class="progress-num">${note}</span></div><div class="progress-track"><div class="progress-fill" style="width:${percent}%"></div></div></div><strong class="progress-num">${percent}%</strong></div>`}
+    function bindPageEvents(){document.querySelectorAll("[data-go]").forEach(element=>element.addEventListener("click",()=>navigate(element.dataset.go)));document.querySelectorAll("[data-letter]").forEach(element=>element.addEventListener("click",()=>{const [type,index]=element.dataset.letter.split(":");showLetter(type,index)}));document.querySelectorAll("[data-complete]").forEach(element=>element.addEventListener("click",()=>completeLesson(element.dataset.complete)));document.querySelectorAll("[data-category]").forEach(button=>button.addEventListener("click",()=>{activeCategory=button.dataset.category;renderPage();document.getElementById("vocabSearch")?.focus()}));const search=document.getElementById("vocabSearch");if(search)search.addEventListener("input",event=>{searchQuery=event.target.value;const cursor=event.target.selectionStart;renderPage();const next=document.getElementById("vocabSearch");next.focus();next.setSelectionRange(cursor,cursor)});document.querySelectorAll("[data-speak]").forEach(button=>button.addEventListener("click",()=>speak(button.dataset.speak)));document.querySelectorAll("[data-know]").forEach(button=>button.addEventListener("click",()=>toggleKnown(button.dataset.know)));document.querySelectorAll("[data-mode]").forEach(button=>button.addEventListener("click",()=>{practiceMode=button.dataset.mode;renderPage()}));document.querySelectorAll("[data-flash]").forEach(button=>button.addEventListener("click",()=>handleFlash(button.dataset.flash)));const flash=document.getElementById("flashCard");if(flash){flash.addEventListener("click",()=>{flashRevealed=!flashRevealed;markStudy();renderPage()});flash.addEventListener("keydown",event=>{if(event.key==="Enter"||event.key===" "){event.preventDefault();flash.click()}})}document.querySelectorAll("[data-answer]").forEach(button=>button.addEventListener("click",()=>answerQuiz(Number(button.dataset.answer))));document.querySelectorAll("[data-quiz]").forEach(button=>button.addEventListener("click",()=>handleQuiz(button.dataset.quiz)));document.querySelectorAll("[data-token]").forEach(button=>button.addEventListener("click",()=>{if(buildChecked)return;const challenge=wordChallenges[buildIndex%wordChallenges.length];const choices=[...challenge.tokens,...challenge.distractors];const index=Number(button.dataset.token);const countBefore=choices.slice(0,index).filter(token=>token===choices[index]).length;const usedCount=buildSelected.filter(token=>token===choices[index]).length;if(usedCount===countBefore){buildSelected.push(choices[index]);markStudy();renderPage()}}));document.querySelectorAll("[data-remove-token]").forEach(button=>button.addEventListener("click",()=>{if(buildChecked)return;buildSelected.splice(Number(button.dataset.removeToken),1);renderPage()}));document.querySelectorAll("[data-build]").forEach(button=>button.addEventListener("click",()=>handleBuild(button.dataset.build)))}
+    function bindScenarioEvents(){document.querySelectorAll("[data-scenario]").forEach(button=>button.addEventListener("click",()=>{scenarioIndex=Number(button.dataset.scenario);scenarioStep=0;scenarioChoice=null;scenarioFinished=false;renderPage()}));document.querySelectorAll("[data-scenario-answer]").forEach(button=>button.addEventListener("click",()=>{if(scenarioChoice!==null)return;scenarioChoice=Number(button.dataset.scenarioAnswer);markStudy();renderPage()}));document.querySelectorAll("[data-scenario-action]").forEach(button=>button.addEventListener("click",()=>{if(button.dataset.scenarioAction==="restart"){scenarioStep=0;scenarioChoice=null;scenarioFinished=false}else if(scenarioStep<scenarios[scenarioIndex].steps.length-1){scenarioStep++;scenarioChoice=null}else{scenarioFinished=true;const id=scenarios[scenarioIndex].id;if(!progress.completedScenarios.includes(id))progress.completedScenarios.push(id);saveProgress();markStudy();toast("Skenario selesai! Progresmu tersimpan ✨")}renderPage()}))}
+    function toggleKnown(word){markStudy();if(progress.knownWords.includes(word))progress.knownWords=progress.knownWords.filter(item=>item!==word);else progress.knownWords.push(word);saveProgress();renderPage()}
+    function handleFlash(action){if(action==="known"){const word=vocabulary[flashIndex%vocabulary.length].word;if(!progress.knownWords.includes(word))progress.knownWords.push(word);markStudy();saveProgress()}if(action==="next"||action==="known"){flashIndex=(flashIndex+1)%vocabulary.length;flashRevealed=false;markStudy()}if(action==="prev"){flashIndex=(flashIndex-1+vocabulary.length)%vocabulary.length;flashRevealed=false}if(action==="again")flashRevealed=!flashRevealed;renderPage()}
+    function answerQuiz(choice){if(quizChoice!==null)return;quizChoice=choice;if(choice===quizQuestions[quizIndex].answer)quizScore++;markStudy();renderPage()}
+    function handleQuiz(action){if(action==="restart"){quizIndex=0;quizScore=0;quizChoice=null;quizFinished=false;renderPage();return}if(quizIndex===quizQuestions.length-1){quizFinished=true;progress.quizRuns++;progress.quizBest=Math.max(progress.quizBest,Math.round(quizScore/quizQuestions.length*100));markStudy();saveProgress()}else{quizIndex++;quizChoice=null}renderPage()}
+    function handleBuild(action){if(action==="clear"){buildSelected=[];buildChecked=false}else if(action==="check"){buildChecked=true;markStudy()}else if(action==="next"){buildIndex++;buildSelected=[];buildChecked=false;markStudy()}renderPage()}
+    document.getElementById("themeToggle").addEventListener("click",()=>{const next=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=next;localStorage.setItem("klingo-id-theme",next);document.getElementById("themeToggle").innerHTML=icon(next==="dark"?"sun":"moon");refreshIcons()});
+    document.getElementById("accountButton").addEventListener("click",handleAccountButton);
+    const storedTheme=localStorage.getItem("klingo-id-theme");if(storedTheme==="dark")document.documentElement.dataset.theme="dark";document.getElementById("themeToggle").innerHTML=icon(storedTheme==="dark"?"sun":"moon");renderNav();renderPage();initializeFirebase();
   </script>
 </body>
 </html>
