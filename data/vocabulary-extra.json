@@ -1,0 +1,6302 @@
+[
+  {
+    "word": "당신",
+    "roman": "dangsin",
+    "meaning": "kamu",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "그",
+    "roman": "geu",
+    "meaning": "itu",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "무엇",
+    "roman": "mueot",
+    "meaning": "apa",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "우리",
+    "roman": "uri",
+    "meaning": "kita",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "하다",
+    "roman": "hada",
+    "meaning": "melakukan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "아니요",
+    "roman": "aniyo",
+    "meaning": "tidak",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "안",
+    "roman": "an",
+    "meaning": "tidak",
+    "category": "Keterangan"
+  },
+  {
+    "word": "있다",
+    "roman": "itda",
+    "meaning": "berada",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "알다",
+    "roman": "alda",
+    "meaning": "tahu",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "깡통",
+    "roman": "kkangtong",
+    "meaning": "kaleng",
+    "category": "Kata benda"
+  },
+  {
+    "word": "그러나",
+    "roman": "geureona",
+    "meaning": "tapi",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "모든",
+    "roman": "modeun",
+    "meaning": "semua",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "그래서",
+    "roman": "geuraeseo",
+    "meaning": "jadi",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "거기에",
+    "roman": "geogie",
+    "meaning": "sana",
+    "category": "Keterangan"
+  },
+  {
+    "word": "여기",
+    "roman": "yeogi",
+    "meaning": "sini",
+    "category": "Keterangan"
+  },
+  {
+    "word": "그들",
+    "roman": "geudeul",
+    "meaning": "mereka",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "좋아하다",
+    "roman": "joahada",
+    "meaning": "suka",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "그녀",
+    "roman": "geunyeo",
+    "meaning": "dia",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "가다",
+    "roman": "gada",
+    "meaning": "pergi",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "만약",
+    "roman": "manyak",
+    "meaning": "jika",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "권리",
+    "roman": "gwolli",
+    "meaning": "hak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지금",
+    "roman": "jigeum",
+    "meaning": "sekarang",
+    "category": "Keterangan"
+  },
+  {
+    "word": "오다",
+    "roman": "oda",
+    "meaning": "datang",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "샘",
+    "roman": "saem",
+    "meaning": "sumur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "의지",
+    "roman": "uiji",
+    "meaning": "hendak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "빌다",
+    "roman": "bilda",
+    "meaning": "mau",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "생각하다",
+    "roman": "saenggakada",
+    "meaning": "pikir",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "보다",
+    "roman": "boda",
+    "meaning": "melihat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "좋다",
+    "roman": "jota",
+    "meaning": "baik",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "누구",
+    "roman": "nugu",
+    "meaning": "siapa",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "왜",
+    "roman": "wae",
+    "meaning": "mengapa",
+    "category": "Keterangan"
+  },
+  {
+    "word": "네",
+    "roman": "ne",
+    "meaning": "ya",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "언제",
+    "roman": "eonje",
+    "meaning": "kapan",
+    "category": "Keterangan"
+  },
+  {
+    "word": "등",
+    "roman": "deung",
+    "meaning": "punggung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잡다",
+    "roman": "japda",
+    "meaning": "ambil",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "그때",
+    "roman": "geuttae",
+    "meaning": "saat itu",
+    "category": "Keterangan"
+  },
+  {
+    "word": "또는",
+    "roman": "ttoneun",
+    "meaning": "atau",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "말하다",
+    "roman": "malhada",
+    "meaning": "kata",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "남자",
+    "roman": "namja",
+    "meaning": "pria",
+    "category": "Kata benda"
+  },
+  {
+    "word": "어떤",
+    "roman": "eotteon",
+    "meaning": "beberapa",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "옆에",
+    "roman": "yeope",
+    "meaning": "di sebelah ...",
+    "category": "Kata depan"
+  },
+  {
+    "word": "너무",
+    "roman": "neomu",
+    "meaning": "terlalu",
+    "category": "Keterangan"
+  },
+  {
+    "word": "길",
+    "roman": "gil",
+    "meaning": "jalan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아주",
+    "roman": "aju",
+    "meaning": "sangat",
+    "category": "Keterangan"
+  },
+  {
+    "word": "절대로",
+    "roman": "jeoldaero",
+    "meaning": "tidak pernah",
+    "category": "Keterangan"
+  },
+  {
+    "word": "국민",
+    "roman": "gungmin",
+    "meaning": "orang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "왜냐하면",
+    "roman": "waenyahamyeon",
+    "meaning": "karena",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "적다",
+    "roman": "jeokda",
+    "meaning": "sedikit",
+    "category": "Keterangan"
+  },
+  {
+    "word": "제발",
+    "roman": "jebal",
+    "meaning": "minta tolong",
+    "category": "Keterangan"
+  },
+  {
+    "word": "사랑",
+    "roman": "sarang",
+    "meaning": "suka",
+    "category": "Kata benda"
+  },
+  {
+    "word": "상기",
+    "roman": "sanggi",
+    "meaning": "tersebut",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "고르다",
+    "roman": "goreuda",
+    "meaning": "rata",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "많이",
+    "roman": "mani",
+    "meaning": "banyak",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "물건",
+    "roman": "mulgeon",
+    "meaning": "benda",
+    "category": "Kata benda"
+  },
+  {
+    "word": "돕다",
+    "roman": "dopda",
+    "meaning": "bantu",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "아무것도",
+    "roman": "amugeotdo",
+    "meaning": "apa pun",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "여전히",
+    "roman": "yeojeonhi",
+    "meaning": "masih",
+    "category": "Keterangan"
+  },
+  {
+    "word": "생명",
+    "roman": "saengmyeong",
+    "meaning": "hidup",
+    "category": "Kata benda"
+  },
+  {
+    "word": "일주야",
+    "roman": "iljuya",
+    "meaning": "hari",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신",
+    "roman": "sin",
+    "meaning": "tuhan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "다시",
+    "roman": "dasi",
+    "meaning": "lagi",
+    "category": "Keterangan"
+  },
+  {
+    "word": "아마",
+    "roman": "ama",
+    "meaning": "barangkali",
+    "category": "Keterangan"
+  },
+  {
+    "word": "앞에",
+    "roman": "ape",
+    "meaning": "di depan",
+    "category": "Kata depan"
+  },
+  {
+    "word": "기다리다",
+    "roman": "gidarida",
+    "meaning": "menunggu",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "그치다",
+    "roman": "geuchida",
+    "meaning": "berhenti",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "다음에",
+    "roman": "daeume",
+    "meaning": "setelah",
+    "category": "Kata depan"
+  },
+  {
+    "word": "원",
+    "roman": "won",
+    "meaning": "won",
+    "category": "Kata benda"
+  },
+  {
+    "word": "생각",
+    "roman": "saenggak",
+    "meaning": "pikir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "밤",
+    "roman": "bam",
+    "meaning": "malam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "크다",
+    "roman": "keuda",
+    "meaning": "besar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "모두",
+    "roman": "modu",
+    "meaning": "segala sesuatu",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "새롭다",
+    "roman": "saeropda",
+    "meaning": "baru",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "길다",
+    "roman": "gilda",
+    "meaning": "panjang",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "떠나다",
+    "roman": "tteonada",
+    "meaning": "berangkat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "돈",
+    "roman": "don",
+    "meaning": "uang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "장소",
+    "roman": "jangso",
+    "meaning": "tempat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "언제든",
+    "roman": "eonjedeun",
+    "meaning": "pernah",
+    "category": "Keterangan"
+  },
+  {
+    "word": "느끼다",
+    "roman": "neukkida",
+    "meaning": "merasa",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "아버지",
+    "roman": "abeoji",
+    "meaning": "ayah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "낡다",
+    "roman": "nakda",
+    "meaning": "lama",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "안녕하십니까",
+    "roman": "annyeonghasimnikka",
+    "meaning": "hai",
+    "category": "Interjeksi"
+  },
+  {
+    "word": "소녀",
+    "roman": "sonyeo",
+    "meaning": "anak perempuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "벌금",
+    "roman": "beolgeum",
+    "meaning": "denda",
+    "category": "Kata benda"
+  },
+  {
+    "word": "고마워",
+    "roman": "gomawo",
+    "meaning": "terima kasih",
+    "category": "Interjeksi"
+  },
+  {
+    "word": "각",
+    "roman": "gak",
+    "meaning": "setiap",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "생명체",
+    "roman": "saengmyeongche",
+    "meaning": "makhluk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "코스",
+    "roman": "koseu",
+    "meaning": "kursus",
+    "category": "Kata benda"
+  },
+  {
+    "word": "엄마",
+    "roman": "eomma",
+    "meaning": "ibu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "세계",
+    "roman": "segye",
+    "meaning": "dunia",
+    "category": "Kata benda"
+  },
+  {
+    "word": "나쁘다",
+    "roman": "nappeuda",
+    "meaning": "buruk",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "기억하다",
+    "roman": "gieokada",
+    "meaning": "ingat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "묻다",
+    "roman": "mutda",
+    "meaning": "tanya",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "똑같다",
+    "roman": "ttokgatda",
+    "meaning": "sama",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "죽이다",
+    "roman": "jugida",
+    "meaning": "membunuh",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "차",
+    "roman": "cha",
+    "meaning": "mobil",
+    "category": "Kata benda"
+  },
+  {
+    "word": "여성",
+    "roman": "yeoseong",
+    "meaning": "wanita",
+    "category": "Kata benda"
+  },
+  {
+    "word": "안녕",
+    "roman": "annyeong",
+    "meaning": "hai",
+    "category": "Interjeksi"
+  },
+  {
+    "word": "죽었다",
+    "roman": "jugeotda",
+    "meaning": "mati",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "많은",
+    "roman": "maneun",
+    "meaning": "banyak",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "지옥",
+    "roman": "jiok",
+    "meaning": "neraka",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "아침",
+    "roman": "achim",
+    "meaning": "pagi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "소년",
+    "roman": "sonyeon",
+    "meaning": "anak laki-laki",
+    "category": "Kata benda"
+  },
+  {
+    "word": "함께",
+    "roman": "hamkke",
+    "meaning": "bersama",
+    "category": "Keterangan"
+  },
+  {
+    "word": "직업",
+    "roman": "jigeop",
+    "meaning": "pekerjaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "톱",
+    "roman": "top",
+    "meaning": "gergaji",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아기",
+    "roman": "agi",
+    "meaning": "bayi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "방",
+    "roman": "bang",
+    "meaning": "kamar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "벌써",
+    "roman": "beolsseo",
+    "meaning": "sudah",
+    "category": "Keterangan"
+  },
+  {
+    "word": "움직이다",
+    "roman": "umjigida",
+    "meaning": "pindah",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "그리워하다",
+    "roman": "geuriwohada",
+    "meaning": "merindukan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "똥",
+    "roman": "ttong",
+    "meaning": "tahi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "머리",
+    "roman": "meori",
+    "meaning": "kepala",
+    "category": "Kata benda"
+  },
+  {
+    "word": "들다",
+    "roman": "deulda",
+    "meaning": "memegang",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "행복하다",
+    "roman": "haengbokada",
+    "meaning": "senang",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "문",
+    "roman": "mun",
+    "meaning": "pintu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "씹하다",
+    "roman": "ssipada",
+    "meaning": "ngentot",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "형제",
+    "roman": "hyeongje",
+    "meaning": "saudara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "또한",
+    "roman": "ttohan",
+    "meaning": "juga",
+    "category": "Keterangan"
+  },
+  {
+    "word": "그래도",
+    "roman": "geuraedo",
+    "meaning": "namun",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "처음",
+    "roman": "cheoeum",
+    "meaning": "mulai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "동안",
+    "roman": "dongan",
+    "meaning": "sementara",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "부터",
+    "roman": "buteo",
+    "meaning": "dari",
+    "category": "Kata depan"
+  },
+  {
+    "word": "아내",
+    "roman": "anae",
+    "meaning": "istri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "추측하다",
+    "roman": "chucheukada",
+    "meaning": "pikir",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "물질",
+    "roman": "muljil",
+    "meaning": "materi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "만나다",
+    "roman": "mannada",
+    "meaning": "bertemu",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "달리다",
+    "roman": "dallida",
+    "meaning": "lari",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "딱딱하다",
+    "roman": "ttakttakada",
+    "meaning": "keras",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "자신",
+    "roman": "jasin",
+    "meaning": "diri",
+    "category": "Kata ganti"
+  },
+  {
+    "word": "격언",
+    "roman": "gyeogeon",
+    "meaning": "pepatah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "놀다",
+    "roman": "nolda",
+    "meaning": "bermain",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "문제",
+    "roman": "munje",
+    "meaning": "masalah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "전에",
+    "roman": "jeone",
+    "meaning": "yang lalu",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "열다",
+    "roman": "yeolda",
+    "meaning": "buka",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "바람",
+    "roman": "baram",
+    "meaning": "harapan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "얼굴",
+    "roman": "eolgul",
+    "meaning": "wajah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "경찰",
+    "roman": "gyeongchal",
+    "meaning": "polisi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "돌다",
+    "roman": "dolda",
+    "meaning": "berbelok",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "사업",
+    "roman": "saeop",
+    "meaning": "perusahaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "참되다",
+    "roman": "chamdoeda",
+    "meaning": "benar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "죽다",
+    "roman": "jukda",
+    "meaning": "mati",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "심장",
+    "roman": "simjang",
+    "meaning": "jantung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "곧",
+    "roman": "got",
+    "meaning": "segera",
+    "category": "Keterangan"
+  },
+  {
+    "word": "각각의",
+    "roman": "gakgagui",
+    "meaning": "setiap",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "년",
+    "roman": "nyeon",
+    "meaning": "tahun",
+    "category": "Kata benda"
+  },
+  {
+    "word": "시계",
+    "roman": "sigye",
+    "meaning": "jam tangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "음악",
+    "roman": "eumak",
+    "meaning": "musik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "손",
+    "roman": "son",
+    "meaning": "tangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아름답다",
+    "roman": "areumdapda",
+    "meaning": "indah",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "박사",
+    "roman": "baksa",
+    "meaning": "doktor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "먹다",
+    "roman": "meokda",
+    "meaning": "makan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "어리다",
+    "roman": "eorida",
+    "meaning": "muda",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "초",
+    "roman": "cho",
+    "meaning": "detik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사람",
+    "roman": "saram",
+    "meaning": "orang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부분",
+    "roman": "bubun",
+    "meaning": "bagian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "정확하게",
+    "roman": "jeonghwakage",
+    "meaning": "tepat",
+    "category": "Keterangan"
+  },
+  {
+    "word": "죽음",
+    "roman": "jugeum",
+    "meaning": "kematian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "분",
+    "roman": "bun",
+    "meaning": "menit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바뀌다",
+    "roman": "bakkwida",
+    "meaning": "berubah",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "일어나다",
+    "roman": "ireonada",
+    "meaning": "terjadi",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "마시다",
+    "roman": "masida",
+    "meaning": "minum",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "치다",
+    "roman": "chida",
+    "meaning": "pukul",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "헤프다",
+    "roman": "hepeuda",
+    "meaning": "gampangan",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "곱하기",
+    "roman": "gopagi",
+    "meaning": "kali",
+    "category": "Kata depan"
+  },
+  {
+    "word": "확인하다",
+    "roman": "hwaginhada",
+    "meaning": "periksa",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "점",
+    "roman": "jeom",
+    "meaning": "titik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "광산",
+    "roman": "gwangsan",
+    "meaning": "tambang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "몸",
+    "roman": "mom",
+    "meaning": "tubuh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무서워하다",
+    "roman": "museowohada",
+    "meaning": "takut",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "자다",
+    "roman": "jada",
+    "meaning": "tidur",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "기회",
+    "roman": "gihoe",
+    "meaning": "kesempatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "닫다",
+    "roman": "datda",
+    "meaning": "tutup",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "파티",
+    "roman": "pati",
+    "meaning": "pesta",
+    "category": "Kata benda"
+  },
+  {
+    "word": "말",
+    "roman": "mal",
+    "meaning": "kata",
+    "category": "Kata benda"
+  },
+  {
+    "word": "중요하다",
+    "roman": "jungyohada",
+    "meaning": "penting",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "집합",
+    "roman": "jipap",
+    "meaning": "himpunan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이야기",
+    "roman": "iyagi",
+    "meaning": "cerita",
+    "category": "Kata benda"
+  },
+  {
+    "word": "숫자",
+    "roman": "sutja",
+    "meaning": "angka",
+    "category": "Kata benda"
+  },
+  {
+    "word": "딸",
+    "roman": "ttal",
+    "meaning": "putri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "순간",
+    "roman": "sungan",
+    "meaning": "saat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "다투다",
+    "roman": "datuda",
+    "meaning": "kelahi",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "주",
+    "roman": "ju",
+    "meaning": "minggu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "남편",
+    "roman": "nampyeon",
+    "meaning": "suami",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쉬다",
+    "roman": "swida",
+    "meaning": "beristirahat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "불",
+    "roman": "bul",
+    "meaning": "api",
+    "category": "Kata benda"
+  },
+  {
+    "word": "놀이",
+    "roman": "nori",
+    "meaning": "permainan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "서다",
+    "roman": "seoda",
+    "meaning": "berdiri",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "읽다",
+    "roman": "ikda",
+    "meaning": "baca",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "자매",
+    "roman": "jamae",
+    "meaning": "saudari",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가운데에",
+    "roman": "gaundee",
+    "meaning": "di antara",
+    "category": "Kata depan"
+  },
+  {
+    "word": "어린이",
+    "roman": "eorini",
+    "meaning": "anak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거의",
+    "roman": "geoui",
+    "meaning": "hampir",
+    "category": "Keterangan"
+  },
+  {
+    "word": "진실",
+    "roman": "jinsil",
+    "meaning": "kebenaran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "피",
+    "roman": "pi",
+    "meaning": "darah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이유",
+    "roman": "iyu",
+    "meaning": "alasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "깨트리다",
+    "roman": "kkaeteurida",
+    "meaning": "memutuskan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "전쟁",
+    "roman": "jeonjaeng",
+    "meaning": "perang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "도시",
+    "roman": "dosi",
+    "meaning": "kota",
+    "category": "Kata benda"
+  },
+  {
+    "word": "마을",
+    "roman": "maeul",
+    "meaning": "kota",
+    "category": "Kata benda"
+  },
+  {
+    "word": "믿음",
+    "roman": "mideum",
+    "meaning": "kepercayaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사무소",
+    "roman": "samuso",
+    "meaning": "kantor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "질문",
+    "roman": "jilmun",
+    "meaning": "pertanyaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "환영하다",
+    "roman": "hwanyeonghada",
+    "meaning": "menyambut",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "높다",
+    "roman": "nopda",
+    "meaning": "tinggi",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "반",
+    "roman": "ban",
+    "meaning": "setengah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쌀쌀하다",
+    "roman": "ssalssalhada",
+    "meaning": "sejuk",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "힘",
+    "roman": "him",
+    "meaning": "kekuasaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사다",
+    "roman": "sada",
+    "meaning": "membeli",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "꿀",
+    "roman": "kkul",
+    "meaning": "madu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "앞",
+    "roman": "ap",
+    "meaning": "hadapan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "팀",
+    "roman": "tim",
+    "meaning": "tim",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대답",
+    "roman": "daedap",
+    "meaning": "jawaban",
+    "category": "Kata benda"
+  },
+  {
+    "word": "총",
+    "roman": "chong",
+    "meaning": "pistol",
+    "category": "Kata benda"
+  },
+  {
+    "word": "줄",
+    "roman": "jul",
+    "meaning": "baris",
+    "category": "Kata benda"
+  },
+  {
+    "word": "소식",
+    "roman": "sosik",
+    "meaning": "berita",
+    "category": "Kata benda"
+  },
+  {
+    "word": "어리석다",
+    "roman": "eoriseokda",
+    "meaning": "bodoh",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "침대",
+    "roman": "chimdae",
+    "meaning": "ranjang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "채우다",
+    "roman": "chaeuda",
+    "meaning": "penuh",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "구하다",
+    "roman": "guhada",
+    "meaning": "selamatkan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "때때로",
+    "roman": "ttaettaero",
+    "meaning": "kadang",
+    "category": "Keterangan"
+  },
+  {
+    "word": "싫어하다",
+    "roman": "sireohada",
+    "meaning": "benci",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "음식",
+    "roman": "eumsik",
+    "meaning": "makanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가볍다",
+    "roman": "gabyeopda",
+    "meaning": "ringan",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "수캐",
+    "roman": "sukae",
+    "meaning": "anjing jantan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "나라",
+    "roman": "nara",
+    "meaning": "negara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "맑다",
+    "roman": "makda",
+    "meaning": "jelas",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "명령",
+    "roman": "myeongnyeong",
+    "meaning": "perintah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "선장",
+    "roman": "seonjang",
+    "meaning": "kapten",
+    "category": "Kata benda"
+  },
+  {
+    "word": "여섯",
+    "roman": "yeoseot",
+    "meaning": "enam",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "뜨겁다",
+    "roman": "tteugeopda",
+    "meaning": "panas",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "우습다",
+    "roman": "useupda",
+    "meaning": "lucu",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "검다",
+    "roman": "geomda",
+    "meaning": "hitam",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "따다",
+    "roman": "ttada",
+    "meaning": "memetik",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "감각",
+    "roman": "gamgak",
+    "meaning": "perasaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "원인",
+    "roman": "wonin",
+    "meaning": "penyebab",
+    "category": "Kata benda"
+  },
+  {
+    "word": "임금",
+    "roman": "imgeum",
+    "meaning": "raja",
+    "category": "Kata benda"
+  },
+  {
+    "word": "계획",
+    "roman": "gyehoek",
+    "meaning": "rencana",
+    "category": "Kata benda"
+  },
+  {
+    "word": "상사",
+    "roman": "sangsa",
+    "meaning": "bos",
+    "category": "Kata benda"
+  },
+  {
+    "word": "금고",
+    "roman": "geumgo",
+    "meaning": "brankas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "희다",
+    "roman": "huida",
+    "meaning": "putih",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "시",
+    "roman": "si",
+    "meaning": "jam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "작다",
+    "roman": "jakda",
+    "meaning": "kecil",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "완벽하다",
+    "roman": "wanbyeokada",
+    "meaning": "sempurna",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "특별하다",
+    "roman": "teukbyeolhada",
+    "meaning": "khusus",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "회사",
+    "roman": "hoesa",
+    "meaning": "perusahaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아저씨",
+    "roman": "ajeossi",
+    "meaning": "paman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가난하다",
+    "roman": "gananhada",
+    "meaning": "miskin",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "빨갛다",
+    "roman": "ppalgata",
+    "meaning": "merah",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "과거",
+    "roman": "gwageo",
+    "meaning": "masa lalu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "흙",
+    "roman": "heuk",
+    "meaning": "tanah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "소리",
+    "roman": "sori",
+    "meaning": "bunyi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "꼭대기",
+    "roman": "kkokdaegi",
+    "meaning": "atas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "나귀",
+    "roman": "nagwi",
+    "meaning": "keledai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이기다",
+    "roman": "igida",
+    "meaning": "menang",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "머리칼",
+    "roman": "meorikal",
+    "meaning": "rambut",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잭",
+    "roman": "jaek",
+    "meaning": "dongkrak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "암캐",
+    "roman": "amkae",
+    "meaning": "anjing betina",
+    "category": "Kata benda"
+  },
+  {
+    "word": "운",
+    "roman": "un",
+    "meaning": "keberuntungan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "살인",
+    "roman": "sarin",
+    "meaning": "pembunuhan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공기",
+    "roman": "gonggi",
+    "meaning": "udara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "빠르다",
+    "roman": "ppareuda",
+    "meaning": "cepat",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "차다",
+    "roman": "chada",
+    "meaning": "dingin",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "거리",
+    "roman": "geori",
+    "meaning": "jalan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "춤추다",
+    "roman": "chumchuda",
+    "meaning": "menari",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "회합",
+    "roman": "hoehap",
+    "meaning": "pertemuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거짓말",
+    "roman": "geojinmal",
+    "meaning": "bohong",
+    "category": "Kata benda"
+  },
+  {
+    "word": "저녁",
+    "roman": "jeonyeok",
+    "meaning": "malam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "주인",
+    "roman": "juin",
+    "meaning": "master",
+    "category": "Kata benda"
+  },
+  {
+    "word": "백만",
+    "roman": "baengman",
+    "meaning": "juta",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "목소리",
+    "roman": "moksori",
+    "meaning": "suara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "달다",
+    "roman": "dalda",
+    "meaning": "manis",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "서명하다",
+    "roman": "seomyeonghada",
+    "meaning": "menandatangani",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "조심하다",
+    "roman": "josimhada",
+    "meaning": "hati-hati",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "돌아가다",
+    "roman": "doragada",
+    "meaning": "pulang",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "비밀",
+    "roman": "bimil",
+    "meaning": "rahasia",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대추",
+    "roman": "daechu",
+    "meaning": "kurma",
+    "category": "Kata benda"
+  },
+  {
+    "word": "단층",
+    "roman": "dancheung",
+    "meaning": "patahan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "똑바르다",
+    "roman": "ttokbareuda",
+    "meaning": "lurus",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "노래",
+    "roman": "norae",
+    "meaning": "lagu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "미래",
+    "roman": "mirae",
+    "meaning": "masa depan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "화나다",
+    "roman": "hwanada",
+    "meaning": "gusar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "걸음",
+    "roman": "georeum",
+    "meaning": "langkah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이르다",
+    "roman": "ireuda",
+    "meaning": "pagi-pagi",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "깨끗하다",
+    "roman": "kkaekkeuthada",
+    "meaning": "bersih",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "던지다",
+    "roman": "deonjida",
+    "meaning": "lempar",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "그림",
+    "roman": "geurim",
+    "meaning": "gambar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "땅",
+    "roman": "ttang",
+    "meaning": "tanah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "말하기",
+    "roman": "malhagi",
+    "meaning": "berbicara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "값",
+    "roman": "gap",
+    "meaning": "nilai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "달링",
+    "roman": "dalling",
+    "meaning": "sayang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "놈",
+    "roman": "nom",
+    "meaning": "bung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대통령",
+    "roman": "daetongnyeong",
+    "meaning": "presiden",
+    "category": "Kata benda"
+  },
+  {
+    "word": "눈",
+    "roman": "nun",
+    "meaning": "mata",
+    "category": "Kata benda"
+  },
+  {
+    "word": "몸매",
+    "roman": "mommae",
+    "meaning": "sosok",
+    "category": "Kata benda"
+  },
+  {
+    "word": "국가",
+    "roman": "gukga",
+    "meaning": "negara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "강하다",
+    "roman": "ganghada",
+    "meaning": "kuat",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "행위",
+    "roman": "haengwi",
+    "meaning": "tindakan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "법",
+    "roman": "beop",
+    "meaning": "hukum",
+    "category": "Kata benda"
+  },
+  {
+    "word": "걱정되다",
+    "roman": "geokjeongdoeda",
+    "meaning": "khawatir",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "보고",
+    "roman": "bogo",
+    "meaning": "laporan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "결혼식",
+    "roman": "gyeolhonsik",
+    "meaning": "pernikahan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이상하다",
+    "roman": "isanghada",
+    "meaning": "aneh",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "장군",
+    "roman": "janggun",
+    "meaning": "jenderal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아픔",
+    "roman": "apeum",
+    "meaning": "sakit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "클래스",
+    "roman": "keullaeseu",
+    "meaning": "kelas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "장교",
+    "roman": "janggyo",
+    "meaning": "perwira",
+    "category": "Kata benda"
+  },
+  {
+    "word": "실수",
+    "roman": "silsu",
+    "meaning": "kesalahan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "입맞추다",
+    "roman": "immatchuda",
+    "meaning": "cium",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "재판소",
+    "roman": "jaepanso",
+    "meaning": "pengadilan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "건물",
+    "roman": "geonmul",
+    "meaning": "gedung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "끝",
+    "roman": "kkeut",
+    "meaning": "selesai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연령",
+    "roman": "yeollyeong",
+    "meaning": "usia",
+    "category": "Kata benda"
+  },
+  {
+    "word": "배",
+    "roman": "bae",
+    "meaning": "kapal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "어둡다",
+    "roman": "eodupda",
+    "meaning": "gelap",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "체계",
+    "roman": "chegye",
+    "meaning": "sistem",
+    "category": "Kata benda"
+  },
+  {
+    "word": "증거",
+    "roman": "jeunggeo",
+    "meaning": "bukti",
+    "category": "Kata benda"
+  },
+  {
+    "word": "영화",
+    "roman": "yeonghwa",
+    "meaning": "film",
+    "category": "Kata benda"
+  },
+  {
+    "word": "입",
+    "roman": "ip",
+    "meaning": "mulut",
+    "category": "Kata benda"
+  },
+  {
+    "word": "생일",
+    "roman": "saengil",
+    "meaning": "ulang tahun",
+    "category": "Kata benda"
+  },
+  {
+    "word": "안내",
+    "roman": "annae",
+    "meaning": "informasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대신에",
+    "roman": "daesine",
+    "meaning": "malah",
+    "category": "Keterangan"
+  },
+  {
+    "word": "명확히",
+    "roman": "myeonghwaki",
+    "meaning": "pasti",
+    "category": "Keterangan"
+  },
+  {
+    "word": "안전",
+    "roman": "anjeon",
+    "meaning": "keamanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "달",
+    "roman": "dal",
+    "meaning": "bulan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "일곱",
+    "roman": "ilgop",
+    "meaning": "tujuh",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "옷",
+    "roman": "ot",
+    "meaning": "pakaian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "호텔",
+    "roman": "hotel",
+    "meaning": "hotel",
+    "category": "Kata benda"
+  },
+  {
+    "word": "둥글다",
+    "roman": "dunggeulda",
+    "meaning": "bundar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "노래하다",
+    "roman": "noraehada",
+    "meaning": "bernyanyi",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "역사",
+    "roman": "yeoksa",
+    "meaning": "sejarah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "푸르다",
+    "roman": "pureuda",
+    "meaning": "biru",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "가깝다",
+    "roman": "gakkapda",
+    "meaning": "dekat",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "터미널",
+    "roman": "teomineol",
+    "meaning": "stasiun",
+    "category": "Kata benda"
+  },
+  {
+    "word": "테이블",
+    "roman": "teibeul",
+    "meaning": "meja",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바위",
+    "roman": "bawi",
+    "meaning": "bebatuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "손잡이",
+    "roman": "sonjabi",
+    "meaning": "pegangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "중앙",
+    "roman": "jungang",
+    "meaning": "tengah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바닥",
+    "roman": "badak",
+    "meaning": "lantai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가락지",
+    "roman": "garakji",
+    "meaning": "cincin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "위험하다",
+    "roman": "wiheomhada",
+    "meaning": "berbahaya",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "법률안",
+    "roman": "beomnyuran",
+    "meaning": "rancangan undang-undang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "육군",
+    "roman": "yukgun",
+    "meaning": "tentara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "납",
+    "roman": "nap",
+    "meaning": "timbal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "해",
+    "roman": "hae",
+    "meaning": "matahari",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "편지",
+    "roman": "pyeonji",
+    "meaning": "surat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바보",
+    "roman": "babo",
+    "meaning": "tolol",
+    "category": "Kata benda"
+  },
+  {
+    "word": "동아리",
+    "roman": "dongari",
+    "meaning": "klub",
+    "category": "Kata benda"
+  },
+  {
+    "word": "흥미롭다",
+    "roman": "heungmiropda",
+    "meaning": "menarik",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "우주",
+    "roman": "uju",
+    "meaning": "antariksa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "시험",
+    "roman": "siheom",
+    "meaning": "tes",
+    "category": "Kata benda"
+  },
+  {
+    "word": "상자",
+    "roman": "sangja",
+    "meaning": "kotak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "그룹",
+    "roman": "geurup",
+    "meaning": "grup",
+    "category": "Kata benda"
+  },
+  {
+    "word": "결혼",
+    "roman": "gyeolhon",
+    "meaning": "pernikahan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공포",
+    "roman": "gongpo",
+    "meaning": "takut",
+    "category": "Kata benda"
+  },
+  {
+    "word": "평안",
+    "roman": "pyeongan",
+    "meaning": "keamanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "범죄",
+    "roman": "beomjoe",
+    "meaning": "kejahatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "세다",
+    "roman": "seda",
+    "meaning": "menghitung",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "지역",
+    "roman": "jiyeok",
+    "meaning": "kawasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비난",
+    "roman": "binan",
+    "meaning": "tuduhan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "점심",
+    "roman": "jeomsim",
+    "meaning": "makan siang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "라디오",
+    "roman": "radio",
+    "meaning": "peti bicara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "백치",
+    "roman": "baekchi",
+    "meaning": "bodoh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "볼",
+    "roman": "bol",
+    "meaning": "bola",
+    "category": "Kata benda"
+  },
+  {
+    "word": "놀라움",
+    "roman": "nollaum",
+    "meaning": "kejutan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "종이",
+    "roman": "jongi",
+    "meaning": "kertas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "열쇠",
+    "roman": "yeolsoe",
+    "meaning": "kunci",
+    "category": "Kata benda"
+  },
+  {
+    "word": "빨리",
+    "roman": "ppalli",
+    "meaning": "dengan cepat",
+    "category": "Keterangan"
+  },
+  {
+    "word": "금",
+    "roman": "geum",
+    "meaning": "emas",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "술집",
+    "roman": "suljip",
+    "meaning": "bar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "물고기",
+    "roman": "mulgogi",
+    "meaning": "ikan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사고",
+    "roman": "sago",
+    "meaning": "kecelakaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "정부",
+    "roman": "jeongbu",
+    "meaning": "pemerintah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "씌우다",
+    "roman": "ssuiuda",
+    "meaning": "menutup",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "별",
+    "roman": "byeol",
+    "meaning": "bintang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바다",
+    "roman": "bada",
+    "meaning": "laut",
+    "category": "Kata benda"
+  },
+  {
+    "word": "동의하다",
+    "roman": "donguihada",
+    "meaning": "menyetujui",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "탐정",
+    "roman": "tamjeong",
+    "meaning": "detektif",
+    "category": "Kata benda"
+  },
+  {
+    "word": "교도소",
+    "roman": "gyodoso",
+    "meaning": "penjara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "소좌",
+    "roman": "sojwa",
+    "meaning": "mayor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "막대기",
+    "roman": "makdaegi",
+    "meaning": "tongkat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "제공",
+    "roman": "jegong",
+    "meaning": "tawaran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "어렵다",
+    "roman": "eoryeopda",
+    "meaning": "sulit",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "기록",
+    "roman": "girok",
+    "meaning": "rekor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "숨기다",
+    "roman": "sumgida",
+    "meaning": "menyembunyikan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "은행",
+    "roman": "eunhaeng",
+    "meaning": "bank",
+    "category": "Kata benda"
+  },
+  {
+    "word": "여행",
+    "roman": "yeohaeng",
+    "meaning": "perjalanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대중",
+    "roman": "daejung",
+    "meaning": "publik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "명부",
+    "roman": "myeongbu",
+    "meaning": "daftar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "오후",
+    "roman": "ohu",
+    "meaning": "sore",
+    "category": "Kata benda"
+  },
+  {
+    "word": "뇌",
+    "roman": "noe",
+    "meaning": "otak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사생자",
+    "roman": "sasaengja",
+    "meaning": "anak haram",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자랑스럽다",
+    "roman": "jarangseureopda",
+    "meaning": "bangga",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "서비스",
+    "roman": "seobiseu",
+    "meaning": "jawa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공원",
+    "roman": "gongwon",
+    "meaning": "taman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "영혼",
+    "roman": "yeonghon",
+    "meaning": "roh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "풍부하다",
+    "roman": "pungbuhada",
+    "meaning": "kaya",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "대리인",
+    "roman": "daeriin",
+    "meaning": "agen",
+    "category": "Kata benda"
+  },
+  {
+    "word": "불다",
+    "roman": "bulda",
+    "meaning": "tiup",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "장면",
+    "roman": "jangmyeon",
+    "meaning": "tempat kejadian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "존중",
+    "roman": "jonjung",
+    "meaning": "hormat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "살인자",
+    "roman": "sarinja",
+    "meaning": "pembunuh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "얼음",
+    "roman": "eoreum",
+    "meaning": "es",
+    "category": "Kata benda"
+  },
+  {
+    "word": "교회",
+    "roman": "gyohoe",
+    "meaning": "gereja",
+    "category": "Kata benda"
+  },
+  {
+    "word": "슬프다",
+    "roman": "seulpeuda",
+    "meaning": "sedih",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "세포",
+    "roman": "sepo",
+    "meaning": "sel",
+    "category": "Kata benda"
+  },
+  {
+    "word": "취하다",
+    "roman": "chwihada",
+    "meaning": "mabuk",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "주식",
+    "roman": "jusik",
+    "meaning": "saham",
+    "category": "Kata benda"
+  },
+  {
+    "word": "카메라",
+    "roman": "kamera",
+    "meaning": "kamera",
+    "category": "Kata benda"
+  },
+  {
+    "word": "카드",
+    "roman": "kadeu",
+    "meaning": "kartu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "파리",
+    "roman": "pari",
+    "meaning": "lalat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "여자친구",
+    "roman": "yeojachingu",
+    "meaning": "pacar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "냄새",
+    "roman": "naemsae",
+    "meaning": "bau",
+    "category": "Kata benda"
+  },
+  {
+    "word": "정직하다",
+    "roman": "jeongjikada",
+    "meaning": "jujur",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "수시로",
+    "roman": "susiro",
+    "meaning": "sering",
+    "category": "Keterangan"
+  },
+  {
+    "word": "재판관",
+    "roman": "jaepangwan",
+    "meaning": "hakim",
+    "category": "Kata benda"
+  },
+  {
+    "word": "창문",
+    "roman": "changmun",
+    "meaning": "jendela",
+    "category": "Kata benda"
+  },
+  {
+    "word": "배고프다",
+    "roman": "baegopeuda",
+    "meaning": "lapar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "관계",
+    "roman": "gwangye",
+    "meaning": "hubungan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "증명하다",
+    "roman": "jeungmyeonghada",
+    "meaning": "membuktikan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "이등병",
+    "roman": "ideungbyeong",
+    "meaning": "prajurit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "벽",
+    "roman": "byeok",
+    "meaning": "dinding",
+    "category": "Kata benda"
+  },
+  {
+    "word": "중위",
+    "roman": "jungwi",
+    "meaning": "letnan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "실현하다",
+    "roman": "silhyeonhada",
+    "meaning": "mewujudkan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "특히",
+    "roman": "teuki",
+    "meaning": "lebih-lebih",
+    "category": "Keterangan"
+  },
+  {
+    "word": "기계",
+    "roman": "gigye",
+    "meaning": "mesin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "보행",
+    "roman": "bohaeng",
+    "meaning": "jalan-jalan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아트",
+    "roman": "ateu",
+    "meaning": "seni",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쾌락",
+    "roman": "kwaerak",
+    "meaning": "kesenangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "불가능하다",
+    "roman": "bulganeunghada",
+    "meaning": "mustahil",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "여왕",
+    "roman": "yeowang",
+    "meaning": "ratu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "선생",
+    "roman": "seonsaeng",
+    "meaning": "guru",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아파트",
+    "roman": "apateu",
+    "meaning": "apartemen",
+    "category": "Kata benda"
+  },
+  {
+    "word": "귀엽다",
+    "roman": "gwiyeopda",
+    "meaning": "imut",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "사악하다",
+    "roman": "saakada",
+    "meaning": "jahat",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "농담",
+    "roman": "nongdam",
+    "meaning": "candaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "감옥",
+    "roman": "gamok",
+    "meaning": "penjara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "변호사",
+    "roman": "byeonhosa",
+    "meaning": "pengacara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "감사하다",
+    "roman": "gamsahada",
+    "meaning": "berterima kasih",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "가게",
+    "roman": "gage",
+    "meaning": "toko",
+    "category": "Kata benda"
+  },
+  {
+    "word": "밭",
+    "roman": "bat",
+    "meaning": "bidang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "포도주",
+    "roman": "podoju",
+    "meaning": "anggur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "결정",
+    "roman": "gyeoljeong",
+    "meaning": "keputusan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "남",
+    "roman": "nam",
+    "meaning": "selatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "웃음",
+    "roman": "useum",
+    "meaning": "tawa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "섬",
+    "roman": "seom",
+    "meaning": "pulau",
+    "category": "Kata benda"
+  },
+  {
+    "word": "유리",
+    "roman": "yuri",
+    "meaning": "kaca",
+    "category": "Kata benda"
+  },
+  {
+    "word": "현찰",
+    "roman": "hyeonchal",
+    "meaning": "tunai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "백",
+    "roman": "baek",
+    "meaning": "seratus",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "누구의",
+    "roman": "nuguui",
+    "meaning": "punya siapa",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "차이",
+    "roman": "chai",
+    "meaning": "perbedaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비행기",
+    "roman": "bihaenggi",
+    "meaning": "pesawat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "밀다",
+    "roman": "milda",
+    "meaning": "dorong",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "가창",
+    "roman": "gachang",
+    "meaning": "menyanyi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "북",
+    "roman": "buk",
+    "meaning": "utara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "나무",
+    "roman": "namu",
+    "meaning": "pohon",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아씨",
+    "roman": "assi",
+    "meaning": "nyonya",
+    "category": "Kata benda"
+  },
+  {
+    "word": "선물",
+    "roman": "seonmul",
+    "meaning": "hadiah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "트럭",
+    "roman": "teureok",
+    "meaning": "truk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "곰",
+    "roman": "gom",
+    "meaning": "beruang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "맥주",
+    "roman": "maekju",
+    "meaning": "bir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "마술",
+    "roman": "masul",
+    "meaning": "sihir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지원",
+    "roman": "jiwon",
+    "meaning": "tunjangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "파트너",
+    "roman": "pateuneo",
+    "meaning": "mitra",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대령",
+    "roman": "daeryeong",
+    "meaning": "kolonel",
+    "category": "Kata benda"
+  },
+  {
+    "word": "천",
+    "roman": "cheon",
+    "meaning": "seribu",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "경험",
+    "roman": "gyeongheom",
+    "meaning": "pengalaman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "건배",
+    "roman": "geonbae",
+    "meaning": "bersulang",
+    "category": "Interjeksi"
+  },
+  {
+    "word": "희생",
+    "roman": "huisaeng",
+    "meaning": "kurban",
+    "category": "Kata benda"
+  },
+  {
+    "word": "컴퓨터",
+    "roman": "keompyuteo",
+    "meaning": "komputer",
+    "category": "Kata benda"
+  },
+  {
+    "word": "행성",
+    "roman": "haengseong",
+    "meaning": "planet",
+    "category": "Kata benda"
+  },
+  {
+    "word": "헨리",
+    "roman": "helli",
+    "meaning": "henry",
+    "category": "Kata benda"
+  },
+  {
+    "word": "더럽다",
+    "roman": "deoreopda",
+    "meaning": "kotor",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "갑자기",
+    "roman": "gapjagi",
+    "meaning": "tiba-tiba",
+    "category": "Keterangan"
+  },
+  {
+    "word": "뛰다",
+    "roman": "ttwida",
+    "meaning": "melompat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "노크하다",
+    "roman": "nokeuhada",
+    "meaning": "ketuk",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "강",
+    "roman": "gang",
+    "meaning": "sungai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "고모",
+    "roman": "gomo",
+    "meaning": "bibi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "환자",
+    "roman": "hwanja",
+    "meaning": "pasien",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부엌",
+    "roman": "bueok",
+    "meaning": "dapur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지방",
+    "roman": "jibang",
+    "meaning": "lemak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "여름",
+    "roman": "yeoreum",
+    "meaning": "musim panas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "어디에나",
+    "roman": "eodiena",
+    "meaning": "di mana-mana",
+    "category": "Keterangan"
+  },
+  {
+    "word": "주소",
+    "roman": "juso",
+    "meaning": "alamat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "경기",
+    "roman": "gyeonggi",
+    "meaning": "pertandingan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "마시기",
+    "roman": "masigi",
+    "meaning": "peminuman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "미디어",
+    "roman": "midieo",
+    "meaning": "pers",
+    "category": "Kata benda"
+  },
+  {
+    "word": "발",
+    "roman": "bal",
+    "meaning": "kaki",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비난하다",
+    "roman": "binanhada",
+    "meaning": "menuduh",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "임무",
+    "roman": "immu",
+    "meaning": "tugas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "하늘",
+    "roman": "haneul",
+    "meaning": "surga",
+    "category": "Kata benda"
+  },
+  {
+    "word": "인종",
+    "roman": "injong",
+    "meaning": "ras",
+    "category": "Kata benda"
+  },
+  {
+    "word": "위험",
+    "roman": "wiheom",
+    "meaning": "risiko",
+    "category": "Kata benda"
+  },
+  {
+    "word": "행동",
+    "roman": "haengdong",
+    "meaning": "aksi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연기",
+    "roman": "yeongi",
+    "meaning": "asap",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쩐다",
+    "roman": "jjeonda",
+    "meaning": "keren",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "미소",
+    "roman": "miso",
+    "meaning": "senyum",
+    "category": "Kata benda"
+  },
+  {
+    "word": "감독",
+    "roman": "gamdok",
+    "meaning": "direktur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가드",
+    "roman": "gadeu",
+    "meaning": "pengawal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "시작하다",
+    "roman": "sijakada",
+    "meaning": "mulai",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "적",
+    "roman": "jeok",
+    "meaning": "musuh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부서",
+    "roman": "buseo",
+    "meaning": "departemen",
+    "category": "Kata benda"
+  },
+  {
+    "word": "양복",
+    "roman": "yangbok",
+    "meaning": "setelan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "종",
+    "roman": "jong",
+    "meaning": "bel",
+    "category": "Kata benda"
+  },
+  {
+    "word": "서",
+    "roman": "seo",
+    "meaning": "barat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무대",
+    "roman": "mudae",
+    "meaning": "babak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "닭",
+    "roman": "dak",
+    "meaning": "ayam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "증인",
+    "roman": "jeungin",
+    "meaning": "saksi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "위층에",
+    "roman": "wicheunge",
+    "meaning": "lantai atas",
+    "category": "Keterangan"
+  },
+  {
+    "word": "팔",
+    "roman": "pal",
+    "meaning": "lengan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "십자",
+    "roman": "sipja",
+    "meaning": "silang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "중사",
+    "roman": "jungsa",
+    "meaning": "sersan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가스",
+    "roman": "gaseu",
+    "meaning": "gas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "에너지",
+    "roman": "eneoji",
+    "meaning": "tenaga",
+    "category": "Kata benda"
+  },
+  {
+    "word": "임신하다",
+    "roman": "imsinhada",
+    "meaning": "hamil",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "미각",
+    "roman": "migak",
+    "meaning": "rasa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쓰기",
+    "roman": "sseugi",
+    "meaning": "tulisan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대공",
+    "roman": "daegong",
+    "meaning": "pangeran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "용지",
+    "roman": "yongji",
+    "meaning": "formulir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "멱",
+    "roman": "myeok",
+    "meaning": "tenggorok",
+    "category": "Kata benda"
+  },
+  {
+    "word": "구멍",
+    "roman": "gumeong",
+    "meaning": "lubang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자물쇠",
+    "roman": "jamulsoe",
+    "meaning": "kunci",
+    "category": "Kata benda"
+  },
+  {
+    "word": "다리",
+    "roman": "dari",
+    "meaning": "kaki",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기관",
+    "roman": "gigwan",
+    "meaning": "mesin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비디오",
+    "roman": "bidio",
+    "meaning": "video",
+    "category": "Kata benda"
+  },
+  {
+    "word": "박수",
+    "roman": "baksu",
+    "meaning": "tepuk tangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무기",
+    "roman": "mugi",
+    "meaning": "senjata",
+    "category": "Kata benda"
+  },
+  {
+    "word": "독서",
+    "roman": "dokseo",
+    "meaning": "kemampuan membaca",
+    "category": "Kata benda"
+  },
+  {
+    "word": "한턱내다",
+    "roman": "hanteongnaeda",
+    "meaning": "traktir",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "정신",
+    "roman": "jeongsin",
+    "meaning": "jiwa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비다",
+    "roman": "bida",
+    "meaning": "kosong",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "기억",
+    "roman": "gieok",
+    "meaning": "memori",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이자",
+    "roman": "ija",
+    "meaning": "bunga",
+    "category": "Kata benda"
+  },
+  {
+    "word": "코",
+    "roman": "ko",
+    "meaning": "hidung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "욕실",
+    "roman": "yoksil",
+    "meaning": "kamar mandi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "광선",
+    "roman": "gwangseon",
+    "meaning": "sinar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "밴드",
+    "roman": "baendeu",
+    "meaning": "grup",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비행",
+    "roman": "bihaeng",
+    "meaning": "penerbangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자연",
+    "roman": "jayeon",
+    "meaning": "alam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "손님",
+    "roman": "sonnim",
+    "meaning": "kelayan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "폭탄",
+    "roman": "poktan",
+    "meaning": "bom",
+    "category": "Kata benda"
+  },
+  {
+    "word": "목",
+    "roman": "mok",
+    "meaning": "leher",
+    "category": "Kata benda"
+  },
+  {
+    "word": "따뜻하다",
+    "roman": "ttatteuthada",
+    "meaning": "panas",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "병",
+    "roman": "byeong",
+    "meaning": "botol",
+    "category": "Kata benda"
+  },
+  {
+    "word": "동물",
+    "roman": "dongmul",
+    "meaning": "hewan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "캠프",
+    "roman": "kaempeu",
+    "meaning": "kamp",
+    "category": "Kata benda"
+  },
+  {
+    "word": "수치",
+    "roman": "suchi",
+    "meaning": "malu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "새",
+    "roman": "sae",
+    "meaning": "burung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "유명하다",
+    "roman": "yumyeonghada",
+    "meaning": "terkenal",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "운전사",
+    "roman": "unjeonsa",
+    "meaning": "sopir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비",
+    "roman": "bi",
+    "meaning": "hujan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아뿔싸",
+    "roman": "appulssa",
+    "meaning": "sialan!",
+    "category": "Interjeksi"
+  },
+  {
+    "word": "돌",
+    "roman": "dol",
+    "meaning": "batu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "은혜",
+    "roman": "eunhye",
+    "meaning": "rahmat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "고려하다",
+    "roman": "goryeohada",
+    "meaning": "anggap",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "주말",
+    "roman": "jumal",
+    "meaning": "akhir pekan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "누이다",
+    "roman": "nuida",
+    "meaning": "rebah",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "바지",
+    "roman": "baji",
+    "meaning": "celana",
+    "category": "Kata benda"
+  },
+  {
+    "word": "살갗",
+    "roman": "salgat",
+    "meaning": "kulit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "머저리",
+    "roman": "meojeori",
+    "meaning": "brengsek",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바닷가",
+    "roman": "badatga",
+    "meaning": "pantai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신앙",
+    "roman": "sinang",
+    "meaning": "keyakinan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부탁하다",
+    "roman": "butakada",
+    "meaning": "minta",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "밑",
+    "roman": "mit",
+    "meaning": "bawah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "요리하다",
+    "roman": "yorihada",
+    "meaning": "masak",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "정의",
+    "roman": "jeongui",
+    "meaning": "keadilan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "홀",
+    "roman": "hol",
+    "meaning": "aula",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사령",
+    "roman": "saryeong",
+    "meaning": "komandan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "마약",
+    "roman": "mayak",
+    "meaning": "narkoba",
+    "category": "Kata benda"
+  },
+  {
+    "word": "주요하다",
+    "roman": "juyohada",
+    "meaning": "terutama",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "칼",
+    "roman": "kal",
+    "meaning": "pisau",
+    "category": "Kata benda"
+  },
+  {
+    "word": "악마",
+    "roman": "angma",
+    "meaning": "iblis",
+    "category": "Kata benda"
+  },
+  {
+    "word": "필요하다",
+    "roman": "pillyohada",
+    "meaning": "perlu",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "하지만",
+    "roman": "hajiman",
+    "meaning": "walau",
+    "category": "Kata hubung"
+  },
+  {
+    "word": "공주",
+    "roman": "gongju",
+    "meaning": "putri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "좆",
+    "roman": "jot",
+    "meaning": "burung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "장미",
+    "roman": "jangmi",
+    "meaning": "bunga mawar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "모자",
+    "roman": "moja",
+    "meaning": "topi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "규약",
+    "roman": "gyuyak",
+    "meaning": "kitab undang-undang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "음표",
+    "roman": "eumpyo",
+    "meaning": "not",
+    "category": "Kata benda"
+  },
+  {
+    "word": "옳다",
+    "roman": "olta",
+    "meaning": "tepat",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "언어",
+    "roman": "eoneo",
+    "meaning": "bahasa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "헛소리",
+    "roman": "heotsori",
+    "meaning": "ngawur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지도자",
+    "roman": "jidoja",
+    "meaning": "kepala",
+    "category": "Kata benda"
+  },
+  {
+    "word": "식당",
+    "roman": "sikdang",
+    "meaning": "restoran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "동",
+    "roman": "dong",
+    "meaning": "timur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "눈멀다",
+    "roman": "nunmeolda",
+    "meaning": "buta",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "유령",
+    "roman": "yuryeong",
+    "meaning": "hantu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "컵",
+    "roman": "keop",
+    "meaning": "cangkir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대화",
+    "roman": "daehwa",
+    "meaning": "percakapan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "속도",
+    "roman": "sokdo",
+    "meaning": "kelajuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "건강",
+    "roman": "geongang",
+    "meaning": "kesehatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "조언",
+    "roman": "joeon",
+    "meaning": "nasihat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "검사원",
+    "roman": "geomsawon",
+    "meaning": "inspektur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사촌",
+    "roman": "sachon",
+    "meaning": "sepupu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "재판",
+    "roman": "jaepan",
+    "meaning": "sidang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "청각",
+    "roman": "cheonggak",
+    "meaning": "pendengaran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "계좌",
+    "roman": "gyejwa",
+    "meaning": "rekening",
+    "category": "Kata benda"
+  },
+  {
+    "word": "파일",
+    "roman": "pail",
+    "meaning": "berkas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "천사",
+    "roman": "cheonsa",
+    "meaning": "malaikat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "젖",
+    "roman": "jeot",
+    "meaning": "susu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연습",
+    "roman": "yeonseup",
+    "meaning": "latihan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "관리자",
+    "roman": "gwallija",
+    "meaning": "manajer",
+    "category": "Kata benda"
+  },
+  {
+    "word": "은사",
+    "roman": "eunsa",
+    "meaning": "grasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "투표",
+    "roman": "tupyo",
+    "meaning": "pemungutan suara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "경력",
+    "roman": "gyeongnyeok",
+    "meaning": "karier",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대신",
+    "roman": "daesin",
+    "meaning": "menteri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "모사",
+    "roman": "mosa",
+    "meaning": "salin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "과자",
+    "roman": "gwaja",
+    "meaning": "kue",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자유",
+    "roman": "jayu",
+    "meaning": "kebebasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "숨",
+    "roman": "sum",
+    "meaning": "napas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "수술",
+    "roman": "susul",
+    "meaning": "operasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "도전",
+    "roman": "dojeon",
+    "meaning": "tantangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "고기",
+    "roman": "gogi",
+    "meaning": "daging",
+    "category": "Kata benda"
+  },
+  {
+    "word": "학생",
+    "roman": "haksaeng",
+    "meaning": "murid",
+    "category": "Kata benda"
+  },
+  {
+    "word": "크기",
+    "roman": "keugi",
+    "meaning": "ukuran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "숨쉬다",
+    "roman": "sumswida",
+    "meaning": "bernapas",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "색깔",
+    "roman": "saekkkal",
+    "meaning": "warna",
+    "category": "Kata benda"
+  },
+  {
+    "word": "괴물",
+    "roman": "goemul",
+    "meaning": "monster",
+    "category": "Kata benda"
+  },
+  {
+    "word": "코치",
+    "roman": "kochi",
+    "meaning": "pelatih",
+    "category": "Kata benda"
+  },
+  {
+    "word": "조사",
+    "roman": "josa",
+    "meaning": "investigasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "중심",
+    "roman": "jungsim",
+    "meaning": "pusat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무의미",
+    "roman": "muuimi",
+    "meaning": "omong kosong",
+    "category": "Kata benda"
+  },
+  {
+    "word": "훈련",
+    "roman": "hullyeon",
+    "meaning": "latihan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "보기",
+    "roman": "bogi",
+    "meaning": "contoh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "과학",
+    "roman": "gwahak",
+    "meaning": "ilmu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "등장인물",
+    "roman": "deungjanginmul",
+    "meaning": "tokoh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "참",
+    "roman": "cham",
+    "meaning": "sangat",
+    "category": "Keterangan"
+  },
+  {
+    "word": "생존하다",
+    "roman": "saengjonhada",
+    "meaning": "sintas",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "간호원",
+    "roman": "ganhowon",
+    "meaning": "perawat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기름",
+    "roman": "gireum",
+    "meaning": "minyak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자살",
+    "roman": "jasal",
+    "meaning": "bunuh diri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신용",
+    "roman": "sinyong",
+    "meaning": "kredit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연구",
+    "roman": "yeongu",
+    "meaning": "penelitian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "경치",
+    "roman": "gyeongchi",
+    "meaning": "pemandangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "의자",
+    "roman": "uija",
+    "meaning": "kursi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "스트라이크",
+    "roman": "seuteuraikeu",
+    "meaning": "mogok",
+    "category": "Kata benda"
+  },
+  {
+    "word": "조건",
+    "roman": "jogeon",
+    "meaning": "kondisi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "산",
+    "roman": "san",
+    "meaning": "gunung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "갈색",
+    "roman": "galsaek",
+    "meaning": "cokelat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "관중",
+    "roman": "gwanjung",
+    "meaning": "penonton",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사회",
+    "roman": "sahoe",
+    "meaning": "masyarakat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "셔츠",
+    "roman": "syeocheu",
+    "meaning": "baju",
+    "category": "Kata benda"
+  },
+  {
+    "word": "의미",
+    "roman": "uimi",
+    "meaning": "maksud",
+    "category": "Kata benda"
+  },
+  {
+    "word": "불행하게도",
+    "roman": "bulhaenghagedo",
+    "meaning": "sayangnya",
+    "category": "Keterangan"
+  },
+  {
+    "word": "의견",
+    "roman": "uigyeon",
+    "meaning": "pendapat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "군인",
+    "roman": "gunin",
+    "meaning": "prajurit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "프로그램",
+    "roman": "peurogeuraem",
+    "meaning": "tata olah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "열",
+    "roman": "yeol",
+    "meaning": "kalor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "표",
+    "roman": "pyo",
+    "meaning": "tiket",
+    "category": "Kata benda"
+  },
+  {
+    "word": "남성",
+    "roman": "namseong",
+    "meaning": "pria",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기초",
+    "roman": "gicho",
+    "meaning": "dasar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "엘리베이터",
+    "roman": "ellibeiteo",
+    "meaning": "lift",
+    "category": "Kata benda"
+  },
+  {
+    "word": "크림",
+    "roman": "keurim",
+    "meaning": "krim",
+    "category": "Kata benda"
+  },
+  {
+    "word": "창조하다",
+    "roman": "changjohada",
+    "meaning": "menciptakan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "합계",
+    "roman": "hapgye",
+    "meaning": "jumlah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "출생",
+    "roman": "chulsaeng",
+    "meaning": "kelahiran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잡음",
+    "roman": "jabeum",
+    "meaning": "berisik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "묶다",
+    "roman": "mukda",
+    "meaning": "ikat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "추악하다",
+    "roman": "chuakada",
+    "meaning": "odoh",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "초점",
+    "roman": "chojeom",
+    "meaning": "titik api",
+    "category": "Kata benda"
+  },
+  {
+    "word": "목적",
+    "roman": "mokjeok",
+    "meaning": "tujuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "탄환",
+    "roman": "tanhwan",
+    "meaning": "peluru",
+    "category": "Kata benda"
+  },
+  {
+    "word": "계절",
+    "roman": "gyejeol",
+    "meaning": "musim",
+    "category": "Kata benda"
+  },
+  {
+    "word": "즐거움",
+    "roman": "jeulgeoum",
+    "meaning": "kebahagiaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "책임",
+    "roman": "chaegim",
+    "meaning": "tanggung jawab",
+    "category": "Kata benda"
+  },
+  {
+    "word": "프로세스",
+    "roman": "peuroseseu",
+    "meaning": "proses",
+    "category": "Kata benda"
+  },
+  {
+    "word": "검",
+    "roman": "geom",
+    "meaning": "pedang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "샤워",
+    "roman": "syawo",
+    "meaning": "dus",
+    "category": "Kata benda"
+  },
+  {
+    "word": "약하다",
+    "roman": "yakada",
+    "meaning": "lemah",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "행복",
+    "roman": "haengbok",
+    "meaning": "kebahagiaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "재산",
+    "roman": "jaesan",
+    "meaning": "milik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "중량",
+    "roman": "jungnyang",
+    "meaning": "berat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "인터뷰",
+    "roman": "inteobyu",
+    "meaning": "wawancara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잘생기다",
+    "roman": "jalsaenggida",
+    "meaning": "tampan",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "단위",
+    "roman": "danwi",
+    "meaning": "satuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부채",
+    "roman": "buchae",
+    "meaning": "kipas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "운명",
+    "roman": "unmyeong",
+    "meaning": "nasib",
+    "category": "Kata benda"
+  },
+  {
+    "word": "분열하다",
+    "roman": "bunyeolhada",
+    "meaning": "belah",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "더하다",
+    "roman": "deohada",
+    "meaning": "tambah",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "천천히",
+    "roman": "cheoncheonhi",
+    "meaning": "pelan-pelan",
+    "category": "Keterangan"
+  },
+  {
+    "word": "회원",
+    "roman": "hoewon",
+    "meaning": "anggota",
+    "category": "Kata benda"
+  },
+  {
+    "word": "정원",
+    "roman": "jeongwon",
+    "meaning": "taman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "용감하다",
+    "roman": "yonggamhada",
+    "meaning": "berani",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "돼지",
+    "roman": "dwaeji",
+    "meaning": "babi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "모델",
+    "roman": "model",
+    "meaning": "model",
+    "category": "Kata benda"
+  },
+  {
+    "word": "손가락",
+    "roman": "songarak",
+    "meaning": "jari",
+    "category": "Kata benda"
+  },
+  {
+    "word": "약",
+    "roman": "yak",
+    "meaning": "obat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "판판하다",
+    "roman": "panpanhada",
+    "meaning": "datar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "나사",
+    "roman": "nasa",
+    "meaning": "sekrup",
+    "category": "Kata benda"
+  },
+  {
+    "word": "날씨",
+    "roman": "nalssi",
+    "meaning": "cuaca",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부드럽다",
+    "roman": "budeureopda",
+    "meaning": "lembut",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "스타일",
+    "roman": "seutail",
+    "meaning": "gaya",
+    "category": "Kata benda"
+  },
+  {
+    "word": "커뮤니티",
+    "roman": "keomyuniti",
+    "meaning": "komunitas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신호",
+    "roman": "sinho",
+    "meaning": "isyarat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아니",
+    "roman": "ani",
+    "meaning": "enggak",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "연설",
+    "roman": "yeonseol",
+    "meaning": "pidato",
+    "category": "Kata benda"
+  },
+  {
+    "word": "호수",
+    "roman": "hosu",
+    "meaning": "danau",
+    "category": "Kata benda"
+  },
+  {
+    "word": "똑똑하다",
+    "roman": "ttokttokada",
+    "meaning": "pintar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "지붕",
+    "roman": "jibung",
+    "meaning": "atap",
+    "category": "Kata benda"
+  },
+  {
+    "word": "페인트",
+    "roman": "peinteu",
+    "meaning": "cat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "게시물",
+    "roman": "gesimul",
+    "meaning": "kiriman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "설탕",
+    "roman": "seoltang",
+    "meaning": "gula",
+    "category": "Kata benda"
+  },
+  {
+    "word": "성공",
+    "roman": "seonggong",
+    "meaning": "keberhasilan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "양",
+    "roman": "yang",
+    "meaning": "jumlah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "관리하다",
+    "roman": "gwallihada",
+    "meaning": "mengurus",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "블록",
+    "roman": "beullok",
+    "meaning": "balok",
+    "category": "Kata benda"
+  },
+  {
+    "word": "계약",
+    "roman": "gyeyak",
+    "meaning": "kontrak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가슴",
+    "roman": "gaseum",
+    "meaning": "dada",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거래",
+    "roman": "georae",
+    "meaning": "perdagangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "위",
+    "roman": "wi",
+    "meaning": "lambung",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이혼",
+    "roman": "ihon",
+    "meaning": "perceraian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "장례",
+    "roman": "jangnye",
+    "meaning": "pemakaman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "축구",
+    "roman": "chukgu",
+    "meaning": "sepak bola",
+    "category": "Kata benda"
+  },
+  {
+    "word": "현실",
+    "roman": "hyeonsil",
+    "meaning": "kenyataan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이론",
+    "roman": "iron",
+    "meaning": "teori",
+    "category": "Kata benda"
+  },
+  {
+    "word": "코트",
+    "roman": "koteu",
+    "meaning": "mantel",
+    "category": "Kata benda"
+  },
+  {
+    "word": "치즈",
+    "roman": "chijeu",
+    "meaning": "keju",
+    "category": "Kata benda"
+  },
+  {
+    "word": "봄",
+    "roman": "bom",
+    "meaning": "musim semi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "페이지",
+    "roman": "peiji",
+    "meaning": "halaman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "성",
+    "roman": "seong",
+    "meaning": "puri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "폭풍",
+    "roman": "pokpung",
+    "meaning": "badai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "화가",
+    "roman": "hwaga",
+    "meaning": "seniman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "언덕",
+    "roman": "eondeok",
+    "meaning": "bukit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "허가",
+    "roman": "heoga",
+    "meaning": "izin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비싸다",
+    "roman": "bissada",
+    "meaning": "mahal",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "숲",
+    "roman": "sup",
+    "meaning": "hutan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "후회",
+    "roman": "huhoe",
+    "meaning": "penyesalan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "수업",
+    "roman": "sueop",
+    "meaning": "pelajaran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연인",
+    "roman": "yeonin",
+    "meaning": "kekasih",
+    "category": "Kata benda"
+  },
+  {
+    "word": "주어",
+    "roman": "jueo",
+    "meaning": "subjek",
+    "category": "Kata benda"
+  },
+  {
+    "word": "병들다",
+    "roman": "byeongdeulda",
+    "meaning": "sakit",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "소유자",
+    "roman": "soyuja",
+    "meaning": "pemilik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비서",
+    "roman": "biseo",
+    "meaning": "sekretaris",
+    "category": "Kata benda"
+  },
+  {
+    "word": "복수",
+    "roman": "boksu",
+    "meaning": "balas dendam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "임대",
+    "roman": "imdae",
+    "meaning": "sewa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "조수",
+    "roman": "josu",
+    "meaning": "pembantu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "회화",
+    "roman": "hoehwa",
+    "meaning": "lukisan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거칠다",
+    "roman": "geochilda",
+    "meaning": "kasar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "세기",
+    "roman": "segi",
+    "meaning": "abad",
+    "category": "Kata benda"
+  },
+  {
+    "word": "호주머니",
+    "roman": "hojumeoni",
+    "meaning": "saku",
+    "category": "Kata benda"
+  },
+  {
+    "word": "농장",
+    "roman": "nongjang",
+    "meaning": "ladang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자전거",
+    "roman": "jajeongeo",
+    "meaning": "sepeda",
+    "category": "Kata benda"
+  },
+  {
+    "word": "정사각형",
+    "roman": "jeongsagakyeong",
+    "meaning": "persegi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "할아버지",
+    "roman": "harabeoji",
+    "meaning": "kakek",
+    "category": "Kata benda"
+  },
+  {
+    "word": "천재",
+    "roman": "cheonjae",
+    "meaning": "jenius",
+    "category": "Kata benda"
+  },
+  {
+    "word": "폐허",
+    "roman": "pyeheo",
+    "meaning": "puing",
+    "category": "Kata benda"
+  },
+  {
+    "word": "겨울",
+    "roman": "gyeoul",
+    "meaning": "musim dingin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "혀",
+    "roman": "hyeo",
+    "meaning": "lidah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대양",
+    "roman": "daeyang",
+    "meaning": "lautan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거짓말쟁이",
+    "roman": "geojinmaljaengi",
+    "meaning": "pembohong",
+    "category": "Kata benda"
+  },
+  {
+    "word": "도둑",
+    "roman": "doduk",
+    "meaning": "pencuri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "식물",
+    "roman": "singmul",
+    "meaning": "tumbuhan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "축복하다",
+    "roman": "chukbokada",
+    "meaning": "berkat",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "침실",
+    "roman": "chimsil",
+    "meaning": "kamar tidur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "은",
+    "roman": "eun",
+    "meaning": "perak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "방어",
+    "roman": "bangeo",
+    "meaning": "pertahanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "뒷간",
+    "roman": "dwitgan",
+    "meaning": "toilet",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사건",
+    "roman": "sageon",
+    "meaning": "kejadian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "복잡하다",
+    "roman": "bokjapada",
+    "meaning": "rumit",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "모양",
+    "roman": "moyang",
+    "meaning": "bentuk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신부",
+    "roman": "sinbu",
+    "meaning": "pendeta",
+    "category": "Kata benda"
+  },
+  {
+    "word": "싸다",
+    "roman": "ssada",
+    "meaning": "murah",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "아래층에",
+    "roman": "araecheunge",
+    "meaning": "lantai bawah",
+    "category": "Keterangan"
+  },
+  {
+    "word": "초대하다",
+    "roman": "chodaehada",
+    "meaning": "mengundang",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "재수",
+    "roman": "jaesu",
+    "meaning": "keberuntungan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "전화",
+    "roman": "jeonhwa",
+    "meaning": "telepon",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공항",
+    "roman": "gonghang",
+    "meaning": "bandar udara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거인",
+    "roman": "geoin",
+    "meaning": "raksasa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "보험",
+    "roman": "boheom",
+    "meaning": "asuransi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기간",
+    "roman": "gigan",
+    "meaning": "masa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "플레이어",
+    "roman": "peulleieo",
+    "meaning": "pemain",
+    "category": "Kata benda"
+  },
+  {
+    "word": "성명",
+    "roman": "seongmyeong",
+    "meaning": "pernyataan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "빨다",
+    "roman": "ppalda",
+    "meaning": "isap",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "맛있다",
+    "roman": "masitda",
+    "meaning": "enak",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "지식",
+    "roman": "jisik",
+    "meaning": "pengetahuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "축하하다",
+    "roman": "chukahada",
+    "meaning": "merayakan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "지도",
+    "roman": "jido",
+    "meaning": "peta",
+    "category": "Kata benda"
+  },
+  {
+    "word": "뿔",
+    "roman": "ppul",
+    "meaning": "tanduk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "결국",
+    "roman": "gyeolguk",
+    "meaning": "akhirnya",
+    "category": "Keterangan"
+  },
+  {
+    "word": "요망",
+    "roman": "yomang",
+    "meaning": "minta",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자료",
+    "roman": "jaryo",
+    "meaning": "informasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "심사위원단",
+    "roman": "simsawiwondan",
+    "meaning": "juri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "방향",
+    "roman": "banghyang",
+    "meaning": "arah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무용하다",
+    "roman": "muyonghada",
+    "meaning": "tidak berguna",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "저축",
+    "roman": "jeochuk",
+    "meaning": "tabungan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "끼니",
+    "roman": "kkini",
+    "meaning": "makanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "절",
+    "roman": "jeol",
+    "meaning": "kuil",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공무원",
+    "roman": "gongmuwon",
+    "meaning": "pejabat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "재킷",
+    "roman": "jaekit",
+    "meaning": "jaket",
+    "category": "Kata benda"
+  },
+  {
+    "word": "스위치",
+    "roman": "seuwichi",
+    "meaning": "sakelar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무덤",
+    "roman": "mudeom",
+    "meaning": "kubur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쫓다",
+    "roman": "jjotda",
+    "meaning": "mengejar",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "역할",
+    "roman": "yeokal",
+    "meaning": "peranan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "텔레비전",
+    "roman": "tellebijeon",
+    "meaning": "televisi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "충격",
+    "roman": "chunggyeok",
+    "meaning": "kejutan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "피자",
+    "roman": "pija",
+    "meaning": "pizza",
+    "category": "Kata benda"
+  },
+  {
+    "word": "상",
+    "roman": "sang",
+    "meaning": "gambar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "접시",
+    "roman": "jeopsi",
+    "meaning": "piring",
+    "category": "Kata benda"
+  },
+  {
+    "word": "초콜릿",
+    "roman": "chokollit",
+    "meaning": "cokelat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "동정",
+    "roman": "dongjeong",
+    "meaning": "pinta",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쾅",
+    "roman": "kwang",
+    "meaning": "dentuman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "독",
+    "roman": "dok",
+    "meaning": "bisa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "엉덩이",
+    "roman": "eongdeongi",
+    "meaning": "bokong",
+    "category": "Kata benda"
+  },
+  {
+    "word": "황색",
+    "roman": "hwangsaek",
+    "meaning": "kuning",
+    "category": "Kata benda"
+  },
+  {
+    "word": "국",
+    "roman": "guk",
+    "meaning": "sup",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신비",
+    "roman": "sinbi",
+    "meaning": "misteri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "상처",
+    "roman": "sangcheo",
+    "meaning": "luka",
+    "category": "Kata benda"
+  },
+  {
+    "word": "교통",
+    "roman": "gyotong",
+    "meaning": "lalu lintas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "용기",
+    "roman": "yonggi",
+    "meaning": "keberanian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사냥하다",
+    "roman": "sanyanghada",
+    "meaning": "buru",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "쥐",
+    "roman": "jwi",
+    "meaning": "tikus",
+    "category": "Kata benda"
+  },
+  {
+    "word": "질병",
+    "roman": "jilbyeong",
+    "meaning": "penyakit",
+    "category": "Kata benda"
+  },
+  {
+    "word": "승리자",
+    "roman": "seungnija",
+    "meaning": "pemenang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "이사회",
+    "roman": "isahoe",
+    "meaning": "dewan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "위협",
+    "roman": "wihyeop",
+    "meaning": "ancaman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "출처",
+    "roman": "chulcheo",
+    "meaning": "sumber",
+    "category": "Kata benda"
+  },
+  {
+    "word": "승리",
+    "roman": "seungni",
+    "meaning": "kemenangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "역겹다",
+    "roman": "yeokgyeopda",
+    "meaning": "menjijikkan",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "궁",
+    "roman": "gung",
+    "meaning": "istana",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쇼핑",
+    "roman": "syoping",
+    "meaning": "belanja",
+    "category": "Kata benda"
+  },
+  {
+    "word": "근처",
+    "roman": "geuncheo",
+    "meaning": "lingkungan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자정",
+    "roman": "jajeong",
+    "meaning": "tengah malam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "오줌싸다",
+    "roman": "ojumssada",
+    "meaning": "kencing",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "가가속도",
+    "roman": "gagasokdo",
+    "meaning": "sentakan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "우편",
+    "roman": "upyeon",
+    "meaning": "pos",
+    "category": "Kata benda"
+  },
+  {
+    "word": "새벽",
+    "roman": "saebyeok",
+    "meaning": "fajar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "주문",
+    "roman": "jumun",
+    "meaning": "mantra",
+    "category": "Kata benda"
+  },
+  {
+    "word": "폭력",
+    "roman": "pongnyeok",
+    "meaning": "kekerasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "할머니",
+    "roman": "halmeoni",
+    "meaning": "nenek",
+    "category": "Kata benda"
+  },
+  {
+    "word": "재능",
+    "roman": "jaeneung",
+    "meaning": "bakat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잡년",
+    "roman": "jamnyeon",
+    "meaning": "lonte",
+    "category": "Kata benda"
+  },
+  {
+    "word": "피아노",
+    "roman": "piano",
+    "meaning": "piano",
+    "category": "Kata benda"
+  },
+  {
+    "word": "면허증",
+    "roman": "myeonheojeung",
+    "meaning": "lisensi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공장",
+    "roman": "gongjang",
+    "meaning": "pabrik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연맹",
+    "roman": "yeonmaeng",
+    "meaning": "uni",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거울",
+    "roman": "geoul",
+    "meaning": "cermin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "원룸",
+    "roman": "wollum",
+    "meaning": "apartemen studio",
+    "category": "Kata benda"
+  },
+  {
+    "word": "택시",
+    "roman": "taeksi",
+    "meaning": "taksi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "철",
+    "roman": "cheol",
+    "meaning": "besi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "욕망",
+    "roman": "yongmang",
+    "meaning": "keinginan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "원숭이",
+    "roman": "wonsungi",
+    "meaning": "monyet",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자랑",
+    "roman": "jarang",
+    "meaning": "sombong",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기적",
+    "roman": "gijeok",
+    "meaning": "mukjizat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "출혈",
+    "roman": "chulhyeol",
+    "meaning": "pendarahan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "갈고리",
+    "roman": "galgori",
+    "meaning": "kait",
+    "category": "Kata benda"
+  },
+  {
+    "word": "보호",
+    "roman": "boho",
+    "meaning": "perlindungan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "치료",
+    "roman": "chiryo",
+    "meaning": "penanganan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "귀",
+    "roman": "gwi",
+    "meaning": "telinga",
+    "category": "Kata benda"
+  },
+  {
+    "word": "금속",
+    "roman": "geumsok",
+    "meaning": "logam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "보물",
+    "roman": "bomul",
+    "meaning": "harta",
+    "category": "Kata benda"
+  },
+  {
+    "word": "결과",
+    "roman": "gyeolgwa",
+    "meaning": "hasil",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지사",
+    "roman": "jisa",
+    "meaning": "gubernur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "텍스트",
+    "roman": "tekseuteu",
+    "meaning": "teks",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공연",
+    "roman": "gongyeon",
+    "meaning": "penampilan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사막",
+    "roman": "samak",
+    "meaning": "gurun",
+    "category": "Kata benda"
+  },
+  {
+    "word": "차량",
+    "roman": "charyang",
+    "meaning": "kendaraan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "영",
+    "roman": "yeong",
+    "meaning": "nol",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "캔디",
+    "roman": "kaendi",
+    "meaning": "permen",
+    "category": "Kata benda"
+  },
+  {
+    "word": "뼈",
+    "roman": "ppyeo",
+    "meaning": "tulang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "전의",
+    "roman": "jeonui",
+    "meaning": "mantan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "축제일",
+    "roman": "chukjeil",
+    "meaning": "liburan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "고소하다",
+    "roman": "gosohada",
+    "meaning": "menuntut",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "실패하다",
+    "roman": "silpaehada",
+    "meaning": "gagal",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "우정",
+    "roman": "ujeong",
+    "meaning": "persahabatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "꽃",
+    "roman": "kkot",
+    "meaning": "bunga",
+    "category": "Kata benda"
+  },
+  {
+    "word": "거절하다",
+    "roman": "geojeolhada",
+    "meaning": "menolak",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "주제",
+    "roman": "juje",
+    "meaning": "tema",
+    "category": "Kata benda"
+  },
+  {
+    "word": "용",
+    "roman": "yong",
+    "meaning": "naga",
+    "category": "Kata benda"
+  },
+  {
+    "word": "표면",
+    "roman": "pyomyeon",
+    "meaning": "permukaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "알",
+    "roman": "al",
+    "meaning": "telur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "펀치",
+    "roman": "peonchi",
+    "meaning": "pukulan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지혜",
+    "roman": "jihye",
+    "meaning": "kecerdasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무당",
+    "roman": "mudang",
+    "meaning": "ahli sihir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아나운서",
+    "roman": "anaunseo",
+    "meaning": "penyiar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "샴페인",
+    "roman": "syampein",
+    "meaning": "sampanye",
+    "category": "Kata benda"
+  },
+  {
+    "word": "먼지",
+    "roman": "meonji",
+    "meaning": "debu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "외국인",
+    "roman": "oegugin",
+    "meaning": "orang asing",
+    "category": "Kata benda"
+  },
+  {
+    "word": "출석",
+    "roman": "chulseok",
+    "meaning": "kehadiran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "눈물",
+    "roman": "nunmul",
+    "meaning": "air mata",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기술",
+    "roman": "gisul",
+    "meaning": "teknologi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "토스트",
+    "roman": "toseuteu",
+    "meaning": "roti panggang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "현명하다",
+    "roman": "hyeonmyeonghada",
+    "meaning": "bijaksana",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "흡연",
+    "roman": "heubyeon",
+    "meaning": "merokok",
+    "category": "Kata benda"
+  },
+  {
+    "word": "늑대",
+    "roman": "neukdae",
+    "meaning": "serigala",
+    "category": "Kata benda"
+  },
+  {
+    "word": "연안",
+    "roman": "yeonan",
+    "meaning": "pantai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "제복",
+    "roman": "jebok",
+    "meaning": "seragam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쌀",
+    "roman": "ssal",
+    "meaning": "beras",
+    "category": "Kata benda"
+  },
+  {
+    "word": "암소",
+    "roman": "amso",
+    "meaning": "sapi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "생물",
+    "roman": "saengmul",
+    "meaning": "makhluk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "교대",
+    "roman": "gyodae",
+    "meaning": "giliran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "골",
+    "roman": "gol",
+    "meaning": "tujuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "숙련자",
+    "roman": "sungnyeonja",
+    "meaning": "ahli",
+    "category": "Kata benda"
+  },
+  {
+    "word": "악보",
+    "roman": "akbo",
+    "meaning": "partitur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "스물",
+    "roman": "seumul",
+    "meaning": "dua puluh",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "계열",
+    "roman": "gyeyeol",
+    "meaning": "seri",
+    "category": "Kata benda"
+  },
+  {
+    "word": "파일럿",
+    "roman": "pailleot",
+    "meaning": "pilot",
+    "category": "Kata benda"
+  },
+  {
+    "word": "암흑",
+    "roman": "amheuk",
+    "meaning": "kegelapan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "판매",
+    "roman": "panmae",
+    "meaning": "penjualan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "드물다",
+    "roman": "deumulda",
+    "meaning": "jarang",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "학년",
+    "roman": "hangnyeon",
+    "meaning": "kelas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "주스",
+    "roman": "juseu",
+    "meaning": "jus",
+    "category": "Kata benda"
+  },
+  {
+    "word": "넓다",
+    "roman": "neolda",
+    "meaning": "lebar",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "탑",
+    "roman": "tap",
+    "meaning": "menara",
+    "category": "Kata benda"
+  },
+  {
+    "word": "용액",
+    "roman": "yongaek",
+    "meaning": "larutan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "스케줄",
+    "roman": "seukejul",
+    "meaning": "jadwal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "폭발",
+    "roman": "pokbal",
+    "meaning": "ledakan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "바퀴",
+    "roman": "bakwi",
+    "meaning": "roda",
+    "category": "Kata benda"
+  },
+  {
+    "word": "담배",
+    "roman": "dambae",
+    "meaning": "rokok",
+    "category": "Kata benda"
+  },
+  {
+    "word": "열매",
+    "roman": "yeolmae",
+    "meaning": "buah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "단추",
+    "roman": "danchu",
+    "meaning": "kancing",
+    "category": "Kata benda"
+  },
+  {
+    "word": "죄수",
+    "roman": "joesu",
+    "meaning": "tahanan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "파이",
+    "roman": "pai",
+    "meaning": "kue pai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "노력",
+    "roman": "noryeok",
+    "meaning": "upaya",
+    "category": "Kata benda"
+  },
+  {
+    "word": "젊은이",
+    "roman": "jeolmeuni",
+    "meaning": "pemuda",
+    "category": "Kata benda"
+  },
+  {
+    "word": "차고",
+    "roman": "chago",
+    "meaning": "garasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "앰뷸런스",
+    "roman": "aembyulleonseu",
+    "meaning": "ambulans",
+    "category": "Kata benda"
+  },
+  {
+    "word": "죄",
+    "roman": "joe",
+    "meaning": "dosa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "군",
+    "roman": "gun",
+    "meaning": "kabupaten",
+    "category": "Kata benda"
+  },
+  {
+    "word": "캠페인",
+    "roman": "kaempein",
+    "meaning": "kampanye",
+    "category": "Kata benda"
+  },
+  {
+    "word": "시력",
+    "roman": "siryeok",
+    "meaning": "penglihatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기자",
+    "roman": "gija",
+    "meaning": "jurnalis",
+    "category": "Kata benda"
+  },
+  {
+    "word": "설비",
+    "roman": "seolbi",
+    "meaning": "peralatan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "미사",
+    "roman": "misa",
+    "meaning": "misa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "우주인",
+    "roman": "ujuin",
+    "meaning": "makhluk luar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "경로",
+    "roman": "gyeongno",
+    "meaning": "rute",
+    "category": "Kata benda"
+  },
+  {
+    "word": "흔적",
+    "roman": "heunjeok",
+    "meaning": "jejak",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잡지",
+    "roman": "japji",
+    "meaning": "majalah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "실마리",
+    "roman": "silmari",
+    "meaning": "petunjuk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "아멘",
+    "roman": "amen",
+    "meaning": "amin",
+    "category": "Interjeksi"
+  },
+  {
+    "word": "지대",
+    "roman": "jidae",
+    "meaning": "zona",
+    "category": "Kata benda"
+  },
+  {
+    "word": "얼다",
+    "roman": "eolda",
+    "meaning": "membeku",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "황제",
+    "roman": "hwangje",
+    "meaning": "kaisar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "뱀",
+    "roman": "baem",
+    "meaning": "ular",
+    "category": "Kata benda"
+  },
+  {
+    "word": "나리",
+    "roman": "nari",
+    "meaning": "lili",
+    "category": "Kata benda"
+  },
+  {
+    "word": "배우",
+    "roman": "baeu",
+    "meaning": "aktor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신문",
+    "roman": "sinmun",
+    "meaning": "koran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "문장",
+    "roman": "munjang",
+    "meaning": "kalimat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "행간",
+    "roman": "haenggan",
+    "meaning": "interlini",
+    "category": "Kata benda"
+  },
+  {
+    "word": "친절하다",
+    "roman": "chinjeolhada",
+    "meaning": "ramah",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "간첩",
+    "roman": "gancheop",
+    "meaning": "mata-mata",
+    "category": "Kata benda"
+  },
+  {
+    "word": "그림자",
+    "roman": "geurimja",
+    "meaning": "bayangan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "영장",
+    "roman": "yeongjang",
+    "meaning": "surat perintah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "왕국",
+    "roman": "wangguk",
+    "meaning": "kerajaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "어깨",
+    "roman": "eokkae",
+    "meaning": "bahu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "물결",
+    "roman": "mulgyeol",
+    "meaning": "gelombang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "낚시",
+    "roman": "naksi",
+    "meaning": "memancing",
+    "category": "Kata benda"
+  },
+  {
+    "word": "화면",
+    "roman": "hwamyeon",
+    "meaning": "layar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "비슷하다",
+    "roman": "biseuthada",
+    "meaning": "mirip",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "이해",
+    "roman": "ihae",
+    "meaning": "pengertian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "사슬",
+    "roman": "saseul",
+    "meaning": "rantai",
+    "category": "Kata benda"
+  },
+  {
+    "word": "황소",
+    "roman": "hwangso",
+    "meaning": "sapi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "열정",
+    "roman": "yeoljeong",
+    "meaning": "gairah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "저자",
+    "roman": "jeoja",
+    "meaning": "penulis",
+    "category": "Kata benda"
+  },
+  {
+    "word": "제국",
+    "roman": "jeguk",
+    "meaning": "kekaisaran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "장치",
+    "roman": "jangchi",
+    "meaning": "alat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "안다",
+    "roman": "anda",
+    "meaning": "memeluk",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "설계",
+    "roman": "seolgye",
+    "meaning": "desain",
+    "category": "Kata benda"
+  },
+  {
+    "word": "운동",
+    "roman": "undong",
+    "meaning": "gerakan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "우레",
+    "roman": "ure",
+    "meaning": "guntur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "목적어",
+    "roman": "mokjeogeo",
+    "meaning": "objek",
+    "category": "Kata benda"
+  },
+  {
+    "word": "실패자",
+    "roman": "silpaeja",
+    "meaning": "pecundang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "펜",
+    "roman": "pen",
+    "meaning": "pena",
+    "category": "Kata benda"
+  },
+  {
+    "word": "정치",
+    "roman": "jeongchi",
+    "meaning": "politik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "술",
+    "roman": "sul",
+    "meaning": "alkohol",
+    "category": "Kata benda"
+  },
+  {
+    "word": "오르다",
+    "roman": "oreuda",
+    "meaning": "mendaki",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "회의",
+    "roman": "hoeui",
+    "meaning": "konferensi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "쓰레기",
+    "roman": "sseuregi",
+    "meaning": "sampah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "골짜기",
+    "roman": "goljjagi",
+    "meaning": "lembah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "패션",
+    "roman": "paesyeon",
+    "meaning": "mode",
+    "category": "Kata benda"
+  },
+  {
+    "word": "앞서",
+    "roman": "apseo",
+    "meaning": "dulu",
+    "category": "Keterangan"
+  },
+  {
+    "word": "빚",
+    "roman": "bit",
+    "meaning": "utang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "철사",
+    "roman": "cheolsa",
+    "meaning": "kawat",
+    "category": "Kata benda"
+  },
+  {
+    "word": "퍼센트",
+    "roman": "peosenteu",
+    "meaning": "persen",
+    "category": "Kata benda"
+  },
+  {
+    "word": "보통",
+    "roman": "botong",
+    "meaning": "biasanya",
+    "category": "Keterangan"
+  },
+  {
+    "word": "꼬리",
+    "roman": "kkori",
+    "meaning": "ekor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "교육",
+    "roman": "gyoyuk",
+    "meaning": "pendidikan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "강간",
+    "roman": "ganggan",
+    "meaning": "pemerkosaan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "탱크",
+    "roman": "taengkeu",
+    "meaning": "mobil baja",
+    "category": "Kata benda"
+  },
+  {
+    "word": "권력",
+    "roman": "gwollyeok",
+    "meaning": "otoritas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "흐름",
+    "roman": "heureum",
+    "meaning": "arus",
+    "category": "Kata benda"
+  },
+  {
+    "word": "실패",
+    "roman": "silpae",
+    "meaning": "gagal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "악몽",
+    "roman": "angmong",
+    "meaning": "mimpi buruk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대리점",
+    "roman": "daerijeom",
+    "meaning": "kantor",
+    "category": "Kata benda"
+  },
+  {
+    "word": "국경",
+    "roman": "gukgyeong",
+    "meaning": "perbatasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "밧줄",
+    "roman": "batjul",
+    "meaning": "tali",
+    "category": "Kata benda"
+  },
+  {
+    "word": "오리",
+    "roman": "ori",
+    "meaning": "bebek",
+    "category": "Kata benda"
+  },
+  {
+    "word": "평판",
+    "roman": "pyeongpan",
+    "meaning": "reputasi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "소금",
+    "roman": "sogeum",
+    "meaning": "garam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "살",
+    "roman": "sal",
+    "meaning": "daging",
+    "category": "Kata benda"
+  },
+  {
+    "word": "모래",
+    "roman": "morae",
+    "meaning": "pasir",
+    "category": "Kata benda"
+  },
+  {
+    "word": "상원의원",
+    "roman": "sangwonuiwon",
+    "meaning": "senator",
+    "category": "Kata benda"
+  },
+  {
+    "word": "극장",
+    "roman": "geukjang",
+    "meaning": "teater",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잡담하다",
+    "roman": "japdamhada",
+    "meaning": "mengobrol",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "미라",
+    "roman": "mira",
+    "meaning": "mumi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "미끄러지다",
+    "roman": "mikkeureojida",
+    "meaning": "terpeleset",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "실망하다",
+    "roman": "silmanghada",
+    "meaning": "kecewa",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "상세",
+    "roman": "sangse",
+    "meaning": "rinci",
+    "category": "Kata benda"
+  },
+  {
+    "word": "분홍색",
+    "roman": "bunhongsaek",
+    "meaning": "merah muda",
+    "category": "Kata benda"
+  },
+  {
+    "word": "공황",
+    "roman": "gonghwang",
+    "meaning": "kepanikan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "벨트",
+    "roman": "belteu",
+    "meaning": "sabuk",
+    "category": "Kata benda"
+  },
+  {
+    "word": "조약",
+    "roman": "joyak",
+    "meaning": "perjanjian",
+    "category": "Kata benda"
+  },
+  {
+    "word": "능력",
+    "roman": "neungnyeok",
+    "meaning": "kemampuan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "호랑이",
+    "roman": "horangi",
+    "meaning": "harimau",
+    "category": "Kata benda"
+  },
+  {
+    "word": "문화",
+    "roman": "munhwa",
+    "meaning": "budaya",
+    "category": "Kata benda"
+  },
+  {
+    "word": "성인",
+    "roman": "seongin",
+    "meaning": "santa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "굳다",
+    "roman": "gutda",
+    "meaning": "padat",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "인형",
+    "roman": "inhyeong",
+    "meaning": "boneka",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지구",
+    "roman": "jigu",
+    "meaning": "distrik",
+    "category": "Kata benda"
+  },
+  {
+    "word": "지",
+    "roman": "ji",
+    "meaning": "ge",
+    "category": "Kata benda"
+  },
+  {
+    "word": "양육권",
+    "roman": "yangyukgwon",
+    "meaning": "hak asuh",
+    "category": "Kata benda"
+  },
+  {
+    "word": "무시하다",
+    "roman": "musihada",
+    "meaning": "mengabaikan",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "유용하다",
+    "roman": "yuyonghada",
+    "meaning": "berguna",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "정책",
+    "roman": "jeongchaek",
+    "meaning": "kebijakan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "하녀",
+    "roman": "hanyeo",
+    "meaning": "pembantu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "활",
+    "roman": "hwal",
+    "meaning": "busur",
+    "category": "Kata benda"
+  },
+  {
+    "word": "병아리",
+    "roman": "byeongari",
+    "meaning": "anak ayam",
+    "category": "Kata benda"
+  },
+  {
+    "word": "재난",
+    "roman": "jaenan",
+    "meaning": "bencana",
+    "category": "Kata benda"
+  },
+  {
+    "word": "혁명",
+    "roman": "hyeongmyeong",
+    "meaning": "revolusi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "데몬",
+    "roman": "demon",
+    "meaning": "siluman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가늘다",
+    "roman": "ganeulda",
+    "meaning": "tipis",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "왕관",
+    "roman": "wanggwan",
+    "meaning": "mahkota",
+    "category": "Kata benda"
+  },
+  {
+    "word": "처녀",
+    "roman": "cheonyeo",
+    "meaning": "perawan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "가능성",
+    "roman": "ganeungseong",
+    "meaning": "potensi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기타",
+    "roman": "gita",
+    "meaning": "gitar",
+    "category": "Kata benda"
+  },
+  {
+    "word": "위원회",
+    "roman": "wiwonhoe",
+    "meaning": "komite",
+    "category": "Kata benda"
+  },
+  {
+    "word": "다스",
+    "roman": "daseu",
+    "meaning": "lusin",
+    "category": "Kata benda"
+  },
+  {
+    "word": "분만",
+    "roman": "bunman",
+    "meaning": "pelahiran",
+    "category": "Kata benda"
+  },
+  {
+    "word": "자본",
+    "roman": "jabon",
+    "meaning": "modal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "부정하다",
+    "roman": "bujeonghada",
+    "meaning": "mungkir",
+    "category": "Kata kerja"
+  },
+  {
+    "word": "설명",
+    "roman": "seolmyeong",
+    "meaning": "penjelasan",
+    "category": "Kata benda"
+  },
+  {
+    "word": "십억",
+    "roman": "sibeok",
+    "meaning": "miliar",
+    "category": "Kosakata umum"
+  },
+  {
+    "word": "공작",
+    "roman": "gongjak",
+    "meaning": "adipati",
+    "category": "Kata benda"
+  },
+  {
+    "word": "생산",
+    "roman": "saengsan",
+    "meaning": "produksi",
+    "category": "Kata benda"
+  },
+  {
+    "word": "노예",
+    "roman": "noye",
+    "meaning": "hamba",
+    "category": "Kata benda"
+  },
+  {
+    "word": "잔혹하다",
+    "roman": "janhokada",
+    "meaning": "kejam",
+    "category": "Kata sifat"
+  },
+  {
+    "word": "가면",
+    "roman": "gamyeon",
+    "meaning": "topeng",
+    "category": "Kata benda"
+  },
+  {
+    "word": "대부",
+    "roman": "daebu",
+    "meaning": "pinjaman",
+    "category": "Kata benda"
+  },
+  {
+    "word": "분투",
+    "roman": "buntu",
+    "meaning": "ulet",
+    "category": "Kata benda"
+  },
+  {
+    "word": "수영",
+    "roman": "suyeong",
+    "meaning": "berenang",
+    "category": "Kata benda"
+  },
+  {
+    "word": "매일",
+    "roman": "maeil",
+    "meaning": "harian",
+    "category": "Keterangan"
+  },
+  {
+    "word": "지하실",
+    "roman": "jihasil",
+    "meaning": "bawah tanah",
+    "category": "Kata benda"
+  },
+  {
+    "word": "분기",
+    "roman": "bungi",
+    "meaning": "kuartal",
+    "category": "Kata benda"
+  },
+  {
+    "word": "해군",
+    "roman": "haegun",
+    "meaning": "angkatan laut",
+    "category": "Kata benda"
+  },
+  {
+    "word": "기사",
+    "roman": "gisa",
+    "meaning": "artikel",
+    "category": "Kata benda"
+  },
+  {
+    "word": "안내인",
+    "roman": "annaein",
+    "meaning": "pemandu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "피고",
+    "roman": "pigo",
+    "meaning": "terdakwa",
+    "category": "Kata benda"
+  },
+  {
+    "word": "질",
+    "roman": "jil",
+    "meaning": "kualitas",
+    "category": "Kata benda"
+  },
+  {
+    "word": "신발",
+    "roman": "sinbal",
+    "meaning": "sepatu",
+    "category": "Kata benda"
+  },
+  {
+    "word": "칭호",
+    "roman": "chingho",
+    "meaning": "judul",
+    "category": "Kata benda"
+  },
+  {
+    "word": "처벌",
+    "roman": "cheobeol",
+    "meaning": "hukuman",
+    "category": "Kata benda"
+  }
+]

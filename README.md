@@ -18,7 +18,7 @@ Tailwind CSS, Lucide Icons, dan Firebase SDK dimuat dari CDN sehingga koneksi in
 ## Fitur
 
 - Papan Hangeul dengan 14 konsonan dasar, 5 konsonan tegang, 10 vokal dasar, dan 11 vokal gabungan; termasuk detail bunyi, contoh, panduan goresan, pelafalan, serta cara menyusun blok suku kata.
-- Kamus dengan 50 kosakata, pencarian instan, filter kategori, audio, dan penanda hafal.
+- Kamus dengan 1.100 kosakata Korea-Indonesia, pencarian instan, filter kategori, daftar bertahap, audio, dan penanda hafal. Data tambahan serta atribusinya tersedia di `data/` dengan lisensi CC BY-SA 4.0.
 - Pelajaran partikel dasar, contoh kalimat, dan pola S-O-K-P.
 - Flashcard, enam level kuis bertema dengan bank 9 soal per level (6 dipilih acak untuk tiap percobaan) dan penjelasan jawaban, latihan menyusun kalimat, dan empat dialog skenario dengan arahan serta tips.
 - Login Google opsional, sinkronisasi progres akun antarperangkat, serta penyimpanan lokal sebagai cadangan.
